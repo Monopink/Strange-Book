@@ -1,1 +1,1 @@
-# Strange-Book
+# A Strange Book
