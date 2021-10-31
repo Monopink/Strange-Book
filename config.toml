@@ -1,12 +1,16 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = "https://wiki.lioil.live/"
-title = "浆糊 Wiki"
 theme = "hugo-book"
 
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = true
+
 
 # Needed for mermaid/katex shortcodes
 [markup]
@@ -23,12 +27,16 @@ enableGitInfo = true
 [languages]
 [languages.zh]
   languageName = "中文"
+  languageCode = "zh"
   contentDir = "content.zh"
+  title = "浆糊 Wiki"
   weight = 1
 
 [languages.en]
   languageName = "English"
+  languageCode = "en"
   contentDir = "content.en"
+  title = "Jianghu Wiki"
   weight = 2
 
 [menu]
