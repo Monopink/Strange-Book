@@ -23,7 +23,7 @@ title: "隐私选项检查"
 
 [淘宝网站自动服务](https://service.taobao.com/support/main/selfHelpTools/cancelAccount/cancelAnnounce.htm?spm=a1zaa.8161610.0.0.3ec91585JEOHIc)
 
-[百度帐号登录](passport.baidu.com)
+[百度帐号登录](https://passport.baidu.com)
 
 ……
 

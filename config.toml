@@ -9,7 +9,7 @@ enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 
 # Needed for mermaid/katex shortcodes

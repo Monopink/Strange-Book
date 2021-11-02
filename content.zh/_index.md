@@ -1,5 +1,6 @@
 ---
-title: Introduction
+title: 欢迎
+bookToC: false
 type: docs
 ---
 
