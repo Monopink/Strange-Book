@@ -2,7 +2,7 @@
 weight: 10
 title: "工具导航"
 bookFlatSection: false
-bookCollapseSection: true
+bookCollapseSection: false
 bookHidden: false
 ---
 
@@ -41,6 +41,7 @@ table th:nth-of-type(3) {
 | <img loading="lazy" width="32px" alt="💔" src="https://saying.mingdawoo.com/static/img/common/ming.logo.png"> | [如是说](https://saying.mingdawoo.com/) | 找类似的名言诗句 |
 | <img loading="lazy" width="32px" alt="💔" src="	https://tool.mingdawoo.com/lang/nearby_word/static/img/common/bird.logo.png"> | [近邻词汇检索](https://tool.mingdawoo.com/lang/nearby_word/) | 查找中文近邻词 |
 | <img loading="lazy" width="32px" alt="💔" src="https://rhyme.niucodata.com/favicon.ico"> | [押韵灵感](https://rhyme.niucodata.com/) | 寻找押韵词句 |
+| 💔 | [王斌给您对对连](https://ai.binwang.me/couplet/) | 智能对对联 |
 | <img loading="lazy" width="32px" alt="💔" src="https://uranus-static.oss-accelerate.aliyuncs.com/xiezuocat/favicon.ico"> | [写作猫](https://xiezuocat.com/) | 帮你改文章 |
 
 

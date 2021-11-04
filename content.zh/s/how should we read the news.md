@@ -2,17 +2,9 @@
 weight: 10
 title: "我们该如何看新闻［转载］"
 bookFlatSection: false
-bookCollapseSection: true
+bookCollapseSection: false
 bookHidden: false
 ---
-
-> 原文标题：英美主流媒体盘点：为什么我不建议你看 VOA，CNN
->
-> 作者：Bates
->
-> 来源：[blog.shuziyimin.org](https://blog.shuziyimin.org/587)
->
-> 协议：署名-非商业性使用-相同方式共享 ©2021 CC BY-NC-SA 3.0
 
 
 ## 英美主流媒体盘点：为什么我不建议你看 VOA，CNN
@@ -373,3 +365,13 @@ http://www.businessinsider.com/most-and-least-biased-news-outlets-in-america-201
 https://medium.com/matter/buzzfeeds-jonah-peretti-goes-long-e98cf13160e7
 
 https://www.journalism.org/2014/10/21/political-polarization-media-habits/pj_14-10-21_mediapolarization-01/embed/#?secret=kT1iMXZ0z4
+
+---
+
+>原文标题：英美主流媒体盘点：为什么我不建议你看 VOA，CNN
+>
+>作者：Bates
+>
+>来源：[blog.shuziyimin.org](https://blog.shuziyimin.org/587)
+>
+>协议：署名-非商业性使用-相同方式共享 ©2021 CC BY-NC-SA 3.0

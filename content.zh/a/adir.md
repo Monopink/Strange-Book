@@ -2,7 +2,7 @@
 weight: 10
 title: "艺术导航"
 bookFlatSection: false
-bookCollapseSection: true
+bookCollapseSection: false
 bookHidden: false
 ---
 
@@ -31,6 +31,7 @@ table th:nth-of-type(3) {
 | <img loading="lazy" width="32px" alt="💔" src="https://static.zcool.cn/z/site/favicon.ico"> | [站酷](https://www.zcool.com.cn/) | 站酷 |
 | <img loading="lazy" width="32px" alt="💔" src="https://huaban.com/favicon.ico"> | [花瓣网](http://huaban.com/) | 花瓣网 |
 | <img loading="lazy" width="32px" alt="💔" src="https://bm.straightline.jp/static/image/favicon.ico"> | [Webデザインリンク集](http://bm.straightline.jp/) | 网站设计项目集 |
+| <img loading="lazy" width="32px" alt="💔" src=" 	https://www.webdesignmuseum.org/favicon/favicon-32x32.png"> | [Web Design Museum](https://www.webdesignmuseum.org/) | 网站设计博物馆 |
 | <img loading="lazy" width="32px" alt="💔" src="https://isux.tencent.com/static/images/favicon.ico	"> | [Tencent ISUX Design](https://isux.tencent.com/) | 腾讯社交用户体验设计主页 |
 | <img loading="lazy" width="32px" alt="💔" src="https://logopond.com/favicon.ico"> | [logopond](https://logopond.com/) | 图标设计集 |
 

@@ -2,7 +2,7 @@
 weight: 10
 title: "Git 笔记"
 bookFlatSection: false
-bookCollapseSection: true
+bookCollapseSection: false
 bookHidden: false
 ---
 
