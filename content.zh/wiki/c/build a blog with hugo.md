@@ -66,13 +66,13 @@ Hugo 不仅仅可以用来搭建博客，还有可以搭建公司主页、个人
 
 macOS 可以通过 Homebrew 进行安装
 
-```
+```shell
 brew install hugo
 ```
 
 Windows 可以通过 Scoop 安装
 
-```
+```shell
 scoop install hugo
 ```
 
@@ -86,7 +86,7 @@ Windows 需要将程序路径加入系统 `PATH`。
 
 输入以下命令确认 Hugo 已经成功安装。
 
-```
+```shell
 hugo version
 ```
 
@@ -98,19 +98,19 @@ hugo version
 
 在你的电脑里面选一个风水宝地，输入以下命令生成一个名为 `blog` 的网站项目。
 
-```
+```shell
 hugo new site blog
 ```
 
 Hugo 会在该目录下生成一个目录`blog`，进入该目录。
 
-```
+```shell
 cd blog
 ```
 
 将已经找好的主题文件解压放入 `blog/theme` 目录内，或通过 Git 克隆仓库。这里以一个名为 Paper 的主题为例，目录命名为 `hugo-paper`。
 
-```
+```shell
 git clone https://github.com/nanxiaobei/hugo-paper themes/hugo-paper
 ```
 
@@ -118,7 +118,7 @@ git clone https://github.com/nanxiaobei/hugo-paper themes/hugo-paper
 
 现在目录结构如下：
 
-```
+```shell
 blog
 ├── archetypes
 ├── content       # 存放网站的内容
@@ -138,7 +138,7 @@ blog
 
 编辑配置文件 `blog/config.toml` 确保主题被选用：
 
-```
+```toml
 theme = "hugo-paper"
 ```
 
@@ -150,13 +150,13 @@ theme = "hugo-paper"
 
 在 `blog` 目录下输入命令：
 
-```
+```shell
 hugo server
 ```
 
 看到输出有这样的信息的时候，就说明网站已经成功启动。
 
-```
+```shell
 ...
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
@@ -172,13 +172,13 @@ Hugo 默认部署在 1313 端口，如果该端口被占用，则会部署在其
 
 新建一个 `my-diary.md` 文件，或输入以下命令：
 
-```
+```shell
 hugo new post/my-diary.md
 ```
 
 打开文件，如果是 Hugo 帮你创建的话文件已经自动添加了一些元数据，也可以自己手动添加：
 
-```
+```yaml
 ---
 title: "my-diary"
 date: 2021-01-01T00:00:01+08:00
@@ -188,7 +188,7 @@ draft: true
 
 你也可以添加更多的内容丰富这篇文章：
 
-```
+```yaml
 ---
 title: "我的日记"
 date: 2021-01-01T00:00:01+08:00
@@ -225,7 +225,7 @@ author: "Dangel"
 
 在生成之前先完善好配置文件 `blog/config.toml`：
 
-```
+```toml
 baseURL = "https://smilonely.github.io/"
 # 网站链接
 
@@ -246,7 +246,7 @@ theme = "hugo-paper"
 
 完善好后输入命令：
 
-```
+```shell
 Hugo
 ```
 
@@ -256,13 +256,13 @@ Hugo
 
 在 `blog/public/index.html` 中查找 `css`，将查找结果：
 
-```
+```html
 <link rel="stylesheet" href="/sass/main.xxx.css">
 ```
 
 更改为：
 
-```
+```html
 <link rel="stylesheet" href="./sass/main.xxx.css">
 ```
 
@@ -274,7 +274,7 @@ JS 文件同理，保存后检查网页是否恢复正常。
 
 进入 `public` 目录，将这个目录下文件推送到你的 Github 仓库。
 
-```
+```shell
 cd public
 git init
 git remote add origin https://smilonely.github.io/
@@ -291,7 +291,7 @@ git push -u origin main
 
 在给网站加入了新的改动之后，再一次生成网站文件，并同步到仓库，这样你的网站就会更新这些变化。
 
-```
+```shell
 Hugo
 cd public
 git add .

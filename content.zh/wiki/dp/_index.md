@@ -1,6 +1,6 @@
 ---
-weight: 40
-title: "编程笔记"
+weight: 30
+title: "数字隐私"
 bookFlatSection: false
 bookCollapseSection: true
 bookHidden: false
