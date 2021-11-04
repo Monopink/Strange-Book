@@ -8,15 +8,16 @@ bookHidden: false
 
 <style>
 table th:first-of-type {
-    width: 58px;
+    min-width: 56px;
 }
 table th:nth-of-type(2) {
-    width: 32%;
+    width: 35%;
 }
 table th:nth-of-type(3) {
-    width: 60%;
+    width: 57%;
 }
 </style>
+
 
 
 ## 找东西
