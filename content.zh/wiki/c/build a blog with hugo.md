@@ -300,7 +300,7 @@ git commit -m "Update blog"
 git push
 ```
 
-现在你已经有了自己博客。
+现在你有自己的博客啦。
 
 ## 完成？这只是开始
 
