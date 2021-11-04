@@ -8,7 +8,7 @@ bookHidden: false
 
 <style>
 table th:first-of-type {
-    width: 8%;
+    width: 58px;
 }
 table th:nth-of-type(2) {
     width: 32%;
