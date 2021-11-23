@@ -38,6 +38,7 @@ table th:nth-of-type(3) {
 | ---- | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.anytexteditor.com/favicon-32x32.png"> | [AnyTextEditor](https://anytexteditor.com/) | 文字工具集合 英文为主 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.shi-ci.com/favicon.ico"> | [中华诗词](https://www.shi-ci.com/) | 收录了从先秦开始六万余首诗词 |
+| <img loading="lazy" width="32px" alt="💔" src="	https://wantwords.thunlp.org/static/image/zm2.ico"> | [万词王](https://wantwords.thunlp.org/home/) | 根据描述找词 |
 | <img loading="lazy" width="32px" alt="💔" src="https://saying.mingdawoo.com/static/img/common/ming.logo.png"> | [如是说](https://saying.mingdawoo.com/) | 找类似的名言诗句 |
 | <img loading="lazy" width="32px" alt="💔" src="	https://tool.mingdawoo.com/lang/nearby_word/static/img/common/bird.logo.png"> | [近邻词汇检索](https://tool.mingdawoo.com/lang/nearby_word/) | 查找中文近邻词 |
 | <img loading="lazy" width="32px" alt="💔" src="https://rhyme.niucodata.com/favicon.ico"> | [押韵灵感](https://rhyme.niucodata.com/) | 寻找押韵词句 |
@@ -49,6 +50,7 @@ table th:nth-of-type(3) {
 
 |  |  |  |
 | ---- | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="	https://mathsolver.microsoft.com/favicon.ico"> | [Microsoft Math Solver](https://mathsolver.microsoft.com/) | 科学计算器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.mail-tester.com/img/favicon.png"> | [Newsletters spam test by mail](https://www.mail-tester.com/) | 测试你发出邮件的垃圾邮件匹配度 |
 | <img loading="lazy" width="32px" alt="💔" src="https://imgflip.com/favicon.ico"> | [Imgflip](https://imgflip.com) | 表情包制作工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.savefrom.net/apple-touch-icon.png"> | [savefrom.net](https://savefrom.net/) | 下载网站视频 |
@@ -59,8 +61,16 @@ table th:nth-of-type(3) {
 
 |  |  |  |
 | ---- | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="	https://www.merriam-webster.com/favicon.ico](https://www.merriam-webster.com/) | 韦伯斯特英文词典 |
 | <img loading="lazy" width="32px" alt="💔" src="	https://obj.pipi.cn/festatic/piaofang/moviepro/favicon.ico"> | [猫眼专业版](https://piaofang.maoyan.com/dashboard) | 中国实时票房 |
 | 💔 | [Name Age Calculator](http://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Ashley) | 美国生日与名字统计，或许对你取英文名有帮助 |
+
+## 写作
+
+|  |  |  |
+| ---- | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://hackmd.io/favicon.png"> | [HackMD](https://hackmd.io/) | 在线 Markdown 编辑器 可以协同 |
+| <img loading="lazy" width="32px" alt="💔" src="https://stackedit.io/static/landing/favicon.ico"> | [StackEdit](https://stackedit.io/app) | 在线 Markdown 编辑器 |
 
 ## 资源社区
 

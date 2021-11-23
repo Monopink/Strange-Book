@@ -8,9 +8,9 @@ bookHidden: false
 
 ## 你将会获得
 
-一个轻巧、漂亮、自定义而且容易部署的静态网页博客；依托于 Github Pages 服务，整个过程完全免费。 适用于 Windows、Linux、FreeBSD 和 macOS。
+一个轻巧、漂亮、自定义而且容易部署的静态网页博客；依托于 GitHub Pages 服务，整个过程完全免费。 适用于 Windows、Linux、FreeBSD 和 macOS。
 
-博客的网页（文章内容）使用 `Markdown` 语法撰写生成，在一般情况下网站的每次生成部署，都需要一台已经做好环境配置和相关准备的电脑。也可以利用 Github Actions 达到只需一个浏览器、随写随更新的效果。
+博客的网页（文章内容）使用 `Markdown` 语法撰写生成，在一般情况下网站的每次生成部署，都需要一台已经做好环境配置和相关准备的电脑。也可以利用 GitHub Actions 达到只需一个浏览器、随写随更新的效果。
 
 ## 关于 Hugo
 
@@ -30,13 +30,13 @@ Hugo 不仅仅可以用来搭建博客，还有可以搭建公司主页、个人
 
 过程中需要用到 Git 环境，也可以用 GitHub Desktop。本文以 Git 为例。
 
-### Github
+### GitHub
 
-注册一个 Github 帐号。
+注册一个 GitHub 帐号。
 
 ### 确定主题（Themes）
 
-与 Hexo（另一个静态网页生成工具） 不同的是，Hugo 没有附带默认主题，需要另外加入主题否则无法生成网站。在以下网站或通过搜索引擎、Github 找到一个你喜欢的主题。
+与 Hexo（另一个静态网页生成工具） 不同的是，Hugo 没有附带默认主题，需要另外加入主题否则无法生成网站。在以下网站或通过搜索引擎、GitHub 找到一个你喜欢的主题。
 
 [Hugo Themes](https://themes.gohugo.io/)
 
@@ -213,9 +213,9 @@ author: "Dangel"
 
 ## 部署网站
 
-### 新建 Github 仓库
+### 新建 GitHub 仓库
 
-在 Github 中新建一个名为 `<你的用户名>.github.io` 的仓库，用于存放网页文件。
+在 GitHub 中新建一个名为 `<你的用户名>.github.io` 的仓库，用于存放网页文件。
 
 这里假设用户名为 `smilonely` 部署好后网站的链接为 `smilonely.github.io`。
 
@@ -270,9 +270,9 @@ JS 文件同理，保存后检查网页是否恢复正常。
 
 *这个问题我还没找出原因，找到之后我会更新这个地方。*
 
-### 推送到 Github
+### 推送到 GitHub
 
-进入 `public` 目录，将这个目录下文件推送到你的 Github 仓库。
+进入 `public` 目录，将这个目录下文件推送到你的 GitHub 仓库。
 
 ```shell
 cd public
