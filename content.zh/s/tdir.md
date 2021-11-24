@@ -50,7 +50,7 @@ table th:nth-of-type(3) {
 
 |  |  |  |
 | ---- | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="	https://mathsolver.microsoft.com/favicon.ico"> | [Microsoft Math Solver](https://mathsolver.microsoft.com/) | 科学计算器 |
+| <img loading="lazy" width="32px" alt="💔" src="https://mathsolver.microsoft.com/favicon.ico"> | [Microsoft Math Solver](https://mathsolver.microsoft.com/) | 科学计算器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.mail-tester.com/img/favicon.png"> | [Newsletters spam test by mail](https://www.mail-tester.com/) | 测试你发出邮件的垃圾邮件匹配度 |
 | <img loading="lazy" width="32px" alt="💔" src="https://imgflip.com/favicon.ico"> | [Imgflip](https://imgflip.com) | 表情包制作工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.savefrom.net/apple-touch-icon.png"> | [savefrom.net](https://savefrom.net/) | 下载网站视频 |
@@ -61,7 +61,7 @@ table th:nth-of-type(3) {
 
 |  |  |  |
 | ---- | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="	https://www.merriam-webster.com/favicon.ico> | [Merriam-Webster](https://www.merriam-webster.com/) | 韦伯斯特英文词典 |
+| <img loading="lazy" width="32px" alt="💔" src="	https://www.merriam-webster.com/favicon.ico"> | [Merriam-Webster](https://www.merriam-webster.com/) | 韦伯斯特英文词典 |
 | <img loading="lazy" width="32px" alt="💔" src="	https://obj.pipi.cn/festatic/piaofang/moviepro/favicon.ico"> | [猫眼专业版](https://piaofang.maoyan.com/dashboard) | 中国实时票房 |
 | 💔 | [Name Age Calculator](http://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Ashley) | 美国生日与名字统计，或许对你取英文名有帮助 |
 
