@@ -252,24 +252,6 @@ Hugo
 
 网站文件会生成在 `blog/public` 中。
 
-打开主页文件 `blog/public/index.html` 看一看效果是否正常，如果出现丢失样式等问题则需要修改该文件 CSS 和 JS 文件引用位置。
-
-在 `blog/public/index.html` 中查找 `css`，将查找结果：
-
-```html
-<link rel="stylesheet" href="/sass/main.xxx.css">
-```
-
-更改为：
-
-```html
-<link rel="stylesheet" href="./sass/main.xxx.css">
-```
-
-JS 文件同理，保存后检查网页是否恢复正常。
-
-*这个问题我还没找出原因，找到之后我会更新这个地方。*
-
 ### 推送到 GitHub
 
 进入 `public` 目录，将这个目录下文件推送到你的 GitHub 仓库。
