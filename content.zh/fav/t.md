@@ -1,6 +1,6 @@
 ---
-weight: 10
-title: "工具导航"
+weight: 20
+title: "工具"
 bookFlatSection: false
 bookCollapseSection: false
 bookHidden: false
