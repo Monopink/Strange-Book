@@ -9,7 +9,7 @@ bookHidden: false
 <style>
 table th:first-of-type {
     min-width: 56px;
-    padding-bottom: 0px;
+    padding-bottom: 0px;!important
 }
 table th:nth-of-type(2) {
     width: 35%;
