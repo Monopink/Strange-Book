@@ -27,11 +27,11 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://theinitium.com/favicon.ico"> | [端傳媒](https://theinitium.com) | 端传媒 部分付费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://s.wsj.net/img/meta/wsj_favicon-32x32.png"> | [华尔街日报中文网](https://cn.wsj.com/) | 华尔街日报中文网 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.bbc.com/apple-touch-icon.png"> | [BBC News 中文](https://www.bbc.com/zhongwen/simp) | BBC News 中文 |
-| <img loading="lazy" width="32px" alt="💔" src="http://www.ftchinese.com/favicon.ico"> | [FT 中文网](http://www.ftchinese.com/) | 金融时报中文 需付费 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.ftchinese.com/favicon.ico"> | [FT 中文网](http://www.ftchinese.com/) | 金融时报中文 需付费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.ap.org/assets/images/framework/favicon-32x32.png"> | [Associated Press](https://www.ap.org) | 美联社 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.reuters.com/pf/resources/icons/favicon.ico?d=55"> | [Reuters](https://www.reuters.com) | 路透社 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.bbc.com/favicon.ico"> | [BBC](https://www.bbc.com) | BBC |
-| <img loading="lazy" width="32px" alt="💔" src="	https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos&format=png&width=32&height=32"> | [Financial Times](https://www.ft.com/) | 金融时报 需付费 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos&format=png&width=32&height=32"> | [Financial Times](https://www.ft.com/) | 金融时报 需付费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://s.wsj.net/img/meta/wsj_favicon-32x32.png"> | [The Wall Street Journal](https://www.wsj.com/) | 华尔街日报 |
 
 ## 个人博客
@@ -43,13 +43,13 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.williamlong.info/images/apple-touch-icon.png"> | [月光博客](http://www.williamlong.info/) | 月光博客：关注互联网和搜索引擎的IT科技博客 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.gaohaipeng.com/favicon.ico"> | [高海鹏老师的博客](https://www.gaohaipeng.com) | 高海鹏老师的博客：一个热爱网络的小学教师 |
 | <img loading="lazy" width="32px" alt="💔" src="https://joshworth.com/jpw/wp-content/uploads/2019/09/logosmall19-32.png"> | [Josh Worth Art & Design](https://joshworth.com) | Josh Worth 的关于艺术和设计的博客 |
-| <img loading="lazy" width="32px" alt="💔" src="	https://www.star31s.com/favicon.ico"> | [roustar31 的博客](https://www.star31s.com/) | roustar31 的博客 |
-| <img loading="lazy" width="32px" alt="💔" src="http://xuying.org/favicon.ico"> | [阁楼](http://xuying.org) | 阁楼：我写作是为了光阴流逝使我心安 |
-| <img loading="lazy" width="32px" alt="💔" src="http://www.yelanjing.com/favicon.ico"> | [夜阑静](http://www.yelanjing.com) | 夜阑静的博客 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.star31s.com/favicon.ico"> | [roustar31 的博客](https://www.star31s.com/) | roustar31 的博客 |
+| <img loading="lazy" width="32px" alt="💔" src="https://xuying.org/favicon.ico"> | [阁楼](http://xuying.org) | 阁楼：我写作是为了光阴流逝使我心安 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.yelanjing.com/favicon.ico"> | [夜阑静](http://www.yelanjing.com) | 夜阑静的博客 |
 | <img loading="lazy" width="32px" alt="💔" src="https://laod.cn/wp-content/uploads/2021/03/favicon.ico"> | [老 D 博客](https://laod.cn) | 老 D 博客：关注谷歌服务，分享互联网精神！ |
-| <img loading="lazy" width="32px" alt="💔" src="	https://d2fan.com/favicon.ico"> | [時間停止](https://d2fan.com/) | Frost 的博客 |
-| <img loading="lazy" width="32px" alt="💔" src="	https://blorg.cn/favicon.ico"> | [博客联盟](https://blorg.cn/) | 新博客联盟 收录了中国各地的博客 |
-| <img loading="lazy" width="32px" alt="💔" src="	https://zgboke.org/favicon.ico"> | [中国博客联盟](https://zgboke.org) | 老博客联盟 收录了中国各地的博客 |
+| <img loading="lazy" width="32px" alt="💔" src="https://d2fan.com/favicon.ico"> | [時間停止](https://d2fan.com/) | Frost 的博客 |
+| <img loading="lazy" width="32px" alt="💔" src="https://blorg.cn/favicon.ico"> | [博客联盟](https://blorg.cn/) | 新博客联盟 收录了中国各地的博客 |
+| <img loading="lazy" width="32px" alt="💔" src="https://zgboke.org/favicon.ico"> | [中国博客联盟](https://zgboke.org) | 老博客联盟 收录了中国各地的博客 |
 | 💔 | [Melody Fallen](https://melodyfallen.github.io/) | 脑子一热建博客的结果 |
 
 ## 艺术
@@ -58,7 +58,7 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://image.uisdc.com/wp-content/uploads/2018/05/uisdc-ico-apple.jpg"> | [优设网](https://www.uisdc.com) | 设计文章、教程、素材 |
 | <img loading="lazy" width="32px" alt="💔" src="https://arting365.com/favicon.ico)"> | [Arting365](https://arting365.com/) | 创意内容 |
-| <img loading="lazy" width="32px" alt="💔" src="	https://m.topys.cn/favicon.ico"> | [TOPYS.](https://www.topys.cn) | 创意内容 |
+| <img loading="lazy" width="32px" alt="💔" src="https://m.topys.cn/favicon.ico"> | [TOPYS.](https://www.topys.cn) | 创意内容 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.thetype.com/wp-content/themes/tib_style/images/favicon/favicon-32x32.png"> | [The Type](https://thetype.com) | 文字、设计、文化 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.dujingtou.com/favicon.ico"> | [毒镜头](https://www.dujingtou.com) | 摄影、相机 |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.shejipi.com/favicon-32x32.png"> | [设计癖](https://www.shejipi.com/) | 关注设计产品 |
@@ -69,7 +69,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico"> | [少数派](https://sspai.com) | 科技、电子产品和生活 |
-| <img loading="lazy" width="32px" alt="💔" src="	https://m.huxiu.com/favicon.ico"> | [虎嗅网](https://www.huxiu.com) | 商业科技资讯 |
+| <img loading="lazy" width="32px" alt="💔" src="https://m.huxiu.com/favicon.ico"> | [虎嗅网](https://www.huxiu.com) | 商业科技资讯 |
 | <img loading="lazy" width="32px" alt="💔" src="https://livesino.net/favicon.ico"> | [LiveSino](https://livesino.net) | 微软信仰中心 |
 
 ## 社区
@@ -78,8 +78,8 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.v2ex.com/favicon.ico"> | [V2EX](https://www.v2ex.com) | 讨论代码与科技 |
 | <img loading="lazy" width="32px" alt="💔" src="https://dsdlove.com/favicon.ico"> | [Hires 音乐](https://dsdlove.com) | 讨论无损音乐与发烧器材 |
-| <img loading="lazy" width="32px" alt="💔" src="http://www.penbbs.com/favicon.ico"> | [钢笔论坛](http://www.penbbs.com/) | 钢笔论坛 |
-| <img loading="lazy" width="32px" alt="💔" src="	https://bbs.letitfly.me/favicon.ico"> | [LetITFly BBS](https://bbs.letitfly.me) | 讨论 Android |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.penbbs.com/favicon.ico"> | [钢笔论坛](http://www.penbbs.com/) | 钢笔论坛 |
+| <img loading="lazy" width="32px" alt="💔" src="https://bbs.letitfly.me/favicon.ico"> | [LetITFly BBS](https://bbs.letitfly.me) | 讨论 Android |
 
 ## 学习
 
@@ -112,7 +112,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://taiko.uk/taiko/assets-201202-p1/img/favicon.png"> | [太鼓ウェブ](https://taiko.bui.pm/) | 免注册的太鼓达人 可以和好友联机 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.yikm.net/f.png"> | [Play NES Games](https://www.yikm.net/) | 在线 NES 游戏 |
 | <img loading="lazy" width="32px" alt="💔" src="https://agar.io/favicon.ico"> | [Ager.io](https://agar.io/) | 在线版「球球大作战」 |
-| <img loading="lazy" width="32px" alt="💔" src="http://radio.garden/public/icons/ios/ios-appicon-76-76.png"> | [Radio Garden](http://radio.garden/) | 收听全世界的电台 |
+| <img loading="lazy" width="32px" alt="💔" src="https://radio.garden/public/icons/ios/ios-appicon-76-76.png"> | [Radio Garden](http://radio.garden/) | 收听全世界的电台 |
 | 💔 | [俄罗斯方块](https://chvin.github.io/react-tetris/) | 在线俄罗斯方块 |
 
 ## 有趣但无用的网站
@@ -121,11 +121,11 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://geektyper.com/favicon.ico"> | [GEEKTyper](https://geektyper.com/) | 随便敲键盘就能出代码的黑客模拟器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://joshworth.com/jpw/wp-content/uploads/2019/09/logosmall19-32.png"> | [If the Moon Were Only 1 Pixel](http://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) | 如果月球只有 1 像素的模拟宇宙 |
-| <img loading="lazy" width="32px" alt="💔" src="http://www.25os.com/favicon.ico"> | [WebOS 平台](http://www.25os.com/) | 一个网页桌面 |
-| <img loading="lazy" width="32px" alt="💔" src="http://www.windows93.net/favicon.ico"> | [WINDOWS93](http://www.windows93.net/) | 体验 Winodws 93 |
-| <img loading="lazy" width="32px" alt="💔" src="http://driveandlisten.herokuapp.com/favicon.ico"> | [Drive & Listen](https://driveandlisten.herokuapp.com/) | 体验在某个城市里驾车的感觉 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.25os.com/favicon.ico"> | [WebOS 平台](http://www.25os.com/) | 一个网页桌面 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.windows93.net/favicon.ico"> | [WINDOWS93](http://www.windows93.net/) | 体验 Winodws 93 |
+| <img loading="lazy" width="32px" alt="💔" src="https://driveandlisten.herokuapp.com/favicon.ico"> | [Drive & Listen](https://driveandlisten.herokuapp.com/) | 体验在某个城市里驾车的感觉 |
 | <img loading="lazy" width="32px" alt="💔" src="https://strobe.cool/favicon.ico"> | [Strobe Illusion](https://strobe.cool/) | 会让你出现幻觉的图像 |
-| <img loading="lazy" width="32px" alt="💔" src="http://www.ifanjian.net/favicon.ico"> | [装 B 神器](http://zb.fanjian.net/) | 一些奇怪图片的生成器 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.ifanjian.net/favicon.ico"> | [装 B 神器](http://zb.fanjian.net/) | 一些奇怪图片的生成器 |
 
 
 
