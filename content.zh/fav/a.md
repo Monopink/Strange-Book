@@ -14,7 +14,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.behance.net/favicon.ico"> | [Behance](https://www.behance.net/) | 设计分享交流平台 平面、插画居多 |
-| <img loading="lazy" width="32px" alt="💔" src="https://dribbble.com/"> | [Dribbble](https://dribbble.com/) | 设计分享交流平台 UI、动效居多 |
+| <img loading="lazy" width="32px" alt="💔" src="https://cdn.dribbble.com/assets/favicon-b38525134603b9513174ec887944bde1a869eb6cd414f4d640ee48ab2a15a26b.ico"> | [Dribbble](https://dribbble.com/) | 设计分享交流平台 UI、动效居多 |
 | <img loading="lazy" width="32px" alt="💔" src="https://s.pinimg.com/webapp/favicon-54a5b2af.png	"> | [Pinterest](https://www.pinterest.com/) | Pinterest |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.fubiz.net/wp-content/themes/fubiz/assets/images/favicons/news-32x32.png"> | [Fubiz Media](http://www.fubiz.net/) | 设计分享交流平台 |
 | <img loading="lazy" width="32px" alt="💔" src="https://static.zcool.cn/z/site/favicon.ico"> | [站酷](https://www.zcool.com.cn/) | 站酷 |
@@ -49,7 +49,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.pexels.com/favicon.ico"> | [Pexels](https://www.pexels.com/) | 免费无版权的图片视频库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://canva.com/favicon.ico"> | [Canva 版权图库](https://www.canva.com/photos/) | 图片素材库 部分收费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://foter.com/favicon.ico"> | [Foter](https://foter.com/) | 免费无版权的图库 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.hippopx.com/"> | [Hippopx](https://www.hippopx.com/) | 免费无版权的摄影图库 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.hippopx.com/public/css/favicon.ico"> | [Hippopx](https://www.hippopx.com/) | 免费无版权的摄影图库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pixabay.com/favicon.ico"> | [pixabay](https://pixabay.com/) | 图片素材库 部分收费 |
 
 ## 图标
@@ -66,7 +66,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.freebiesbug.com/favicon.ico"> | [Freebiesbug](https://freebiesbug.com) | 免费 Mockup、图标、UI 资源 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.graphberry.com"> | [Graphberry](https://www.graphberry.com) | 免费 Mockup 资源 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.graphberry.com/favicon.ico"> | [Graphberry](https://www.graphberry.com) | 免费 Mockup 资源 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.vecteezy.com/favicon.ico"> | [Vecteezy](https://www.vecteezy.com) | Mockup 资源 |
 | <img loading="lazy" width="32px" alt="💔" src="abc"> | [Premiumpixels](https://www.premiumpixels.com) | Mockup、图标资源 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.pixeden.com/favicon.ico"> | [Pixeden](https://www.pixeden.com) | Mockup、网页资源 |

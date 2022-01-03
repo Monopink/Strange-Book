@@ -113,7 +113,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.yikm.net/f.png"> | [Play NES Games](https://www.yikm.net/) | 在线 NES 游戏 |
 | <img loading="lazy" width="32px" alt="💔" src="https://agar.io/favicon.ico"> | [Ager.io](https://agar.io/) | 在线版「球球大作战」 |
 | <img loading="lazy" width="32px" alt="💔" src="https://radio.garden/public/icons/ios/ios-appicon-76-76.png"> | [Radio Garden](http://radio.garden/) | 收听全世界的电台 |
-| 💔 | [俄罗斯方块](https://chvin.github.io/react-tetris/) | 在线俄罗斯方块 |
+| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [俄罗斯方块](https://chvin.github.io/react-tetris/) | 在线俄罗斯方块 |
 
 ## 有趣但无用的网站
 
