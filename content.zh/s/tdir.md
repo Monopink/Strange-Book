@@ -13,10 +13,10 @@ bookHidden: false
 
 |  |  |  |
 | ---- | ---- | ---- |
-| <div style="width=24px;height=59px"><img loading="lazy" alt="💔" src="https://search.chongbuluo.com/favicon.ico"></div> | [快搜](https://search.chongbuluo.com/) | 搜索引擎集合 |
-| <img loading="lazy" width="24px" alt="💔" src="https://www.jiumodiary.com/images/apple/apple-57.png"> | [鸠摩搜索](https://www.jiumodiary.com/) | 找电子书 |
+| <img loading="lazy" width="32px" alt="💔" src="https://search.chongbuluo.com/favicon.ico"> | [快搜](https://search.chongbuluo.com/) | 搜索引擎集合 |
+| <img loading="lazy" width="28px" alt="💔" src="https://www.jiumodiary.com/images/apple/apple-57.png"> | [鸠摩搜索](https://www.jiumodiary.com/) | 找电子书 |
 | <img loading="lazy" width="24px" alt="💔" src="https://cdn.iplaysoft.com/ips/icon/favicon-v1/favicon.ico"> | [异次元软件世界](https://www.iplaysoft.com) | 分享好用的软件 |
-| <img loading="lazy" width="24px" alt="💔" src="https://img3.appinn.net/static/wp-content/uploads/Appinn-icon-32.jpg"> | [小众软件](https://www.appinn.com) | 分享好用的软件 |
+| <img loading="lazy" width="20px" alt="💔" src="https://img3.appinn.net/static/wp-content/uploads/Appinn-icon-32.jpg"> | [小众软件](https://www.appinn.com) | 分享好用的软件 |
 | <img loading="lazy" width="24px" alt="💔" src="https://giphy.com/static/img/icons/apple-touch-icon-120px.png"> | [GIPHY](https://giphy.com/) | 找表情动图 |
 | <img loading="lazy" width="24px" alt="💔" src="http://mp3clan.com/favicon.ico"> | [mp3Clan](http://mp3clan.com) | MP3 音乐资源 |
 | <img loading="lazy" width="24px" alt="💔" src="https://magi.com/assets/icons/favicon-32x32.png"> | [Magi](https://magi.com/) | Ai 搜索引擎，尝试在搜索时直接返回答案 |
