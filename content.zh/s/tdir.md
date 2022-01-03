@@ -12,7 +12,7 @@ bookHidden: false
 ## 找东西
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://search.chongbuluo.com/favicon.ico"> | [快搜](https://search.chongbuluo.com/) | 搜索引擎集合 |
 | <img loading="lazy" width="28px" alt="💔" src="https://www.jiumodiary.com/images/apple/apple-57.png"> | [鸠摩搜索](https://www.jiumodiary.com/) | 找电子书 |
 | <img loading="lazy" width="24px" alt="💔" src="https://cdn.iplaysoft.com/ips/icon/favicon-v1/favicon.ico"> | [异次元软件世界](https://www.iplaysoft.com) | 分享好用的软件 |
