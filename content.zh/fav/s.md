@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: "冲浪导航"
+title: "冲浪"
 bookFlatSection: false
 bookCollapseSection: false
 bookHidden: false
@@ -12,7 +12,7 @@ bookHidden: false
 ## 信息聚合
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.feeeedin.com/favicon.ico"> | [FEEEED.in](https://www.feeeedin.com/) | 飞叮：全球设计资讯聚合 |
 | <img loading="lazy" width="32px" alt="💔" src="https://tophub.today/favicon.ico"> | [今日热榜](https://tophub.today/) | 国内媒体、社交平台热点瀑布流聚合 |
 | <img loading="lazy" width="32px" alt="💔" src="https://momoyu.cc/favicon32.ico"> | [摸摸鱼热榜](https://momoyu.cc) | 国内媒体、社交平台热点聚合 |
@@ -22,7 +22,7 @@ bookHidden: false
 ## 综合
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.thepaper.cn/favicon.ico"> | [澎湃新闻](https://www.thepaper.cn) | 澎湃新闻 |
 | <img loading="lazy" width="32px" alt="💔" src="https://theinitium.com/favicon.ico"> | [端傳媒](https://theinitium.com) | 端传媒 部分付费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://s.wsj.net/img/meta/wsj_favicon-32x32.png"> | [华尔街日报中文网](https://cn.wsj.com/) | 华尔街日报中文网 |
@@ -37,7 +37,7 @@ bookHidden: false
 ## 个人博客
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://program-think.blogspot.com/favicon.ico"> | [编程随想的博客](https://program-think.blogspot.com/) | 编程随想的博客 |
 | <img loading="lazy" width="32px" alt="💔" src="https://shuziyimin.org/favicon.ico"> | [数字移民](https://blog.shuziyimin.org) | 数字移民：肉体和精神，总要有一个是自由的。 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.williamlong.info/images/apple-touch-icon.png"> | [月光博客](http://www.williamlong.info/) | 月光博客：关注互联网和搜索引擎的IT科技博客 |
@@ -55,7 +55,7 @@ bookHidden: false
 ## 艺术
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://image.uisdc.com/wp-content/uploads/2018/05/uisdc-ico-apple.jpg"> | [优设网](https://www.uisdc.com) | 设计文章、教程、素材 |
 | <img loading="lazy" width="32px" alt="💔" src="https://arting365.com/favicon.ico)"> | [Arting365](https://arting365.com/) | 创意内容 |
 | <img loading="lazy" width="32px" alt="💔" src="	https://m.topys.cn/favicon.ico"> | [TOPYS.](https://www.topys.cn) | 创意内容 |
@@ -67,7 +67,7 @@ bookHidden: false
 ## 科技
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico"> | [少数派](https://sspai.com) | 科技、电子产品和生活 |
 | <img loading="lazy" width="32px" alt="💔" src="	https://m.huxiu.com/favicon.ico"> | [虎嗅网](https://www.huxiu.com) | 商业科技资讯 |
 | <img loading="lazy" width="32px" alt="💔" src="https://livesino.net/favicon.ico"> | [LiveSino](https://livesino.net) | 微软信仰中心 |
@@ -75,7 +75,7 @@ bookHidden: false
 ## 社区
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.v2ex.com/favicon.ico"> | [V2EX](https://www.v2ex.com) | 讨论代码与科技 |
 | <img loading="lazy" width="32px" alt="💔" src="https://dsdlove.com/favicon.ico"> | [Hires 音乐](https://dsdlove.com) | 讨论无损音乐与发烧器材 |
 | <img loading="lazy" width="32px" alt="💔" src="http://www.penbbs.com/favicon.ico"> | [钢笔论坛](http://www.penbbs.com/) | 钢笔论坛 |
@@ -84,7 +84,7 @@ bookHidden: false
 ## 学习
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.doyoudo.com/favicon.ico"> | [doyoudo](https://www.doyoudo.com/) | 创意软件学习教程 |
 | <img loading="lazy" width="32px" alt="💔" src="https://qwerty.liumingye.cn/favicon-32x32.png"> | [Qwerty Learner](https://qwerty.liumingye.cn/) | 单词输入练习 |
 | <img loading="lazy" width="32px" alt="💔" src="https://static.typingclub.com/m/corp2/img/favicon.png"> | [TypingClub](https://www.typingclub.com/) | 打字键位练习 |
@@ -92,15 +92,15 @@ bookHidden: false
 ## 影剧点评
 
 |  |  |  |
-| ---- | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.rottentomatoes.com/favicon.ico"> | [Rotten Tomatoes](https://www.rottentomatoes.com/) | 烂番茄 |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://m.imdb.com/favicon.ico"> | [IMDB](https://www.imdb.com) | IMDB |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.rottentomatoes.com/favicon.ico"> | [Rotten Tomatoes](https://www.rottentomatoes.com/) | 烂番茄 |
 | <img loading="lazy" width="32px" alt="💔" src="https://m.douban.com/favicon.ico"> | [豆瓣电影](https://movie.douban.com/) | 豆瓣电影 |
 
 ## 品牌营销
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://m.digitaling.com/favicon.ico"> | [数英网](https://www.digitaling.com) | 数字媒体及职业招聘 |
 | <img loading="lazy" width="32px" alt="💔" src="https://static.toodaylab.com/static/favicon.ico"> | [理想生活实验室](https://www.toodaylab.com) | 关注消费和品牌 |
 | <img loading="lazy" width="32px" alt="💔" src="https://socialbeta.com/favicon.ico"> | [SocialBeta](https://socialbeta.com/) | 品牌营销快讯 |
@@ -108,7 +108,7 @@ bookHidden: false
 ## 在线娱乐&游戏
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://taiko.uk/taiko/assets-201202-p1/img/favicon.png"> | [太鼓ウェブ](https://taiko.bui.pm/) | 免注册的太鼓达人 可以和好友联机 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.yikm.net/f.png"> | [Play NES Games](https://www.yikm.net/) | 在线 NES 游戏 |
 | <img loading="lazy" width="32px" alt="💔" src="https://agar.io/favicon.ico"> | [Ager.io](https://agar.io/) | 在线版「球球大作战」 |
@@ -118,7 +118,7 @@ bookHidden: false
 ## 有趣但无用的网站
 
 |  |  |  |
-| ---- | ---- | ---- |
+| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://geektyper.com/favicon.ico"> | [GEEKTyper](https://geektyper.com/) | 随便敲键盘就能出代码的黑客模拟器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://joshworth.com/jpw/wp-content/uploads/2019/09/logosmall19-32.png"> | [If the Moon Were Only 1 Pixel](http://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) | 如果月球只有 1 像素的模拟宇宙 |
 | <img loading="lazy" width="32px" alt="💔" src="http://www.25os.com/favicon.ico"> | [WebOS 平台](http://www.25os.com/) | 一个网页桌面 |

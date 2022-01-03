@@ -1,7 +1,7 @@
 ---
 weight: 10
-title: "sample"
+title: "生产力"
 bookFlatSection: false
 bookCollapseSection: true
-bookHidden: true
+bookHidden: false
 ---
