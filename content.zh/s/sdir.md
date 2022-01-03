@@ -6,17 +6,7 @@ bookCollapseSection: false
 bookHidden: false
 ---
 
-<style>
-table th:first-of-type {
-    min-width: 56px;
-}
-table th:nth-of-type(2) {
-    width: 35%;
-}
-table th:nth-of-type(3) {
-    width: 57%;
-}
-</style>
+{{< tables-style >}}
 
 
 ## 信息聚合
@@ -38,7 +28,6 @@ table th:nth-of-type(3) {
 | <img loading="lazy" width="32px" alt="💔" src="https://s.wsj.net/img/meta/wsj_favicon-32x32.png"> | [华尔街日报中文网](https://cn.wsj.com/) | 华尔街日报中文网 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.bbc.com/apple-touch-icon.png"> | [BBC News 中文](https://www.bbc.com/zhongwen/simp) | BBC News 中文 |
 | <img loading="lazy" width="32px" alt="💔" src="http://www.ftchinese.com/favicon.ico"> | [FT 中文网](http://www.ftchinese.com/) | 金融时报中文 需付费 |
-| <img loading="lazy" width="32px" alt="💔" src="https://static01.nyt.com/favicon.ico"> | [纽约时报中文网](https://cn.nytimes.com/) | 纽约时报中文网 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.ap.org/assets/images/framework/favicon-32x32.png"> | [Associated Press](https://www.ap.org) | 美联社 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.reuters.com/pf/resources/icons/favicon.ico?d=55"> | [Reuters](https://www.reuters.com) | 路透社 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.bbc.com/favicon.ico"> | [BBC](https://www.bbc.com) | BBC |
