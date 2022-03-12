@@ -30,7 +30,6 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://wantwords.thunlp.org/static/image/zm2.ico"> | [万词王](https://wantwords.thunlp.org/home/) | 根据描述找词 |
 | <img loading="lazy" width="32px" alt="💔" src="https://saying.mingdawoo.com/static/img/common/ming.logo.png"> | [如是说](https://saying.mingdawoo.com/) | 找类似的名言诗句 |
 | <img loading="lazy" width="32px" alt="💔" src="https://tool.mingdawoo.com/lang/nearby_word/static/img/common/bird.logo.png"> | [近邻词汇检索](https://tool.mingdawoo.com/lang/nearby_word/) | 查找中文近邻词 |
-| <img loading="lazy" width="32px" alt="💔" src="https://rhyme.niucodata.com/favicon.ico"> | [押韵灵感](https://rhyme.niucodata.com/) | 寻找押韵词句 |
 | 💔 | [王斌给您对对连](https://ai.binwang.me/couplet/) | 智能对对联 |
 | <img loading="lazy" width="32px" alt="💔" src="https://uranus-static.oss-accelerate.aliyuncs.com/xiezuocat/favicon.ico"> | [写作猫](https://xiezuocat.com/) | 帮你改文章 |
 
@@ -43,7 +42,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.mail-tester.com/img/favicon.png"> | [Newsletters spam test by mail](https://www.mail-tester.com/) | 测试你发出邮件的垃圾邮件匹配度 |
 | <img loading="lazy" width="32px" alt="💔" src="https://imgflip.com/favicon.ico"> | [Imgflip](https://imgflip.com) | 表情包制作工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.savefrom.net/apple-touch-icon.png"> | [savefrom.net](https://savefrom.net/) | 下载网站视频 |
-| <img loading="lazy" width="32px" alt="💔" src="https://besticon-demo.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/) | 获取网站图标 |
+| <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon.herokuapp.com/) | 获取网站图标 |
 | 💔 | [手写体](http://59.108.48.27/flexifont-chn/home/) | 生成你的手写字体 |
 
 ## 数据参考
