@@ -52,7 +52,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/favicon.png"> | [ChinaRailTransit](https://ivysauro.github.io/CNRT/)｜[轨道交通支付方式](https://ivysauro.github.io/CNRT/data/Pie)｜[公交支付方式](https://ivysauro.github.io/CNRT/data/BusPay)| 另一角度看地铁 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.binbase.com/tmp/binbase/images/1.ico"> | [BinBase](https://www.binbase.com/search.html)) | 信用卡 Bin 信息查询 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.binbase.com/tmp/binbase/images/1.ico"> | [BinBase](https://www.binbase.com/search.html) | 信用卡 Bin 信息查询 |
 | <img loading="lazy" width="32px" alt="💔" src="https://obj.pipi.cn/festatic/piaofang/moviepro/favicon.ico"> | [猫眼专业版](https://piaofang.maoyan.com/dashboard) | 中国实时票房 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [Name Age Calculator](http://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Ashley) | 美国生日与名字统计，或许对你取英文名有帮助 |
 

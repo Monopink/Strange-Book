@@ -28,15 +28,15 @@ bookHidden: false
 }
 
 .markdown table th:nth-of-type(2) {
-    width: 30%;
+    width: 27%;
 }
 
 .markdown table th:nth-of-type(3) {
-    width: 47%;
+    width: 44%;
 }
 
 .markdown table th:nth-of-type(4) {
-    width: 15%;
+    width: 20%;
 }
 </style>
 
@@ -44,15 +44,15 @@ bookHidden: false
 
 表格第四列图标表示该应用程序所支持的平台
 
-| 图标 | 替代文字 | 系统 |
-| :----: | ---- | ---- |
+| 图标 | 文字 | 系统 |
+| :----: | :----: | ---- |
 | <img loading="lazy" width="32px" alt="W" src="https://fo.lioil.live/list/logo-windows.svg"> | W | Windows |
 | <img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-macos.svg"> | M | macOS |
 | <img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-linux.svg"> | L | Linux |
 | <img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-ios.svg"> | I | iOS |
 | <img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-android.svg"> | A | Android |
 
-*在图标无法加载时显示替代文字
+*在图标无法加载时将显示文字
 
 ## 学习
 
