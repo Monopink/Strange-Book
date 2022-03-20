@@ -36,7 +36,7 @@ bookHidden: false
 }
 
 .markdown table th:nth-of-type(4) {
-    width: 27%;
+    width: 17%;
 }
 </style>
 
