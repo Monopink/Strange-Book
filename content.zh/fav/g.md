@@ -14,6 +14,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://webbrowsertools.com/includes/img/32.png"> | [WebBrowserTools](https://webbrowsertools.com/) | Web 工具集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://whatismyipaddress.com/favicon.ico> | [WhatIsMyIpAddress](https://whatismyipaddress.com/) | IP 查询 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.whatsmyua.info/favicon.ico"> | [What's my user agent?](https://www.whatsmyua.info/) | 浏览器 UA 查询 |
 | <img loading="lazy" width="32px" alt="💔" src="https://iknowwhatyoudownload.com/assets/img/utorrent2.png"> | [I KNOW](https://iknowwhatyoudownload.com/) | 同 IP 下 BT 传输记录 |
 | <img loading="lazy" width="32px" alt="💔" src="https://haveibeenpwned.com/favicon.ico"> | [have i been pwned?](https://haveibeenpwned.com/) | 检查密码是否泄露 |
@@ -62,4 +63,4 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.gravatar.com/favicon.ico"> | [Gravator](https://www.gravatar.com/) | 在各个网站同步头像 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.libravatar.org/static/img/nobody/32.png"> | [Gravator](https://www.libravatar.org/) | 在各个网站同步头像 开源项目 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.libravatar.org/static/img/nobody/32.png"> | [Libravatar](https://www.libravatar.org/) | 在各个网站同步头像 开源项目 |
