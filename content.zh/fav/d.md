@@ -28,7 +28,7 @@ bookHidden: false
 }
 
 .markdown table th:nth-of-type(2) {
-    width: 27%;
+    width: 30%;
 }
 
 .markdown table th:nth-of-type(3) {
@@ -36,7 +36,7 @@ bookHidden: false
 }
 
 .markdown table th:nth-of-type(4) {
-    width: 20%;
+    width: 27%;
 }
 </style>
 
