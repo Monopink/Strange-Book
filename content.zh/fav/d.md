@@ -6,39 +6,7 @@ bookCollapseSection: false
 bookHidden: false
 ---
 
-<style>
-.markdown {
-    line-height: 28px !important;
-}
-
-.markdown table tr th,.markdown table tr td {
-    padding-top: 12px !important;
-    padding-bottom: 12px !important;
-}
-
-.markdown img {
-    width: 28px !important;
-    height: auto !important;
-    vertical-align: top !important;
-}
-
-
-.markdown table th:first-of-type {
-    min-width: 56px;
-}
-
-.markdown table th:nth-of-type(2) {
-    width: 30%;
-}
-
-.markdown table th:nth-of-type(3) {
-    width: 44%;
-}
-
-.markdown table th:nth-of-type(4) {
-    width: 18%;
-}
-</style>
+{{< lists-style >}}
 
 ## 图例
 
