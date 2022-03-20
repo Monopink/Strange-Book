@@ -72,6 +72,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 免费可商用 |
 | <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源宋体](https://github.com/adobe-fonts/source-han-serif) | 免费可商用 |
 | <img loading="lazy" width="32px" alt="💔" src="http://jikasei.me/favicon.ico"> | [思源柔黑](http://jikasei.me/font/genjyuu/) | 基于思源黑体制作的圆体 免费可商用 |
+| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [资源黑体](https://github.com/CyanoHao/Resource-Han-Rounded) | 基于思源黑体制作的圆体 免费可商用 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic) | 基于 Iosevka 与思源黑体 适用于中英混合的编程字体 |
 
 ## Mockup
