@@ -9,10 +9,12 @@ bookHidden: false
 {{< tables-style >}}
 
 
-## 信息聚合
+## 信息
 
 |  |  |  |
 | :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://matters.news/_next/static/media/favicon-32x32.5e03b2c1.png"> | [Matters](https://matters.news/) | 分布式信息平台 |
+| <img loading="lazy" width="32px" alt="💔" src="https://staykeen.com/assets/favicon.ico"> | [Keen](https://staykeen.com/) | 来自 Google 的英文兴趣浏览网站 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.feeeedin.com/favicon.ico"> | [FEEEED.in](https://www.feeeedin.com/) | 飞叮：全球设计资讯聚合 |
 | <img loading="lazy" width="32px" alt="💔" src="https://tophub.today/favicon.ico"> | [今日热榜](https://tophub.today/) | 国内媒体、社交平台热点瀑布流聚合 |
 | <img loading="lazy" width="32px" alt="💔" src="https://momoyu.cc/favicon32.ico"> | [摸摸鱼热榜](https://momoyu.cc) | 国内媒体、社交平台热点聚合 |
@@ -42,6 +44,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://shuziyimin.org/favicon.ico"> | [数字移民](https://blog.shuziyimin.org) | 数字移民：肉体和精神，总要有一个是自由的。 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.williamlong.info/images/apple-touch-icon.png"> | [月光博客](http://www.williamlong.info/) | 月光博客：关注互联网和搜索引擎的IT科技博客 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.gaohaipeng.com/favicon.ico"> | [高海鹏老师的博客](https://www.gaohaipeng.com) | 高海鹏老师的博客：一个热爱网络的小学教师 |
+| <img loading="lazy" width="32px" alt="💔" src="https://joshworth.com/jpw/wp-content/uploads/2019/09/logosmall19-32.png"> | [Ariel Roffe](https://arielroffe.quest/favicon.png) | Ariel Roffe 的像素风小游戏博客 |
 | <img loading="lazy" width="32px" alt="💔" src="https://joshworth.com/jpw/wp-content/uploads/2019/09/logosmall19-32.png"> | [Josh Worth Art & Design](https://joshworth.com) | Josh Worth 的关于艺术和设计的博客 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.star31s.com/favicon.ico"> | [roustar31 的博客](https://www.star31s.com/) | roustar31 的博客 |
 | <img loading="lazy" width="32px" alt="💔" src="https://xuying.org/favicon.ico"> | [阁楼](http://xuying.org) | 阁楼：我写作是为了光阴流逝使我心安 |
@@ -77,6 +80,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.v2ex.com/favicon.ico"> | [V2EX](https://www.v2ex.com) | 讨论代码与科技 |
+| <img loading="lazy" width="32px" alt="💔" src="http://www.cnprint.org/favicon.ico"> | [CPC 中文印刷社区](http://www.cnprint.org/) | 设计排印社区 |
 | <img loading="lazy" width="32px" alt="💔" src="https://dsdlove.com/favicon.ico"> | [Hires 音乐](https://dsdlove.com) | 讨论无损音乐与发烧器材 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.penbbs.com/favicon.ico"> | [钢笔论坛](http://www.penbbs.com/) | 钢笔论坛 |
 | <img loading="lazy" width="32px" alt="💔" src="https://bbs.letitfly.me/favicon.ico"> | [LetITFly BBS](https://bbs.letitfly.me) | 讨论 Android |
@@ -93,9 +97,16 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://m.imdb.com/favicon.ico"> | [IMDB](https://www.imdb.com) | IMDB |
+| <img loading="lazy" width="32px" alt="💔" src="https://m.imdb.com/favicon.ico"> | [IMDB](https://www.imdb.com) | 互联网电影资料库 其实也有电视剧和节目 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.rottentomatoes.com/favicon.ico"> | [Rotten Tomatoes](https://www.rottentomatoes.com/) | 烂番茄 |
-| <img loading="lazy" width="32px" alt="💔" src="https://m.douban.com/favicon.ico"> | [豆瓣电影](https://movie.douban.com/) | 豆瓣电影 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.themoviedb.org/assets/2/favicon-32x32-543a21832c8931d3494a68881f6afcafc58e96c5d324345377f3197a37b367b5.png"> | [TMDB](https://www.themoviedb.org/) | 由社区建设的影剧资料库 |
+
+## 消费
+
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.kickstarter.com/favicon.ico"> | [Kickstarter](https://www.kickstarter.com/) | 众筹网站 |
+| <img loading="lazy" width="32px" alt="💔" src="https://g2.iggcdn.com/assets/favicon/favicon-32-4dfcba8dfbe628f9065885bcfd163ad0e7ff6629c72ec0efdd839c081bb5608e.png"> | [Kickstarter](https://www.indiegogo.com/) | 另一个众筹网站 |
 
 ## 品牌营销
 

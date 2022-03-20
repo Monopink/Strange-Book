@@ -1,5 +1,5 @@
 ---
-weight: 40
+weight: 80
 title: "云与建站"
 bookFlatSection: false
 bookCollapseSection: false
@@ -8,6 +8,11 @@ bookHidden: false
 
 {{< tables-style >}}
 
+## 云
+
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.backblaze.com/favicon.ico"> | [Backblaze](https://www.backblaze.com) | 云存储服务 |
 
 ## 域名
 

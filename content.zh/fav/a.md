@@ -28,7 +28,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.awwwards.com/favicon.ico"> | [awwwards.](https://www.awwwards.com) | 关注 Web 设计的奖项 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.awwwards.com/favicon.ico"> | [awwwards.](https://www.awwwards.com) | 关注互联网上优秀设计、创意的奖项 |
 
 ## 颜色
 
@@ -48,6 +48,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://unsplash.com/favicon-32x32.png"> | [Unsplash](https://unsplash.com/) | 免费无版权的摄影图库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.pexels.com/favicon.ico"> | [Pexels](https://www.pexels.com/) | 免费无版权的图片视频库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://canva.com/favicon.ico"> | [Canva 版权图库](https://www.canva.com/photos/) | 图片素材库 部分收费 |
+| <img loading="lazy" width="32px" alt="💔" src="https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg"> | [IconPark](https://iconpark.oceanengine.com/illustrations) | 字节跳动插画库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://foter.com/favicon.ico"> | [Foter](https://foter.com/) | 免费无版权的图库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.hippopx.com/public/css/favicon.ico"> | [Hippopx](https://www.hippopx.com/) | 免费无版权的摄影图库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pixabay.com/favicon.ico"> | [pixabay](https://pixabay.com/) | 图片素材库 部分收费 |
@@ -58,8 +59,20 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://icons8.com/vue-static/landings/primary-landings/favs/icons8_fav_32%C3%9732.png"> | [ICONS8](https://icons8.com/) | 矢量图标库 部分收费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.iconfinder.com/static/img/favicons/favicon-32x32.png"> | [Iconfinder](https://www.iconfinder.com/) | 矢量图标库 部分收费 |
-| <img loading="lazy" width="32px" alt="💔" src="https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico"> | [iconfont](https://www.iconfont.cn) | 阿里巴巴矢量图标库 |
+| <img loading="lazy" width="32px" alt="💔" src="https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico"> | [IconFont](https://www.iconfont.cn) | 阿里巴巴矢量图标库 |
+| <img loading="lazy" width="32px" alt="💔" src="https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg"> | [IconPark](https://iconpark.oceanengine.com/official) | 字节跳动图标库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"> | [Noun Project](https://thenounproject.com/) | 矢量图标库 有限授权 部分收费 |
+| <img loading="lazy" width="32px" alt="💔" src="https://brandslogos.com/wp-content/uploads/resources/favicon.ico"> | [Brands Logos](https://brandslogos.com/) | 品牌商标图标集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://pictogram2.com/favicons/favicon_57.png"> | [Huhan Pictogram](https://pictogram2.com/) | 「紧急出口小人」皮特托图标集 |
+
+## 字体
+
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 免费可商用 |
+| <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源宋体](https://github.com/adobe-fonts/source-han-serif) | 免费可商用 |
+| <img loading="lazy" width="32px" alt="💔" src="http://jikasei.me/favicon.ico"> | [思源柔黑](http://jikasei.me/font/genjyuu/) | 基于思源黑体制作的圆体 免费可商用 |
+| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic) | 基于 Iosevka 与思源黑体 适用于中英混合的编程字体 |
 
 ## Mockup
 
