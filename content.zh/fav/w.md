@@ -32,8 +32,6 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://namelimit.com/assets/img/favicons/favicon-32x32.png"> | [Namelimit](https://namelimit.com/subdomain/) | 网站子域查询 |
-| <img loading="lazy" width="32px" alt="💔" src="https://cdn.tool.dute.me/assets/images/web/favicon.ico"> | [DNS 查询](https://www.dute.org/dns) | 独特工具箱 DNS 查询 |
 | <img loading="lazy" width="32px" alt="💔" src="https://ssl.gstatic.com/pagespeed/insights/ui/logo/favicon_48.png"> | [PageSpeed Insights](https://pagespeed.web.dev/) | 网站性能测试 |
-|  |  |  |
 | <img loading="lazy" width="32px" alt="💔" src="https://csstools.chinaz.com/favicon.ico"> | [站长之家](https://tool.chinaz.com/) | 站长之家 站长工具 |
-| <img loading="lazy" width="32px" alt="💔" src="https://cdn.tool.dute.me/assets/images/web/favicon.ico"> | [站长工具](https://www.dute.org/webmaster) | 独特工具箱 站长工具 |
+| <img loading="lazy" width="32px" alt="💔" src="https://cdn.tool.dute.me/assets/images/web/favicon.ico"> | [站长工具](https://www.dute.org/webmaster)｜[DNS 查询](https://www.dute.org/dns) | 独特工具箱 站长工具 |
