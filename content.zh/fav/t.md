@@ -28,6 +28,9 @@ bookHidden: false
 | <img loading="lazy" width="18px" alt="💔" src="https://www.anytexteditor.com/favicon-32x32.png"> | [AnyTextEditor](https://anytexteditor.com/) | 文字工具集合 英文为主 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.merriam-webster.com/favicon.ico"> | [Merriam-Webster](https://www.merriam-webster.com/) | 韦伯斯特英文词典 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.urbandictionary.com/favicon.ico"> | [uRban](https://www.urbandictionary.com/) | 不正经的美国俚语词典 |
+| <img loading="lazy" width="32px" alt="💔" src="https://ludwig.guru/l-favicon-32x32.png?3a7cefc109162422373b764db145c010"> | [Ludwig](https://ludwig.guru/ | 英语语料库 有限免费|
+| <img loading="lazy" width="32px" alt="💔" src="https://linggle.com/favicon.ico"> | [Linggle](https://linggle.com/) | 英语语料库 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.english-corpora.org/favicon.ico"> | [English Corpora](https://www.english-corpora.org/) | 英语语料库 需注册|
 | <img loading="lazy" width="32px" alt="💔" src="https://www.shi-ci.com/favicon.ico"> | [中华诗词](https://www.shi-ci.com/) | 收录了从先秦开始六万余首诗词 |
 | <img loading="lazy" width="32px" alt="💔" src="https://wantwords.thunlp.org/static/image/zm2.ico"> | [万词王](https://wantwords.thunlp.org/home/) | 根据描述找词 |
 | <img loading="lazy" width="32px" alt="💔" src="https://saying.mingdawoo.com/static/img/common/ming.logo.png"> | [如是说](https://saying.mingdawoo.com/) | 找类似的名言诗句 |
@@ -60,7 +63,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://rsdsd.cc/favicon.ico"> | [榕树音乐论坛](https://rsdsd.cc) | 无损音乐资源（无限期关闭） |
+| <img loading="lazy" width="32px" alt="💔" src="https://rsdsd.cc/favicon.ico"> | [榕树音乐论坛](https://rsdsd.cc) | 无损音乐资源 |
 
 ## 游戏&平台
 

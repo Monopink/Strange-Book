@@ -25,5 +25,5 @@ bookHidden: false
 匹配规则：
 
 ```
-^https?://?[a-z0-9.]*[/\.](?<![/\.](exmail|weixin|wechat|wx[0-9]*|om|weread)\.)qq\.com(?!\.)
+^https?://[a-z0-9.]*(?<=[/\.])(?<![/\.](exmail|wx[0-9]*|weixin|wechat|weread|wetest|om|ai)\.)qq\.com(/|$)
 ```
