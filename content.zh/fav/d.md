@@ -19,14 +19,15 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-linux.svg"> | L | Linux |
 | <img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-ios.svg"> | I | iOS |
 | <img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-android.svg"> | A | Android |
+| | N/A | 不适用 |
 
 *在图标无法加载时将显示文字
 
 ## 聚合下载
 
-|  |  |  |
-| :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://portableapps.com/favicon.ico"> | [PortableApps](https://portableapps.com/) | 各种应用的便携版 |
+|  |  |  |  |
+| :----: | ---- | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://portableapps.com/favicon.ico"> | [PortableApps](https://portableapps.com/) | 各种应用的便携版 | N/A |
 
 ## 学习
 
