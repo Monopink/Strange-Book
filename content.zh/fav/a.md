@@ -47,7 +47,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.pexels.com/favicon.ico"> | [Pexels](https://www.pexels.com/) | 免费无版权的图片视频库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://canva.com/favicon.ico"> | [Canva 版权图库](https://www.canva.com/photos/) | 图片素材库 部分收费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg"> | [IconPark](https://iconpark.oceanengine.com/illustrations) | 字节跳动插画库 |
-| <img loading="lazy" width="32px" alt="💔" src="https://undraw.co/favicon-32x32.png"> | [illustrations|unDraw](https://undraw.co/illustrations) | 开源可调主题色的插画库 |
+| <img loading="lazy" width="32px" alt="💔" src="https://undraw.co/favicon-32x32.png"> | [illustrations unDraw](https://undraw.co/illustrations) | 开源可调主题色的插画库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://foter.com/favicon.ico"> | [Foter](https://foter.com/) | 免费无版权的图库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.hippopx.com/public/css/favicon.ico"> | [Hippopx](https://www.hippopx.com/) | 免费无版权的摄影图库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pixabay.com/favicon.ico"> | [pixabay](https://pixabay.com/) | 图片素材库 部分收费 |

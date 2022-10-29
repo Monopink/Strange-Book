@@ -142,7 +142,6 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://geektyper.com/favicon.ico"> | [GEEKTyper](https://geektyper.com/) | 随便敲键盘就能出代码的黑客模拟器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://joshworth.com/jpw/wp-content/uploads/2019/09/logosmall19-32.png"> | [If the Moon Were Only 1 Pixel](http://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) | 如果月球只有 1 像素的模拟宇宙 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.25os.com/favicon.ico"> | [WebOS 平台](http://www.25os.com/) | 一个网页桌面 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.windows93.net/favicon.ico"> | [WINDOWS93](http://www.windows93.net/) | 体验 Winodws 93 |
 | <img loading="lazy" width="32px" alt="💔" src="https://driveandlisten.herokuapp.com/favicon.ico"> | [Drive & Listen](https://driveandlisten.herokuapp.com/) | 体验在某个城市里驾车的感觉 |
 | <img loading="lazy" width="32px" alt="💔" src="https://strobe.cool/favicon.ico"> | [Strobe Illusion](https://strobe.cool/) | 会让你出现幻觉的图像 |
