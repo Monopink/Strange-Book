@@ -45,6 +45,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://u.tools/favicon.ico"> | [uTools](https://u.tools/) | 效率插件集合 | <img loading="lazy" width="32px" alt="W" src="https://fo.lioil.live/list/logo-windows.svg">/<img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-macos.svg">/<img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-linux.svg"> |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [LittleBigMouse](https://github.com/mgth/LittleBigMouse) | 在不同 DPI 的屏幕间顺畅移动鼠标 | <img loading="lazy" width="32px" alt="W" src="https://fo.lioil.live/list/logo-windows.svg"> |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [Monitorian](https://github.com/emoacht/Monitorian) | 单独调节每个输出显示器的亮度等参数 | <img loading="lazy" width="32px" alt="W" src="https://fo.lioil.live/list/logo-windows.svg"> |
+| <img loading="lazy" width="32px" alt="💔" src="https://steampp.net/favicon.ico"> | [Watt Toolkit](https://steampp.net/) | 本地 Steam 客户端工具箱 | <img loading="lazy" width="32px" alt="W" src="https://fo.lioil.live/list/logo-windows.svg">/<img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-macos.svg">/<img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-linux.svg">/<img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-android.svg"> |
 
 ## Geek
 

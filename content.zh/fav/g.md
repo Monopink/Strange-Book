@@ -33,6 +33,7 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://jsbin.com/favicon.ico"> | [JS Bin](https://jsbin.com/) | HTML 编辑器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://hexed.it/img/apple-touch-icon.png"> | [hexed.it](https://hexed.it/) | 二进制编辑器 |
+| <img loading="lazy" width="32px" alt="💔" src="https://uncss-online.com/static/img/favicon.ico"> | [UnCSS Online!](https://uncss-online.com/) | 扫描无用 CSS |
 
 ## Word
 
@@ -56,7 +57,15 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://distrochooser.de/icon.svg"> | [Distro Chooser](https://distrochooser.de/) | 选择适合你的 Linux |
-| <img loading="lazy" width="32px" alt="💔" src="https://regexlearn.com/favicon.svg"> | [RegexLearn](https://regexlearn.com/) | 在一系列测试中学会正则表达式 |
+| <img loading="lazy" width="32px" alt="💔" src="https://regexlearn.com/favicon.svg"> | [RegexLearn](https://regexlearn.com/) | 通过测试中掌握正则表达式 |
+| <img loading="lazy" width="32px" alt="💔" src="https://learnlayout.com/images/logo.png"> | [Learn CSS Layout](https://learnlayout.com/) | 通过测试中掌握基础 CSS |
+| <img loading="lazy" width="32px" alt="💔" src="http://flexboxfroggy.com/favicon.ico"> | [Flexbox Freggy](http://flexboxfroggy.com/) | 用 CSS 让小青蛙跳到荷叶上 |
+
+## 乐趣
+
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://cssbattle.dev/images/logo-square.png"> | [CSSBattle](https://cssbattle.dev/) | CSS 挑战比拼 |
 
 ## 其他
 

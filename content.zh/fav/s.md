@@ -78,6 +78,13 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://monkeytype.com/images/favicon/favicon.ico"> | [Monkeytype](https://monkeytype.com/) | 英文文章输入练习 |
 | <img loading="lazy" width="32px" alt="💔" src="https://static.typingclub.com/m/corp2/img/favicon.png"> | [TypingClub](https://www.typingclub.com/) | 打字键位练习 |
 
+## 社交
+
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://combo.staticflickr.com/pw/images/favicons/favicon-32.png"> | [Flickr](https://www.flickr.com/) | 图片社交平台 |
+| <img loading="lazy" width="32px" alt="💔" src="https://static-cdn.mastodon.social/packs/media/icons/favicon-32x32-28ae8fdbb92732ba1545ec0b0602e3ca.png"> | [Mastodon](https://mastodon.social/) | 长毛象 分布式微博 |
+
 ## 影剧点评
 
 |  |  |  |
@@ -91,10 +98,11 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.kickstarter.com/favicon.ico"> | [Kickstarter](https://www.kickstarter.com/) | 众筹网站 |
-| <img loading="lazy" width="32px" alt="💔" src="https://g2.iggcdn.com/assets/favicon/favicon-32-4dfcba8dfbe628f9065885bcfd163ad0e7ff6629c72ec0efdd839c081bb5608e.png"> | [Kickstarter](https://www.indiegogo.com/) | 另一个众筹网站 |
-| <img loading="lazy" width="32px" alt="💔" src="https://jscache.ontheroadstore.com/64x64.png"> | [公路商店](https://hs.ontheroadstore.com/) | 购物平台 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.iliangcang.com/favicon.ico"> | [良仓](https://www.iliangcang.com/) | 购物平台 |
-| <img loading="lazy" width="32px" alt="💔" src="https://m.modian.com/favicon.ico"> | [摩点](https://www.modian.com/) | 众筹平台 |
+| <img loading="lazy" width="32px" alt="💔" src="https://g2.iggcdn.com/assets/favicon/favicon-32-4dfcba8dfbe628f9065885bcfd163ad0e7ff6629c72ec0efdd839c081bb5608e.png"> | [Kickstarter](https://www.indiegogo.com/) | 众筹网站 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.iliangcang.com/favicon.ico"> | [良仓](https://www.iliangcang.com/) | 设计不错的日用百货 |
+| <img loading="lazy" width="32px" alt="💔" src="https://m.modian.com/favicon.ico"> | [摩点](https://www.modian.com/) | 文创商品 |
+| <img loading="lazy" width="32px" alt="💔" src="https://jscache.ontheroadstore.com/64x64.png"> | [公路商店](https://hs.ontheroadstore.com/) | 冷门商品 价格较贵 |
+| <img loading="lazy" width="32px" alt="💔" src=" 	https://www.apple.com/favicon.ico"> | [Apple Gift Card](https://www.apple.com/shop/buy-giftcard/giftcard) | Apple 礼品卡 |
 
 ## 个人博客
 
@@ -118,12 +126,15 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.nytimes.com/games/wordle/images/NYT-Wordle-Icon-32.png"> | [Wordle](https://www.nytimes.com/games/wordle/index.html) | 有意思的英文单词游戏 |
-| <img loading="lazy" width="32px" alt="💔" src="https://a.poki.com/img/favicon.ico"> | [Poki](https://poki.com/) | 在线游戏 有很多经典手机游戏 |
+| <img loading="lazy" width="32px" alt="💔" src="https://a.poki.com/img/favicon.ico"> | [Poki](https://poki.com/) | 游戏集 有很多经典手机游戏 |
 | <img loading="lazy" width="32px" alt="💔" src="https://taiko.uk/taiko/assets-201202-p1/img/favicon.png"> | [太鼓ウェブ](https://taiko.bui.pm/) | 免注册的太鼓达人 可以和好友联机 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.yikm.net/f.png"> | [Play NES Games](https://www.yikm.net/) | 在线 NES 游戏 |
+| <img loading="lazy" width="32px" alt="💔" src="https://oskarstalberg.com/Townscaper/TemplateData/favicon.ico"> | [Townscaper](https://oskarstalberg.com/Townscaper/) | 北欧小镇生成器 |
+| <img loading="lazy" width="32px" alt="💔" src="http://www.heyzxz.me/favicons-rytEElp9W/favicon-32x32.png"> | [PCOL](http://www.heyzxz.me/pcol/) | 台球 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.yikm.net/f.png"> | [Play NES Games](https://www.yikm.net/) | NES 游戏集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://agar.io/favicon.ico"> | [Ager.io](https://agar.io/) | 在线版「球球大作战」 |
 | <img loading="lazy" width="32px" alt="💔" src="https://radio.garden/public/icons/ios/ios-appicon-76-76.png"> | [Radio Garden](http://radio.garden/) | 收听全世界的电台 |
-| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [俄罗斯方块](https://chvin.github.io/react-tetris/) | 在线俄罗斯方块 |
+| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [俄罗斯方块](https://chvin.github.io/react-tetris/) | 俄罗斯方块 |
+| <img loading="lazy" width="32px" alt="💔" src="https://thisissand.com/favicon.ico"> | [This is sand](https://thisissand.com/ ) | 堆沙子 |
 
 ## 有趣但无用的网站
 
@@ -137,6 +148,11 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://strobe.cool/favicon.ico"> | [Strobe Illusion](https://strobe.cool/) | 会让你出现幻觉的图像 |
 
 
+## 成人
 
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://theporndude.com/favicon-32x32.png"> | [Porn Dude](https://theporndude.com/) | 色情网站集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://xslist.org/favicon.ico"> | [Xsliste](https://xslist.org/) | 以图搜寻 |
 
 

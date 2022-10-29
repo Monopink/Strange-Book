@@ -19,7 +19,7 @@ bookHidden: false
 | <img loading="lazy" width="20px" alt="💔" src="https://img3.appinn.net/static/wp-content/uploads/Appinn-icon-32.jpg"> | [小众软件](https://www.appinn.com) | 分享好用的软件 |
 | <img loading="lazy" width="32px" alt="💔" src="https://giphy.com/static/img/icons/apple-touch-icon-120px.png"> | [GIPHY](https://giphy.com/) | 找表情动图 |
 | <img loading="lazy" width="32px" alt="💔" src="https://mp3clan.com/favicon.ico"> | [mp3Clan](http://mp3clan.com) | MP3 音乐资源 |
-| <img loading="lazy" width="32px" alt="💔" src="https://magi.com/assets/icons/favicon-32x32.png"> | [Magi](https://magi.com/) | Ai 搜索引擎，尝试在搜索时直接返回答案 |
+| <img loading="lazy" width="32px" alt="💔" src="https://magi.com/assets/icons/favicon-32x32.png"> | [Magi](https://magi.com/) | Ai 搜索引擎，尝试在搜索时直接返回答案 暂停服务 |
 
 ## 文字&语言
 
@@ -71,8 +71,9 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://steamdb.info/favicon.ico"> | [SteamDB](https://steamdb.info/) | Steam 数据查询 |
 | <img loading="lazy" width="32px" alt="💔" src="https://steam.design/favicon-32x32.png"> | [Steam.Design](https://steam.design/) | Steam 资料背景展柜生成工具 |
-| <img loading="lazy" width="32px" alt="💔" src="https://steamdj.com/favicon.ico"> | [SteamDj](http://steamdj.com/favicon.ico) | Steam 社区等级升级美化服务 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.steamcardexchange.net/include/design/img/favicon_blue.png"> | [Steam Card Exchange](https://www.steamcardexchange.net/) | Steam 集换卡交换 |
 | <img loading="lazy" width="32px" alt="💔" src="https://metroforsteam.com/assets/favicon.ico"> | [Metro](https://metroforsteam.com) | Steam 客户端皮肤 Metro 制作工具 |
+| <img loading="lazy" width="32px" alt="💔" src="https://steam.tools/favicon.ico"> | [Steam Tools Hub](https://steam.tools/) | Steam 装扮、交易、社区相关工具集 |
 
 
 
