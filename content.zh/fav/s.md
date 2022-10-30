@@ -140,6 +140,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://daftpunk.cafe/favicon-32x32.png"> | [Daft Punk Cafe](https://daftpunk.cafe/) | 粉丝制作的Daft Punk 纪念网站 |
 | <img loading="lazy" width="32px" alt="💔" src="https://geektyper.com/favicon.ico"> | [GEEKTyper](https://geektyper.com/) | 随便敲键盘就能出代码的黑客模拟器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://joshworth.com/jpw/wp-content/uploads/2019/09/logosmall19-32.png"> | [If the Moon Were Only 1 Pixel](http://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) | 如果月球只有 1 像素的模拟宇宙 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.windows93.net/favicon.ico"> | [WINDOWS93](http://www.windows93.net/) | 体验 Winodws 93 |
