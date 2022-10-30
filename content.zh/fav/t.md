@@ -20,6 +20,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://giphy.com/static/img/icons/apple-touch-icon-120px.png"> | [GIPHY](https://giphy.com/) | 找表情动图 |
 | <img loading="lazy" width="32px" alt="💔" src="https://mp3clan.com/favicon.ico"> | [mp3Clan](http://mp3clan.com) | MP3 音乐资源 |
 | <img loading="lazy" width="32px" alt="💔" src="https://magi.com/assets/icons/favicon-32x32.png"> | [Magi](https://magi.com/) | Ai 搜索引擎，尝试在搜索时直接返回答案 暂停服务 |
+| <img loading="lazy" width="32px" alt="💔" src="https://33.agilestudio.cn/favicon.ico"> | [33台词](https://33.agilestudio.cn/) | 找影视剧中出现的台词 |
 
 ## 文字&语言
 
