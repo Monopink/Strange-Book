@@ -32,6 +32,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://jsbin.com/favicon.ico"> | [JS Bin](https://jsbin.com/) | HTML 编辑器 |
+| <img loading="lazy" width="32px" alt="💔" src="https://regex101.com/static/assets/icon-32.png"> | [regular101](https://regex101.com/) | 正则表达式编辑器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://hexed.it/img/apple-touch-icon.png"> | [hexed.it](https://hexed.it/) | 二进制编辑器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://uncss-online.com/static/img/favicon.ico"> | [UnCSS Online!](https://uncss-online.com/) | 扫描无用 CSS |
 

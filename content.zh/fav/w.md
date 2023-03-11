@@ -19,7 +19,8 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://domainr.com/_/images/icons/favicon-32x32.png"> | [Domain Research](https://domainr.com/) | Whois 及类似域名查询 |
-| <img loading="lazy" width="32px" alt="💔" src="https://whois.domaintools.com/favicon.ico"> | [Whois Lookup](https://whois.domaintools.com/) | DomainTools Whois 查询 |
+| <img loading="lazy" width="32px" alt="💔" src="https://whois.domaintools.com/favicon.ico"> | [Whois Lookup](https://whois.domaintools.com/) | 域名查询 |
+| <img loading="lazy" width="32px" alt="💔" src="https://namebeta.com/favicon.ico"> | [NameBeta](https://namebeta.com/) | 域名查询 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.namesilo.com/favicon.ico"> | [NameSilo](https://www.namesilo.com/) | 域名注册 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.gandi.net/favicon.ico"> | [Gandi](https://gandi.net/) | 小众域名注册 |
 | <img loading="lazy" width="32px" alt="💔" src="https://csstools.chinaz.com/favicon.ico"> | [域名删除时间](https://tool.chinaz.com/DomainDel/) | 站长工具 域名删除时间查询 |

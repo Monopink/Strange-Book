@@ -44,11 +44,11 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://mathsolver.microsoft.com/favicon.ico"> | [Microsoft Math Solver](https://mathsolver.microsoft.com/) | 科学计算器 |
+| <img loading="lazy" width="32px" alt="💔" src="https://mathsolver.microsoft.com/favicon.ico"> | [Microsoft Math Solver](https://gamepad-tester.com/) | 科学计算器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.mail-tester.com/img/favicon.png"> | [Newsletters spam test by mail](https://www.mail-tester.com/) | 测试你发出邮件的垃圾邮件匹配度 |
 | <img loading="lazy" width="32px" alt="💔" src="https://imgflip.com/favicon.ico"> | [Imgflip](https://imgflip.com) | 表情包制作工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.savefrom.net/apple-touch-icon.png"> | [savefrom.net](https://savefrom.net/) | 下载网站视频 |
-| <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon.herokuapp.com/) | 获取网站图标 |
+| <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)｜[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
 | 💔 | [手写体](http://59.108.48.27/flexifont-chn/home/) | 生成你的手写字体 |
 
 ## 数据
