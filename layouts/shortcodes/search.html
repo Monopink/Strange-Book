@@ -11,26 +11,46 @@
 <input type="text" id="keyword" name="keyword"/>
 <br />
 <button onclick="searchGoogle()">Google</button>
-<button onclick="searchBaidu()">百度</button>
+<button onclick="searchDuck()">DuckDuckGo</button>
 <button onclick="searchBing()">Bing</button>
-<button onclick="searchPin()">Pinterest</button>
+<button onclick="searchYandex()">Yandex</button>
+<button onclick="searchBaidu()">百度</button>
+<span>｜</span>
+<button onclick="searchGithub()">GitHub</button>
+<button onclick="searchPins()">Pinterest</button>
 <button onclick="searchNeodb()">NeoDB</button>
 <button onclick="searchQimai()">七麦</button>
-
+<button onclick="searchSteam()">Steam</button>
+<span>｜</span>
+<button onclick="search360so()">360搜索</button>
+<button onclick="searchSougou()">搜狗</button>
 <script>
 function searchGoogle() {
   let keyword = document.getElementById("keyword").value;
-  window.location.href = "https://www.google.com/search?q=" + keyword;
+  window.location.href = "https://www.google.com/search?gws_rd=ncr&q=" + keyword;
 }
-function searchBaidu() {
+function searchDuck() {
   let keyword = document.getElementById("keyword").value;
-  window.location.href = "https://www.baidu.com/s?wd=" + keyword;
+  window.location.href = "https://duckduckgo.com/?q=" + keyword;
 }
 function searchBing() {
   let keyword = document.getElementById("keyword").value;
   window.location.href = "https://www.bing.com/search?q=" + keyword;
 }
-function searchPin() {
+function searchYandex() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://yandex.com/search/?text=" + keyword;
+}
+function searchBaidu() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://www.baidu.com/s?wd=" + keyword;
+}
+
+function searchGithub() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://github.com/search?q=" + keyword;
+}
+function searchPins() {
   let keyword = document.getElementById("keyword").value;
   window.location.href = "https://www.pinterest.com/search/pins/?q=" + keyword;
 }
@@ -41,5 +61,18 @@ function searchNeodb() {
 function searchQimai() {
   let keyword = document.getElementById("keyword").value;
   window.location.href = "https://www.qimai.cn/search/index/country/cn/search/" + keyword;
+}
+function searchSteam() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://store.steampowered.com/search/?term=" + keyword;
+}
+
+function search360so() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://www.so.com/s?q=" + keyword;
+}
+function searchSougou() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://www.sogou.com/web?query=" + keyword;
 }
 </script>

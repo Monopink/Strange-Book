@@ -98,7 +98,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.kickstarter.com/favicon.ico"> | [Kickstarter](https://www.kickstarter.com/) | 众筹网站 |
-| <img loading="lazy" width="32px" alt="💔" src="https://g2.iggcdn.com/assets/favicon/favicon-32-4dfcba8dfbe628f9065885bcfd163ad0e7ff6629c72ec0efdd839c081bb5608e.png"> | [Kickstarter](https://www.indiegogo.com/) | 众筹网站 |
+| <img loading="lazy" width="32px" alt="💔" src="https://g2.iggcdn.com/assets/favicon/favicon-32-4dfcba8dfbe628f9065885bcfd163ad0e7ff6629c72ec0efdd839c081bb5608e.png"> | [Indiegogo](https://www.indiegogo.com/) | 众筹网站 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.iliangcang.com/favicon.ico"> | [良仓](https://www.iliangcang.com/) | 设计不错的日用百货 |
 | <img loading="lazy" width="32px" alt="💔" src="https://m.modian.com/favicon.ico"> | [摩点](https://www.modian.com/) | 文创商品 |
 | <img loading="lazy" width="32px" alt="💔" src="https://jscache.ontheroadstore.com/64x64.png"> | [公路商店](https://hs.ontheroadstore.com/) | 冷门商品 价格较贵 |
