@@ -39,3 +39,7 @@ Blog｜[酱紫表](https://qust.me/)｜[栋哥的赛博空间](https://liuyandon
 笔记｜[作业部落](https://www.zybuluo.com/mdeditor#2412183)｜[HackMD](https://hackmd.io/)
 
 信息｜[小鹤音形查询](http://react.xhup.club/search)
+
+---
+
+*本网站使用 Firefox 或 Safari 浏览将获得最佳体验*
