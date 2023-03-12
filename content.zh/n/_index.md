@@ -1,6 +1,6 @@
 ---
 weight: 50
-title: "Geek"
+title: "笔记"
 bookFlatSection: false
 bookCollapseSection: true
 bookHidden: false
