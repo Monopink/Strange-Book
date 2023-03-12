@@ -8,13 +8,13 @@ type: docs
 
 > 请随意浏览
 
-## 搜索
+## 🔎搜索
 
 {{< search >}}
 
-## 快速开始
+## 📔快速拨号
 
-### 冲浪时间
+### 🏄‍♀️冲浪时间
 
 RSS｜[Inoreader](https://www.inoreader.com/)｜[Feedly](https://feedly.com/i/my)｜[The Old Reader](https://theoldreader.com)
 
@@ -30,7 +30,7 @@ Blog｜[酱紫表](https://qust.me/)｜[栋哥的赛博空间](https://liuyandon
 
 [👉所有…](/fav/s/)
 
-### 工具
+### 🔨工具
 
 云机器｜[Unity URDP](https://urdp.unity.cn/host-list)｜[云手机](https://cloudphoneh5.buy.139.com/#/cloudphone)｜[MS Learn](https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1)｜[LightNode](https://console.lightnode.com/)
 
