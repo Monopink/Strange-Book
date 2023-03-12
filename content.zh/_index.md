@@ -8,6 +8,10 @@ type: docs
 
 > 请随意浏览
 
+## 搜索
+
+{{< search >}}
+
 ## 快速开始
 
 ### 冲浪时间
@@ -26,7 +30,7 @@ Blog｜[酱紫表](https://qust.me/)｜[栋哥的赛博空间](https://liuyandon
 
 [👉所有…](/fav/s/)
 
-## 工具
+### 工具
 
 云机器｜[Unity URDP](https://urdp.unity.cn/host-list)｜[云手机](https://cloudphoneh5.buy.139.com/#/cloudphone)｜[MS Learn](https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1)｜[LightNode](https://console.lightnode.com/)
 
@@ -35,25 +39,3 @@ Blog｜[酱紫表](https://qust.me/)｜[栋哥的赛博空间](https://liuyandon
 笔记｜[作业部落](https://www.zybuluo.com/mdeditor#2412183)｜[HackMD](https://hackmd.io/)
 
 信息｜[小鹤音形查询](http://react.xhup.club/search)
-
-<label for="keyword">输入关键词：</label>
-<input type="text" id="keyword" name="keyword" />
-<br />
-<button onclick="searchGoogle()">Google</button>
-<button onclick="searchBaidu()">百度</button>
-<button onclick="searchBing()">Bing</button>
-
-<script>
-function searchGoogle() {
-var keyword = document.getElementById("keyword").value;
-window.location.href = "https://www.google.com/search?q=" + keyword;
-}
-function searchBaidu() {
-var keyword = document.getElementById("keyword").value;
-window.location.href = "https://www.baidu.com/s?wd=" + keyword;
-}
-function searchBing() {
-var keyword = document.getElementById("keyword").value;
-window.location.href = "https://www.bing.com/search?q=" + keyword;
-}
-</script>
