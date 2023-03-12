@@ -12,8 +12,48 @@ type: docs
 
 ### 冲浪时间
 
-[Buzzing](https://www.buzzing.cc/)｜[今日热榜](https://tophub.today/)｜[摸摸鱼](https://momoyu.cc)
+RSS｜[Inoreader](https://www.inoreader.com/)｜[Feedly](https://feedly.com/i/my)｜[The Old Reader](https://theoldreader.com)
 
-[Reddit](https://www.reddit.com/)｜[通信人家园](https://www.txrjy.com/forum.php)｜[主机论坛](https://hostloc.com/misc.php?mod=ranklist)｜[V2EX](https://www.v2ex.com/changes)｜[过早客](https://www.guozaoke.com/?tab=latest)｜[美卡论坛](https://www.uscardforum.com/top?period=daily)｜[大佬论坛](https://dalao.net/)｜[我爱卡](https://www.51credit.com/)｜[2047](https://2047.one/)
+聚合｜[Buzzing](https://www.buzzing.cc/)｜[今日热榜](https://tophub.today/)｜[摸摸鱼](https://momoyu.cc)｜[realtime.info](http://realtime.info/)
+
+BBS｜[Reddit](https://www.reddit.com/)｜[批踢踢實業坊](https://www.ptt.cc/bbs/hotboards.html)｜[通信人家园](https://www.txrjy.com/forum.php)｜[主机论坛](https://hostloc.com/misc.php?mod=ranklist)｜[过早客](https://www.guozaoke.com/?tab=latest)｜[美卡论坛](https://www.uscardforum.com/top?period=daily)｜[大佬论坛](https://dalao.net/)｜[V2EX](https://www.v2ex.com/changes)｜[Hamzone](https://bbs.hamzone.cn/)｜[我爱卡](https://www.51credit.com/)｜[2047](https://2047.one/)｜[中文印刷](https://www.cnprint.org/bbs/index.php)｜[钢笔论坛](http://www.penbbs.com/forum.php)
+
+Blog｜[酱紫表](https://qust.me/)｜[栋哥的赛博空间](https://liuyandong.com/)｜[高海鹏老师](https://www.gaohaipeng.com/)｜[VPS大玩家](https://www.vpsdawanjia.com/)｜[谷姐靓号网](https://www.goojie.eu/)｜[虚拟号](https://xunihao.net/)
+
+学习｜[TypingClub](https://www.typingclub.com/sportal/program-3.game)｜[Qwerty Learner](https://qwerty.kaiyi.cool/)
+
+其他｜[NameSilo marketplace](https://www.namesilo.com/Marketplace)
 
 [👉所有…](/fav/s/)
+
+## 工具
+
+云机器｜[Unity URDP](https://urdp.unity.cn/host-list)｜[云手机](https://cloudphoneh5.buy.139.com/#/cloudphone)｜[MS Learn](https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1)｜[LightNode](https://console.lightnode.com/)
+
+传送｜[Wormhole](https://wormhole.app/)
+
+笔记｜[作业部落](https://www.zybuluo.com/mdeditor#2412183)｜[HackMD](https://hackmd.io/)
+
+信息｜[小鹤音形查询](http://react.xhup.club/search)
+
+<label for="keyword">输入关键词：</label>
+<input type="text" id="keyword" name="keyword" />
+<br />
+<button onclick="searchGoogle()">Google</button>
+<button onclick="searchBaidu()">百度</button>
+<button onclick="searchBing()">Bing</button>
+
+<script>
+function searchGoogle() {
+var keyword = document.getElementById("keyword").value;
+window.location.href = "https://www.google.com/search?q=" + keyword;
+}
+function searchBaidu() {
+var keyword = document.getElementById("keyword").value;
+window.location.href = "https://www.baidu.com/s?wd=" + keyword;
+}
+function searchBing() {
+var keyword = document.getElementById("keyword").value;
+window.location.href = "https://www.bing.com/search?q=" + keyword;
+}
+</script>
