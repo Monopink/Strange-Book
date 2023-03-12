@@ -1,0 +1,45 @@
+<style>
+#keyword {
+  height: 30px;
+  width: auto;
+  max-width: 100%;
+  padding: 5px; 
+  margin-bottom: 5px;
+}
+</style>
+
+<input type="text" id="keyword" name="keyword"/>
+<br />
+<button onclick="searchGoogle()">Google</button>
+<button onclick="searchBaidu()">百度</button>
+<button onclick="searchBing()">Bing</button>
+<button onclick="searchPin()">Pinterest</button>
+<button onclick="searchNeodb()">NeoDB</button>
+<button onclick="searchQimai()">七麦</button>
+
+<script>
+function searchGoogle() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://www.google.com/search?q=" + keyword;
+}
+function searchBaidu() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://www.baidu.com/s?wd=" + keyword;
+}
+function searchBing() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://www.bing.com/search?q=" + keyword;
+}
+function searchPin() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://www.pinterest.com/search/pins/?q=" + keyword;
+}
+function searchNeodb() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://neodb.social/search/?q=" + keyword;
+}
+function searchQimai() {
+  let keyword = document.getElementById("keyword").value;
+  window.location.href = "https://www.qimai.cn/search/index/country/cn/search/" + keyword;
+}
+</script>
