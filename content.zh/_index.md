@@ -22,7 +22,7 @@ RSS｜[Inoreader](https://www.inoreader.com/)｜[Feedly](https://feedly.com/i/my
 
 BBS｜[Reddit](https://www.reddit.com/)｜[批踢踢實業坊](https://www.ptt.cc/bbs/hotboards.html)｜[通信人家园](https://www.txrjy.com/forum.php)｜[主机论坛](https://hostloc.com/misc.php?mod=ranklist)｜[过早客](https://www.guozaoke.com/?tab=latest)｜[美卡论坛](https://www.uscardforum.com/top?period=daily)｜[大佬论坛](https://dalao.net/)｜[V2EX](https://www.v2ex.com/changes)｜[Hamzone](https://bbs.hamzone.cn/)｜[我爱卡](https://www.51credit.com/)｜[2047](https://2047.one/)｜[中文印刷](https://www.cnprint.org/bbs/index.php)｜[钢笔论坛](http://www.penbbs.com/forum.php)
 
-Blog｜[酱紫表](https://qust.me/)｜[栋哥的赛博空间](https://liuyandong.com/)｜[高海鹏老师](https://www.gaohaipeng.com/)｜[VPS大玩家](https://www.vpsdawanjia.com/)｜[谷姐靓号网](https://www.goojie.eu/)｜[虚拟号](https://xunihao.net/)
+Blog｜[酱紫表](https://qust.me/)｜[栋哥的赛博空间](https://liuyandong.com/)｜[高海鹏老师](https://www.gaohaipeng.com/)｜[docofcard](https://docofcard.com/)｜[VPS大玩家](https://www.vpsdawanjia.com/)｜[谷姐靓号网](https://www.goojie.eu/)｜[虚拟号](https://xunihao.net/)
 
 学习｜[TypingClub](https://www.typingclub.com/sportal/program-3.game)｜[Qwerty Learner](https://qwerty.kaiyi.cool/)
 
