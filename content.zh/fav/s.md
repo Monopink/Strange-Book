@@ -48,16 +48,18 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico"> | [少数派](https://sspai.com) | 科技、电子产品和生活 |
 | <img loading="lazy" width="32px" alt="💔" src="https://m.huxiu.com/favicon.ico"> | [虎嗅网](https://www.huxiu.com) | 商业科技资讯 |
 
-## 艺术
+## 艺术&文化
 
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.goldenhorse.org.tw/apple-touch-icon.png"> | [金马奖](https://www.goldenhorse.org.tw/) | 华语电影最具影响力和代表性的奖项 |
+| <img loading="lazy" width="32px" alt="💔" src="https://history-maps.com/favicon.ico"> | [HistoryMaps](https://history-maps.com/) | 直观地学习历史 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.thetype.com/wp-content/themes/tib_style/images/favicon/favicon-32x32.png"> | [The Type](https://thetype.com) | 文字、设计、文化 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.dujingtou.com/favicon.ico"> | [毒镜头](https://www.dujingtou.com) | 摄影、相机 |
 | <img loading="lazy" width="32px" alt="💔" src="https://img-sz.topys.cn/ico/favicon.ico"> | [TOPYS.](https://www.topys.cn) | 创意内容 |
 | <img loading="lazy" width="32px" alt="💔" src="https://image.uisdc.com/wp-content/uploads/2018/05/uisdc-ico-apple.jpg"> | [优设网](https://www.uisdc.com) | 设计文章、教程、素材 |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.shejipi.com/favicon-32x32.png"> | [设计癖](https://www.shejipi.com/) | 关注设计产品 |
+
 
 ## 社区
 
