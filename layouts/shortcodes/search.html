@@ -10,7 +10,7 @@
 
 <input type="text" id="keyword" name="keyword"/>
 <br />
-<button onclick="searchGoogle()">Google</button>
+<button onclick="searchGoogle()">Google NCR</button>
 <button onclick="searchDuck()">DuckDuckGo</button>
 <button onclick="searchBing()">Bing</button>
 <button onclick="searchYandex()">Yandex</button>
@@ -27,7 +27,7 @@
 <script>
 function searchGoogle() {
   let keyword = document.getElementById("keyword").value;
-  window.open("https://www.google.com/search?gws_rd=ncr&q=" + keyword);
+  window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=" + keyword);
 }
 function searchDuck() {
   let keyword = document.getElementById("keyword").value;
