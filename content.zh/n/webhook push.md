@@ -1,6 +1,7 @@
 ---
 weight: 10
 title: "Webhook 消息推送"
+description: Webhook 消息推送
 bookFlatSection: false
 bookCollapseSection: false
 bookHidden: false
@@ -8,6 +9,8 @@ bookHidden: false
 
 # Webhook 消息推送
 
+{{< tabs "uniqueid" >}}
+{{< tab "Telegram" >}}
 ## Telegram
 
 ### POST
@@ -62,6 +65,9 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+{{< /tab >}}
+
+{{< tab "Lark" >}}
 
 ## Lark
 
@@ -127,6 +133,9 @@ curl -X POST -H "Content-Type: application/json" \
         -d '{"msg_type":"text","content":{"text":"<Message Content>"}}' \
   ​https://open.larksuite.com/open-apis/bot/v2/hook/{token}​ 
 ```
+{{< /tab >}}
+
+{{< tab "Dingtalk" >}}
 
 ## Dingtalk
 
@@ -154,4 +163,5 @@ body
    }
 }
 ```
-
+{{< /tab >}}
+{{< /tabs >}}
