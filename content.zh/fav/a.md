@@ -70,6 +70,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src=" 	https://www.whatfontis.com/favicon.ico"> | [WhatFontIs](https://www.whatfontis.com/) | 图片搜索字体 以及找字体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 开源字体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源宋体](https://github.com/adobe-fonts/source-han-serif) | 开源字体 |
 | <img loading="lazy" width="32px" alt="💔" src="http://jikasei.me/favicon.ico"> | [思源柔黑](http://jikasei.me/font/genjyuu/) | 基于思源黑体制作的圆体 |
