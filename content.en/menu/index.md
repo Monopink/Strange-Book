@@ -2,6 +2,6 @@
 headless: true
 ---
 
-- [**Hello Site**]({{< relref "/wiki/hello-world" >}})
+- [**It's deserted here**]({{< relref "/null" >}})
 
   
