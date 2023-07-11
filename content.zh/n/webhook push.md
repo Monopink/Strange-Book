@@ -20,7 +20,7 @@ bookHidden: false
 获取 Telegram Bot 相关 `chat_id`
 
 ```
- https://api.telegram.org/bot{token}/getUpdates
+https://api.telegram.org/bot{token}/getUpdates
 ```
 
 URL
