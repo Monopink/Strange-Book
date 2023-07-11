@@ -29,7 +29,7 @@ Blog｜[酱紫表](https://qust.me/)｜[栋哥的赛博空间](https://liuyandon
 
 其他｜[NameSilo marketplace](https://www.namesilo.com/Marketplace)
 
-[👉所有…](/fav/s/)
+[👉所有…](/fav/surf/)
 
 ### 🔨工具
 
