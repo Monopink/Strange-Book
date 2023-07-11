@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: <br />blog
+    name: blog
     weight: 5
 title: Blog
 bookHidden: true
