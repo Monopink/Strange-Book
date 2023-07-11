@@ -12,9 +12,6 @@ categories:
   - Line
 ---
 
-
-Sure! Here's a short poem I came up with:
-
 The sun sets low, the day is done,
 A quiet hush, the world's undone.
 But in the stillness, there's a spark,
