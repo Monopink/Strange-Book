@@ -20,6 +20,7 @@
 <button onclick="pinterest()">Pinterest</button>
 <button onclick="neodb()">NeoDB</button>
 <button onclick="qimai()">七麦</button>
+<button onclick="steamdb()">SteamDB</button>
 <button onclick="steam()">Steam</button>
 <span>｜</span>
 <button onclick="domainr()">Domainr</button>
@@ -71,6 +72,10 @@ function qimai() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://www.qimai.cn/search/index/country/cn/search/" + keyword);
 }
+function steamdb() {
+  let keyword = document.getElementById("keyword").value;
+  window.open("https://steamdb.info/search/?a=app&q=" + keyword);
+}
 function steam() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://store.steampowered.com/search/?term=" + keyword);
@@ -118,14 +123,14 @@ function sougou() {
   window.open("https://www.sogou.com/web?query=" + keyword);
 }
 
-let keyword = document.getElementById("keyword");
+let keyword = document.getElementById("keyword").value;
 let flag = 0;
-if (keyword.value === "" && flag == 0) {
+if (keyword === "" && flag == 0) {
   fetch("https://api.ipify.org/?format=json")
     .then(response => response.json())
     .then(data => {
-      if (keyword.value === "" && flag == 0) {
-        keyword.value = data.ip;
+      if (keyword === "" && flag == 0) {
+        keyword = data.ip;
         flag = 1;
       }
     })
