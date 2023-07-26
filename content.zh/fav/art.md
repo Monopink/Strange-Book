@@ -62,9 +62,10 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg"> | [IconPark](https://iconpark.oceanengine.com/official) | 字节跳动 SVG 图标库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico"> | [IconFont](https://www.iconfont.cn) | 阿里巴巴矢量图标库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.openmoji.org/favicons/apple-touch-icon.png"> | [OpenMoji](https://www.openmoji.org/) | 开源 Emoji 图标库 简洁风格 |
-| <img loading="lazy" width="32px" alt="💔" src="https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"> | [Noun Project](https://thenounproject.com/) | 矢量图标库 有限授权 部分收费 |
+| <img loading="lazy" width="32px" alt="💔" src="https://devicon.dev/logos/favicon.ico"> | [Devicon](https://devicon.dev/)｜[GitHub](https://github.com/devicons/devicon) | 开发语言和工具图标集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://brandslogos.com/wp-content/uploads/resources/favicon.ico"> | [Brands Logos](https://brandslogos.com/) | 品牌商标图标集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pictogram2.com/favicons/favicon_57.png"> | [Huhan Pictogram](https://pictogram2.com/) | 「紧急出口小人」皮特托图标集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"> | [Noun Project](https://thenounproject.com/) | 矢量图标库 有限授权 部分收费 |
 
 ## 字体
 
