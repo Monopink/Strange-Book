@@ -120,7 +120,7 @@ function sougou() {
 
 let keyword = document.getElementById("keyword");
 let flag = 0;
-fetch('https://api.ipify.org/?format=json')
+fetch("https://api.ipify.org/?format=json")
   .then(response => response.json())
   .then(data => {
     if (keyword.value === "" && flag == 0) {
