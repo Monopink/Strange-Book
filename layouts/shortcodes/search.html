@@ -37,91 +37,70 @@
 <script>
 let keywordBox = document.getElementById("keyword");
 function google() {
-  let keyword = document.getElementById("keyword").value;
   window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=" + keywordBox.value);
 }
 function duckGo() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://duckduckgo.com/?q=" + keyword);
+  window.open("https://duckduckgo.com/?q=" + keywordBox.value);
 }
 function bing() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://www.bing.com/search?q=" + keyword);
+  window.open("https://www.bing.com/search?q=" + keywordBox.value);
 }
 function yandex() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://yandex.com/search/?text=" + keyword);
+  window.open("https://yandex.com/search/?text=" + keywordBox.value);
 }
 function baidu() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://www.baidu.com/s?wd=" + keyword);
+  window.open("https://www.baidu.com/s?wd=" + keywordBox.value);
 }
 
 function github() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://github.com/search?q=" + keyword);
+  window.open("https://github.com/search?q=" + keywordBox.value);
 }
 function pinterest() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://www.pinterest.com/search/pins/?q=" + keyword);
+  window.open("https://www.pinterest.com/search/pins/?q=" + keywordBox.value);
 }
 function neodb() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://neodb.social/search/?q=" + keyword);
+  window.open("https://neodb.social/search/?q=" + keywordBox.value);
 }
 function qimai() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://www.qimai.cn/search/index/country/cn/search/" + keyword);
+  window.open("https://www.qimai.cn/search/index/country/cn/search/" + keywordBox.value);
 }
 function steamdb() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://steamdb.info/search/?a=app&q=" + keyword);
+  window.open("https://steamdb.info/search/?a=app&q=" + keywordBox.value);
 }
 function steam() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://store.steampowered.com/search/?term=" + keyword);
+  window.open("https://store.steampowered.com/search/?term=" + keywordBox.value);
 }
 
 function domainr() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://domainr.com/?q=" + keyword);
+  window.open("https://domainr.com/?q=" + keywordBox.value);
 }
 function whois() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://whois.domaintools.com/" + keyword);
+  window.open("https://whois.domaintools.com/" + keywordBox.value);
 }
 function cnicp() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://icp.chinaz.com/" + keyword);
+  window.open("https://icp.chinaz.com/" + keywordBox.value);
 }
 function ipshu() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://ipshu.com/ipv4/" + keyword);
+  window.open("https://ipshu.com/ipv4/" + keywordBox.value);
 }
 function bczs() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("http://ip.bczs.net/" + keyword);
+  window.open("http://ip.bczs.net/" + keywordBox.value);
 }
 function baiduip() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://qifu.baidu.com/wise/#/?activeId=SEARCH_IP_ADDRESS&ip=" + keyword);
+  window.open("https://qifu.baidu.com/wise/#/?activeId=SEARCH_IP_ADDRESS&ip=" + keywordBox.value);
 }
 
 function v2ex() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=site:v2ex.com/t+" + keyword);
+  window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=site:v2ex.com/t+" + keywordBox.value);
 }
 function zhihu() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://www.zhihu.com/search?q=" + keyword);
+  window.open("https://www.zhihu.com/search?q=" + keywordBox.value);
 }
 function so360() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://www.so.com/s?q=" + keyword);
+  window.open("https://www.so.com/s?q=" + keywordBox.value);
 }
 function sougou() {
-  let keyword = document.getElementById("keyword").value;
-  window.open("https://www.sogou.com/web?query=" + keyword);
+  window.open("https://www.sogou.com/web?query=" + keywordBox.value);
 }
 
 let flag = 0;
