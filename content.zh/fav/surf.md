@@ -28,7 +28,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.ap.org/assets/images/framework/favicon-32x32.png"> | [Associated Press](https://www.ap.org) | 美联社 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.reuters.com/pf/resources/icons/favicon.ico?d=55"> | [Reuters](https://www.reuters.com) | 路透社 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.reuters.com/apple-touch-icon.png"> | [Reuters](https://www.reuters.com) | 路透社 |
 | <img loading="lazy" width="32px" alt="💔" src="https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png"> | [Bloomberg](https://www.bloomberg.com/) | 彭博社 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.nytimes.com/favicon.ico"> | [NYTimes](https://www.nytimes.com/) | 纽约时报 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.bbc.com/favicon.ico"> | [BBC](https://www.bbc.com) | BBC |
@@ -85,14 +85,14 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://combo.staticflickr.com/pw/images/favicons/favicon-32.png"> | [Flickr](https://www.flickr.com/) | 图片社交平台 |
-| <img loading="lazy" width="32px" alt="💔" src="https://static-cdn.mastodon.social/packs/media/icons/favicon-32x32-28ae8fdbb92732ba1545ec0b0602e3ca.png"> | [Mastodon](https://mastodon.social/) | 长毛象 分布式微博 |
+| <img loading="lazy" width="32px" alt="💔" src="https://mastodon.social/favicon.ico"> | [Mastodon](https://mastodon.social/) | 长毛象 分布式微博 |
 
 ## 影剧点评
 
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://m.imdb.com/favicon.ico"> | [IMDB](https://www.imdb.com) | 互联网电影资料库 其实也有电视剧和节目 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.rottentomatoes.com/favicon.ico"> | [Rotten Tomatoes](https://www.rottentomatoes.com/) | 烂番茄 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.rottentomatoes.com/assets/pizza-pie/images/favicon.ico"> | [Rotten Tomatoes](https://www.rottentomatoes.com/) | 烂番茄 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.themoviedb.org/assets/2/favicon-32x32-543a21832c8931d3494a68881f6afcafc58e96c5d324345377f3197a37b367b5.png"> | [TMDB](https://www.themoviedb.org/) | 由社区建设的影剧资料库 |
 
 ## 消费
