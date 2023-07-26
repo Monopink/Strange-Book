@@ -120,15 +120,17 @@ function sougou() {
 
 let keyword = document.getElementById("keyword");
 let flag = 0;
-fetch("https://api.ipify.org/?format=json")
-  .then(response => response.json())
-  .then(data => {
-    if (keyword.value === "" && flag == 0) {
-      keyword.value = data.ip;
-      flag = 1;
-    }
-  })
-  .catch(error => console.error(error));
+if (keyword.value === "" && flag == 0) {
+  fetch("https://api.ipify.org/?format=json")
+    .then(response => response.json())
+    .then(data => {
+      if (keyword.value === "" && flag == 0) {
+        keyword.value = data.ip;
+        flag = 1;
+      }
+    })
+    .catch(error => console.error(error));
+}
 
 function selectText(input) {
   if (flag == 1) {
