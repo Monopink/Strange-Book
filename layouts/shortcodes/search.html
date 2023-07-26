@@ -35,9 +35,10 @@
 <button onclick="so360()">360搜索</button>
 <button onclick="sougou()">搜狗</button>
 <script>
+let keywordBox = document.getElementById("keyword");
 function google() {
   let keyword = document.getElementById("keyword").value;
-  window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=" + keyword);
+  window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=" + keywordBox.value);
 }
 function duckGo() {
   let keyword = document.getElementById("keyword").value;
@@ -123,14 +124,13 @@ function sougou() {
   window.open("https://www.sogou.com/web?query=" + keyword);
 }
 
-let keyword = document.getElementById("keyword").value;
 let flag = 0;
-if (keyword === "" && flag == 0) {
+if (keywordBox.value === "" && flag == 0) {
   fetch("https://api.ipify.org/?format=json")
     .then(response => response.json())
     .then(data => {
-      if (keyword === "" && flag == 0) {
-        keyword = data.ip;
+      if (keywordBox.value === "" && flag == 0) {
+        keywordBox.value = data.ip;
         flag = 1;
       }
     })
