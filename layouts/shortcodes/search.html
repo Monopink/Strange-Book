@@ -119,12 +119,21 @@ function sougou() {
 }
 
 let keyword = document.getElementById("keyword");
+let flag = 0;
 fetch('https://api.ipify.org/?format=json')
   .then(response => response.json())
   .then(data => {
     if (keyword.value === "") {
       keyword.value = data.ip;
+      let flag = 1;
     }
   })
   .catch(error => console.error(error));
+
+function clearKeyword() {
+  if (flag == 1) {
+    document.getElementById("keyword").value = "";
+  }
+  flag = 0;
+}
 </script>
