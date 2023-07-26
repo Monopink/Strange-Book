@@ -27,6 +27,11 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://wee.domains/favicon-32x32.png"> | [wee.domains](https://wee.domains/) | 简短的可注册域名 |
 | <img loading="lazy" width="32px" alt="💔" src="https://tld-list.com/favicon.ico"> | [TLD List](https://tld-list.com/) | 可注册域名检索 |
 
+## IP
+
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://cz88.net/favicon.ico"> | [纯真 IP](https://update.cz88.net/favicon.ico) | 纯真 IP 库 |
 
 ## 在线工具
 
