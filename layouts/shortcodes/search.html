@@ -116,7 +116,7 @@ function sougou() {
 fetch('https://api.ipify.org/?format=json')
   .then(response => response.json())
   .then(data => {
-      document.getElementById("keyword").textContent = data.ip;
+      document.getElementById.value("keyword").textContent = data.ip;
   })
   .catch(error => console.error(error));
 </script>
