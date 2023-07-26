@@ -12,7 +12,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.backblaze.com/favicon.ico"> | [Backblaze](https://www.backblaze.com) | 云存储服务 |
+| <img loading="lazy" width="32px" alt="💔" src="https://assets-global.website-files.com/63d32de856f6323a43a277f2/64b1ab4aa5aef8291e9291ab_Favicon.png"> | [Backblaze](https://www.backblaze.com) | 云存储服务 |
 
 ## 域名
 
@@ -31,7 +31,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://cz88.net/favicon.ico"> | [纯真 IP](https://update.cz88.net/favicon.ico) | 纯真 IP 库 |
+| <img loading="lazy" width="32px" alt="💔" src="https://static.cz88.net/favicon.ico"> | [纯真 IP](https://update.cz88.net/favicon.ico) | 纯真 IP 库 |
 
 ## 在线工具
 
