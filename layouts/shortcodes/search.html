@@ -113,10 +113,13 @@ function sougou() {
   window.open("https://www.sogou.com/web?query=" + keyword);
 }
 
+let keyword = document.getElementById("keyword");
 fetch('https://api.ipify.org/?format=json')
   .then(response => response.json())
   .then(data => {
-      document.getElementById.value("keyword").textContent = data.ip;
+    if (keyword.value === "") {
+      keyword.value = data.ip;
+    }
   })
   .catch(error => console.error(error));
 </script>
