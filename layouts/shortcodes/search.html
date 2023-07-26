@@ -8,7 +8,7 @@
 }
 </style>
 
-<input type="text" id="keyword" name="keyword" onfocus="clearIp()"/>
+<input type="text" id="keyword" name="keyword" onclick="selectText(this)"/>
 <br />
 <button onclick="google()">Google NCR</button>
 <button onclick="duckGo()">DuckDuckGo</button>
@@ -130,9 +130,9 @@ fetch('https://api.ipify.org/?format=json')
   })
   .catch(error => console.error(error));
 
-function clearIp() {
+function selectText(input) {
   if (flag == 1) {
-    document.getElementById("keyword").value = "";
+    input.select();
   }
   flag = 0;
 }
