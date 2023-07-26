@@ -30,6 +30,7 @@
 <button onclick="baiduip()">百度IP</button>
 <span>｜</span>
 <button onclick="v2ex()">V2EX</button>
+<button onclick="zhihu()">知乎</button>
 <button onclick="so360()">360搜索</button>
 <button onclick="sougou()">搜狗</button>
 <script>
@@ -103,6 +104,10 @@ function baiduip() {
 function v2ex() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=site:v2ex.com/t+" + keyword);
+}
+function zhihu() {
+  let keyword = document.getElementById("keyword").value;
+  window.open("https://www.zhihu.com/search?q=" + keyword);
 }
 function so360() {
   let keyword = document.getElementById("keyword").value;
