@@ -123,7 +123,7 @@ let flag = 0;
 fetch('https://api.ipify.org/?format=json')
   .then(response => response.json())
   .then(data => {
-    if (keyword.value === "") {
+    if (keyword.value === "" && flag == 0) {
       keyword.value = data.ip;
       flag = 1;
     }
@@ -134,6 +134,6 @@ function selectText(input) {
   if (flag == 1) {
     input.select();
   }
-  flag = 0;
+  flag = 2;
 }
 </script>
