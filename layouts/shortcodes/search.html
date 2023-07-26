@@ -10,68 +10,105 @@
 
 <input type="text" id="keyword" name="keyword"/>
 <br />
-<button onclick="searchGoogle()">Google NCR</button>
-<button onclick="searchDuck()">DuckDuckGo</button>
-<button onclick="searchBing()">Bing</button>
-<button onclick="searchYandex()">Yandex</button>
-<button onclick="searchBaidu()">百度</button>
+<button onclick="google()">Google NCR</button>
+<button onclick="duckGo()">DuckDuckGo</button>
+<button onclick="bing()">Bing</button>
+<button onclick="yandex()">Yandex</button>
+<button onclick="baidu()">百度</button>
 <span>｜</span>
-<button onclick="searchGithub()">GitHub</button>
-<button onclick="searchPins()">Pinterest</button>
-<button onclick="searchNeodb()">NeoDB</button>
-<button onclick="searchQimai()">七麦</button>
-<button onclick="searchSteam()">Steam</button>
+<button onclick="github()">GitHub</button>
+<button onclick="pinterest()">Pinterest</button>
+<button onclick="neodb()">NeoDB</button>
+<button onclick="qimai()">七麦</button>
+<button onclick="steam()">Steam</button>
 <span>｜</span>
-<button onclick="search360so()">360搜索</button>
-<button onclick="searchSougou()">搜狗</button>
+<button onclick="domainr()">Domainr</button>
+<button onclick="whois()">Whois</button>
+<button onclick="cnicp()">CNICP</button>
+<button onclick="ipshu()">IPSHU</button>
+<button onclick="bczs()">bczs.net</button>
+<button onclick="baiduip()">百度IP</button>
+<span>｜</span>
+<button onclick="v2ex()">V2EX</button>
+<button onclick="so360()">360搜索</button>
+<button onclick="sougou()">搜狗</button>
 <script>
-function searchGoogle() {
+function google() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=" + keyword);
 }
-function searchDuck() {
+function duckGo() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://duckduckgo.com/?q=" + keyword);
 }
-function searchBing() {
+function bing() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://www.bing.com/search?q=" + keyword);
 }
-function searchYandex() {
+function yandex() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://yandex.com/search/?text=" + keyword);
 }
-function searchBaidu() {
+function baidu() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://www.baidu.com/s?wd=" + keyword);
 }
 
-function searchGithub() {
+function github() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://github.com/search?q=" + keyword);
 }
-function searchPins() {
+function pinterest() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://www.pinterest.com/search/pins/?q=" + keyword);
 }
-function searchNeodb() {
+function neodb() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://neodb.social/search/?q=" + keyword);
 }
-function searchQimai() {
+function qimai() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://www.qimai.cn/search/index/country/cn/search/" + keyword);
 }
-function searchSteam() {
+function steam() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://store.steampowered.com/search/?term=" + keyword);
 }
 
-function search360so() {
+function domainr() {
+  let keyword = document.getElementById("keyword").value;
+  window.open("https://domainr.com/?q=" + keyword);
+}
+function whois() {
+  let keyword = document.getElementById("keyword").value;
+  window.open("https://whois.domaintools.com/" + keyword);
+}
+function cnicp() {
+  let keyword = document.getElementById("keyword").value;
+  window.open("https://icp.chinaz.com/" + keyword);
+}
+function ipshu() {
+  let keyword = document.getElementById("keyword").value;
+  window.open("https://ipshu.com/ipv4/" + keyword);
+}
+function bczs() {
+  let keyword = document.getElementById("keyword").value;
+  window.open("http://ip.bczs.net/" + keyword);
+}
+function baiduip() {
+  let keyword = document.getElementById("keyword").value;
+  window.open("https://qifu.baidu.com/wise/#/?activeId=SEARCH_IP_ADDRESS&ip=" + keyword);
+}
+
+function v2ex() {
+  let keyword = document.getElementById("keyword").value;
+  window.open("https://www.google.com/search?q=site:v2ex.com/t+" + keyword);
+}
+function so360() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://www.so.com/s?q=" + keyword);
 }
-function searchSougou() {
+function sougou() {
   let keyword = document.getElementById("keyword").value;
   window.open("https://www.sogou.com/web?query=" + keyword);
 }
