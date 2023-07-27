@@ -34,6 +34,8 @@ defaultContentLanguageInSubdir = false
   noHl = false
   style = "catppuccin-frappe"
   tabWidth = 4
+[markup.highlight.chroma]
+cacheDir = ".cache/chroma/"
 
 
 # Multi-lingual mode config
