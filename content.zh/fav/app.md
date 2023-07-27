@@ -50,6 +50,7 @@ bookHidden: false
 
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [EarTrumpet](https://eartrumpet.app/)｜[GitHub](https://github.com/File-New-Project/EarTrumpet) | 为 Windows 增加软件音量合成器 | <img loading="lazy" width="32px" alt="W" src="https://fo.lioil.live/list/logo-windows.svg"> |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [LittleBigMouse](https://github.com/mgth/LittleBigMouse) | 在不同 DPI 的屏幕间顺畅移动鼠标 | <img loading="lazy" width="32px" alt="W" src="https://fo.lioil.live/list/logo-windows.svg"> |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [Monitorian](https://github.com/emoacht/Monitorian) | 单独调节每个输出显示器的亮度等参数 | <img loading="lazy" width="32px" alt="W" src="https://fo.lioil.live/list/logo-windows.svg"> |
 
