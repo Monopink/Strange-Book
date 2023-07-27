@@ -6,7 +6,7 @@ bookCollapseSection: false
 bookHidden: false
 ---
 
-{{< tables-style >}}
+
 
 
 ## 查询
@@ -73,3 +73,5 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.gravatar.com/favicon.ico"> | [Gravator](https://www.gravatar.com/) | 在各个网站同步头像 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.libravatar.org/static/img/nobody/32.png"> | [Libravatar](https://www.libravatar.org/) | 在各个网站同步头像 开源项目 |
+
+{{< tables-style >}}

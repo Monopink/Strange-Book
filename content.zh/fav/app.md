@@ -6,7 +6,7 @@ bookCollapseSection: false
 bookHidden: false
 ---
 
-{{< lists-style >}}
+
 
 ## 图例
 
@@ -60,3 +60,5 @@ bookHidden: false
 | :----: | ---- | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://tabby.sh/41c0b2191a91f83bee77.png"> | [Tabby](https://tabby.sh/)｜[Github](https://github.com/Eugeny/tabby/) | 精美的开源终端 XShell 的替代品 | <img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-linux.svg"> |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [wipeclean](https://github.com/JeanJouliaCode/wipeClean) | 把你的终端「擦」干净 | <img loading="lazy" width="32px" alt="M" src="https://fo.lioil.live/list/logo-linux.svg"> |
+
+{{< lists-style >}}
