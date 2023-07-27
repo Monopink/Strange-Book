@@ -30,7 +30,7 @@ defaultContentLanguageInSubdir = false
   lineNos = true
   lineNumbersInTable = true
   noClasses = true
-  style = "monokai"
+  style = "catppuccin-frappe"
   tabWidth = 4
 
 # Multi-lingual mode config
