@@ -30,7 +30,7 @@ defaultContentLanguageInSubdir = false
   lineNos = true
   lineNumbersInTable = false
   noClasses = true
-  style = "rose-pine-moon"
+  style = "github-dark"
   tabWidth = 4
 
 # Multi-lingual mode config
