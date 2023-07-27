@@ -6,7 +6,6 @@ bookCollapseSection: false
 bookHidden: false
 ---
 
-{{< tables-style >}}
 
 > RSS 代表着最初的互联网精神。
 
@@ -24,3 +23,5 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://rsshub.app/favicon.ico"> | [RSSHub](https://docs.rsshub.app/) | 开源RSS生成器，包含众多订阅源 |
 | <img loading="lazy" width="32px" alt="💔" src="https://feeddd.org/favicon.ico"> | [Feeddd](https://feeddd.org/feeds) | 免费自由的微信公众号订阅源 |
+
+{{< tables-style >}}
