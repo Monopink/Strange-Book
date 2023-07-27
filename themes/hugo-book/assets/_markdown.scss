@@ -111,14 +111,12 @@
     margin-bottom: $padding-16;
 
     tr th {
-      padding: $padding-8 $padding-16;
-      border-top: $padding-1 solid var(--gray-200);
+      padding: $padding-0;
       border-bottom: $padding-1 solid var(--gray-200);
     }
 
     tr td {
       padding: $padding-8 $padding-16;
-      border-bottom: $padding-1 solid var(--gray-200);
     }
 
     tr:last-child td {
