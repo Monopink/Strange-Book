@@ -23,15 +23,18 @@ defaultContentLanguageInSubdir = false
 [markup.highlight]
   anchorLineNos = false
   codeFences = true
-  guessSyntax = true
-  hl_Lines = ""
-  lineAnchors = ""
-  lineNoStart =1
-  lineNos = true
-  lineNumbersInTable = false
+  guessSyntax = false
+  hl_Lines = ''
+  hl_inline = false
+  lineAnchors = ''
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
   noClasses = true
-  style = "manni"
+  noHl = false
+  style = 'catppuccin-frappe'
   tabWidth = 4
+
 
 # Multi-lingual mode config
 # There are different options to translate files
