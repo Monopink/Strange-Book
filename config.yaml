@@ -15,6 +15,20 @@ markup:
       unsafe: true
   tableOfContents:
     startLevel: 1
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: catppuccin-frappe
+    tabWidth: 4
 
 # Multi-lingual mode config
 # There are different options to translate files

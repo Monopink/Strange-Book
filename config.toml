@@ -24,15 +24,15 @@ defaultContentLanguageInSubdir = false
   anchorLineNos = false
   codeFences = true
   guessSyntax = false
-  hl_Lines = ''
+  hl_Lines = ""
   hl_inline = false
-  lineAnchors = ''
+  lineAnchors = ""
   lineNoStart = 1
   lineNos = false
   lineNumbersInTable = true
   noClasses = true
   noHl = false
-  style = 'catppuccin-frappe'
+  style = "catppuccin-frappe"
   tabWidth = 4
 
 
