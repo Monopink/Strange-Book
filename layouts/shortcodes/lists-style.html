@@ -1,21 +1,4 @@
 <style>
-/*
-.markdown {
-    line-height: 28px !important;
-}
-
-.markdown table tr th,.markdown table tr td {
-    padding-top: 12px !important;
-    padding-bottom: 12px !important;
-}
-
-.markdown img {
-    width: 28px !important;
-    height: auto !important;
-    vertical-align: top !important;
-}
-*/
-
 
 .markdown table th:first-of-type {
     padding: $padding-8;
@@ -34,5 +17,36 @@
     padding: $padding-8;
     width: 18%;
     min-width: 18%;
+}
+
+.markdown table tr td:first-child {
+  width: 38px;
+  max-width: 38px;
+  padding: 0 0 0 4px !important;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.markdown table tr td:nth-child(2) {
+  width: 34%;
+  padding: 8px 8px 8px 4px;
+}
+
+.markdown table tr td:nth-child(3) {
+  width: 47%;
+}
+
+.markdown table tr td:nth-child(4) {
+  width: 19%;
+  padding: 0 4px 0 0 !important;
+  text-align: center;
+}
+
+.markdown table tr td:first-child img,
+.markdown table tr td:nth-child(4) img {
+  display: block;
+  max-width: 22px;
+  max-height: 22px;
+  margin: 0 auto;
 }
 </style>
