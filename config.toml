@@ -28,9 +28,9 @@ defaultContentLanguageInSubdir = false
   lineAnchors = ""
   lineNoStart =1
   lineNos = true
-  lineNumbersInTable = true
+  lineNumbersInTable = false
   noClasses = true
-  style = "catppuccin-frappe"
+  style = "rose-pine-moon"
   tabWidth = 4
 
 # Multi-lingual mode config
