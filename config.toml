@@ -20,9 +20,6 @@ defaultContentLanguageInSubdir = false
 [markup.tableOfContents]
   startLevel = 1
 
-[markup.highlight]
-  style = "catppuccin-frappe"
-
 
 # Multi-lingual mode config
 # There are different options to translate files
