@@ -24,21 +24,6 @@ bookHidden: false
 
 > I argue that western tech giants, like Facebook and Google, have inherent drawbacks of the capitalism. For example, they tend to violate the privacy of users for profits. But in China, big tech companies are worse with both defects of capitalism and totalitarianism, as they are totally controlled by the authoritarian regime.
 
-<h2>目录</h2>
-
-- [公开报道](#公开报道)
-- [用户不满](#用户不满)
-- [学术研究](#学术研究)
-- [微信之外的选择](#微信之外的选择)
-  - [即时通讯](#即时通讯)
-  - [远程协作 / 群组讨论](#远程协作--群组讨论)
-  - [信息获取](#信息获取)
-  - [移动支付](#移动支付)
-- [推荐阅读](#推荐阅读)
-- [相关项目](#相关项目)
-
----
-
 
 ## 公开报道
 
@@ -98,7 +83,7 @@ bookHidden: false
 | :------: | :-----: | :------: |
 | 2020-05-07 | [We Chat, They Watch: How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus](https://citizenlab.ca/2020/05/we-chat-they-watch) | Jeffrey Knockel, Christopher Parsons, Lotus Ruan, Ruohan Xiong, Jedidiah Crandall, and Ron Deibert |
 
-![微信图片审查](image-censorship-evidence.png)
+![微信图片审查](https://raw.githubusercontent.com/TomBener/stay-away-from-wechat/master/image-censorship-evidence.png)
 
 | 📅 日期 | 💭️ 标题 | ✍️ 作者 |
 | :------: | :-----: | :------: |
@@ -168,7 +153,7 @@ bookHidden: false
 
 - [逃离微信宣言](https://github.com/FreeFromGFW/FreeFromWechat)
 
-![逃离微信宣言海报](free-from-wechat.jpg)
+![逃离微信宣言海报](https://raw.githubusercontent.com/TomBener/stay-away-from-wechat/master/free-from-wechat.jpg)
 
 
 >GitHub项目：stay-away-from-wechat 

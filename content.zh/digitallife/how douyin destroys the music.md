@@ -10,6 +10,6 @@ bookHidden: false
 
 {{< bilibili 925044144 >}}
 
->视频作者：李大脑袋
+>作者：李大脑袋
 >
->原链接：[bilibili.com](https://www.bilibili.com/video/BV1ET4y157vU?share_source=copy_web)
+>来源：[bilibili.com](https://www.bilibili.com/video/BV1ET4y157vU?share_source=copy_web)
