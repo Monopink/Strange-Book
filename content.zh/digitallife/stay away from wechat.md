@@ -6,6 +6,7 @@ bookCollapseSection: false
 bookHidden: false
 ---
 
+# 人生苦短，远离微信
 
 > 方便真的是我们人生的唯一价值吗？所谓精神生活并不是指向专家学习审美或是艺术创作，那其实是把精神生活变成了世俗生活。微信越是一种生活方式，我们就越有必要对其严阵以待。—— [李如一](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)
 

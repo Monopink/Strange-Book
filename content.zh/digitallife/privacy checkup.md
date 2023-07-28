@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 5
 title: "隐私选项检查"
 ---
 
