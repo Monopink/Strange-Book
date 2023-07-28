@@ -173,4 +173,4 @@ bookHidden: false
 
 >GitHub项目：stay-away-from-wechat 
 >
->项目地址：https://github.com/TomBener/stay-away-from-wechat
+>项目地址：[https://github.com/TomBener/stay-away-from-wechat](https://github.com/TomBener/stay-away-from-wechat)
