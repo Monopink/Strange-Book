@@ -7,7 +7,7 @@ bookHidden: false
 ---
 
 
-## 英美主流媒体盘点：为什么我不建议你看 VOA，CNN
+# 我们该如何看新闻
 
 本文更新于 2021 年 7 月。
 
@@ -365,6 +365,8 @@ https://www.journalism.org/2014/10/21/political-polarization-media-habits/pj_14-
 >原文标题：英美主流媒体盘点：为什么我不建议你看 VOA，CNN
 >
 >作者：Bates
+>
+>时间：2021.7
 >
 >来源：[blog.shuziyimin.org](https://blog.shuziyimin.org/587)
 >
