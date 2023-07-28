@@ -366,7 +366,7 @@ https://www.journalism.org/2014/10/21/political-polarization-media-habits/pj_14-
 >
 >作者：Bates
 >
->时间：2021.7
+>时间：2021.07.08
 >
 >来源：[blog.shuziyimin.org](https://blog.shuziyimin.org/587)
 >
