@@ -21,11 +21,11 @@ bookHidden: false
 
 # 第一篇上 英文主流综合类媒体盘点
 
-## 0. 简述
+## 0· 简述
 
 本来这是一篇介绍 Apple news+ 中有哪些值得看的杂志。但是在查找资料的时候发现，竟然没有较新的文章介绍英美主流媒体，索性自己写了一篇。在介绍各个媒体的时候，会参考 YouTube 的做法，提及其资助方。同时会参考多方调查，给出各个媒体的立场。
 
-## 1. [通讯社](https://en.m.wikipedia.org/wiki/News_agency)
+## 1· [通讯社](https://en.m.wikipedia.org/wiki/News_agency)
 
 通讯社是采集新闻并为报纸、杂志、广播、电视等提供新闻资讯的机构。世界范围内最大的是 [美联社](https://en.wikipedia.org/wiki/Associated_Press)、[路透社](https://en.wikipedia.org/wiki/Reuters) 与 [法新社](https://en.wikipedia.org/wiki/Agence_France-Presse)。通讯社提供的新闻公认的是新闻，而非评论。几乎所有的主流意见也都认为三大通讯社的新闻总体上中立，没有特别偏向。
 
@@ -73,7 +73,7 @@ Bloomberg News 作为通讯社并不直接与普通读者接触，而是通过 B
 
 上述媒体中，个人仅关注 Bloomberg News 的 Twitter 账号，其他的媒体大概只有搜索验证新闻时才可能用到。
 
-## 2. 公共广播 / 电视
+## 2· 公共广播 / 电视
 
 **BBC**
 
@@ -102,7 +102,7 @@ Public Broadcasting Service 也是美国影响力较大的非盈利媒体机构�
 - 可信度：高
 - 官方渠道：[官网](https://www.pbs.org/) | [PBS Kids 直播](https://pbskids.org/video/livetv)
 
-## 3. 商业电视台
+## 3· 商业电视台
 
 **科普四大电视网**
 
@@ -158,7 +158,7 @@ CNN Anderson Cooper 360° | [YouTube Channel ](https://www.youtube.com/channel/U
 
 **欢迎在评论中推荐你喜欢的电视新闻 / 访谈节目**
 
-## 4. 主流报纸杂志
+## 4· 主流报纸杂志
 
 影响力最大的几大报纸在网络时代同样有不逊于电视台的影响力。这里先介绍美国的主流报纸杂志媒体，后介绍英国的。
 
@@ -213,7 +213,7 @@ CNN Anderson Cooper 360° | [YouTube Channel ](https://www.youtube.com/channel/U
 
 - 网站月访问量：15M
 
-## 5. 主流网站
+## 5· 主流网站
 
 影响力极大的商业电视网、报纸、杂志都能在数字时代赢得足够的订阅及经费。而网络时代出现的媒体盈利模式就不一样了，他们的盈利模式还是要靠流量卖广告。所以一方面内容上没有传统媒体中立，网站整体体验很好，并且他们的网页基本都有超过 10 个 tracker 用于收集数据卖数据和广告。
 
@@ -235,11 +235,11 @@ BuzzFeed 是 [Jonah Peretti](https://medium.com/matter/buzzfeeds-jonah-peretti-g
 
 BuzzFeed 又称猫猫狗狗站。Buzzfeed 与其他媒体的区别在于，他们建立了一套算法模型来做选题，而不是让编辑来选题。虽然网站到处都是猫猫狗狗， “XX 件证明你是 XX 的 XX” 等标题，但他们并不是故意为之，而是因为主流观众就是喜欢这些。
 
-## 6. 聚合新闻网站
+## 6· 聚合新闻网站
 
 Google News App，请查看本站文章了解更多。
 
-## 7. 如何关注这些媒体
+## 7· 如何关注这些媒体
 
 **官方网站或者 APP**
 
@@ -265,7 +265,7 @@ Twitter 由于其平台特点，非常适合媒体传播信息，你可以通过
 
 对于绝大部分只是偶尔可能会看看 电视直播的人来说，推荐使用 PLUTO TV ， PLUTO TV 是 viacom 旗下的流媒体播放平台，免费版也可以看 NBC， CBS， SkyNews Bloomberg 等新闻台的 24 小时直播，共支持 100 多个台。可以下载客户端，也可以直接在 [网页上](https://pluto.tv/tv/) 看。
 
-## 8. 个人关注的媒体
+## 8· 个人关注的媒体
 
 哈哈，这是个有趣的话题。
 
@@ -291,7 +291,7 @@ Business Insider， Fast Company， Bloomberg 都通过 RSS 订阅关注，偶�
 
 ## 媒体的客观性
 
-![img](https://cdn.shuziyimin.org/blog-07-01-1565526847.jpg)
+![img](https://fo.lioil.live/photo/media-statistics-1.jpg)
 
 上图来自 [Businessinsider 2018 年的新闻](https://www.businessinsider.com/most-and-least-biased-news-outlets-in-america-2018-6)，符合年轻一代对媒体的大概认识。
 
@@ -301,7 +301,7 @@ Business Insider， Fast Company， Bloomberg 都通过 RSS 订阅关注，偶�
 
 ## 不同媒体的受众意识形态有何区别？
 
-![img](https://cdn.shuziyimin.org/blog-07-02-1565526848.jpg)
+![img](https://fo.lioil.live/photo/media-statistics-2.jpg)
 
 上图来自 [umich.edu](https://guides.lib.umich.edu/c.php?g=637508&p=4462444)。
 
@@ -309,7 +309,7 @@ Business Insider， Fast Company， Bloomberg 都通过 RSS 订阅关注，偶�
 
 ## 不同意识形态的受众对媒体的可信度有什么区别？
 
-![img](https://cdn.shuziyimin.org/blog-07-03-1565526849.jpg)
+![img](https://fo.lioil.live/photo/media-statistics-3.jpg)
 
 这张来自 [journalism.org](https://www.journalism.org/2014/10/21/political-polarization-media-habits/pj_14-10-21_mediapolarization-01/) 的图就更有趣了。偏自由派的人 和 偏保守派的人对部分媒体的看法是完全不一样的。
 
@@ -321,7 +321,7 @@ WJS 在印象中一直被认为稍微偏保守派，也有认为稍微偏自由�
 
 ## 哪些媒体提供的是新闻，哪些提供的是观点？
 
-![img](https://cdn.shuziyimin.org/blog-07-04-1565526850.jpg)
+![img](https://fo.lioil.live/photo/media-map.jpg)
 
 上图来自 [adfontesmedia.com](https://www.adfontesmedia.com/the-chart-version-3-0-what-exactly-are-we-reading/)，这篇图示从两个维度来分析各大媒体，左侧为偏自由派，右侧为偏保守派。从上到下是按照内容分类：从真实事实 – 事实 – 分析 – 合理的观点 – 不合理的观点 – 带有误导性质的政治宣传等。
 
@@ -336,12 +336,6 @@ CNN 偏自由派，已经处于橙色和黄色区域了，与处于绿色区域�
 从头到尾都没有提到 VOA，因为 VOA 是美国政府联邦政府的外宣机构，是服务于美国政府的媒体，与其他盈利非营利的媒体都有着本质区别。根本不应该去看。
 
 ------
-
-**关于本文相关的讨论**
-
-很荣幸本文在 [Reddit](https://www.reddit.com/r/China_irl/comments/byg2fx/英美主流媒体盘点为什么我不建TES.HUI@GMAIL.COM议你看_voacnn_部分章节待更新/) ， [2049BBS](https://2049bbs.xyz/t/1215) 论坛和 [知乎](https://www.zhihu.com/question/47664508/answer/851113575) 上被推荐和讨论，这是本站的文章第一次获得如此广泛的讨论。我会认真阅读所有讨论，更新本文，也欢迎在评论区讨论。
-
-本文在最初发布时， **英文主流综合类媒体盘点** 与 **英美主流媒体的立场、政治偏向、及可信度分析** 放在同一篇，不易拆分，强行拆分会导致用户读起来很困惑，故仅在排版上调整。后续同一主题文章会以新文章的形式发出。
 
 **参考内容**
 
