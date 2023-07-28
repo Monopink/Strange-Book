@@ -21,13 +21,13 @@ bookHidden: false
 
 # 第一篇上 英文主流综合类媒体盘点
 
-## 0· 简述
+## 0. 简述
 
 本来这是一篇介绍 Apple news+ 中有哪些值得看的杂志。但是在查找资料的时候发现，竟然没有较新的文章介绍英美主流媒体，索性自己写了一篇。在介绍各个媒体的时候，会参考 YouTube 的做法，提及其资助方。同时会参考多方调查，给出各个媒体的立场。
 
-## 1· [通讯社](https://en.m.wikipedia.org/wiki/News_agency)
+## 1. 通讯社
 
-通讯社是采集新闻并为报纸、杂志、广播、电视等提供新闻资讯的机构。世界范围内最大的是 [美联社](https://en.wikipedia.org/wiki/Associated_Press)、[路透社](https://en.wikipedia.org/wiki/Reuters) 与 [法新社](https://en.wikipedia.org/wiki/Agence_France-Presse)。通讯社提供的新闻公认的是新闻，而非评论。几乎所有的主流意见也都认为三大通讯社的新闻总体上中立，没有特别偏向。
+[通讯社](https://en.m.wikipedia.org/wiki/News_agency)是采集新闻并为报纸、杂志、广播、电视等提供新闻资讯的机构。世界范围内最大的是 [美联社](https://en.wikipedia.org/wiki/Associated_Press)、[路透社](https://en.wikipedia.org/wiki/Reuters) 与 [法新社](https://en.wikipedia.org/wiki/Agence_France-Presse)。通讯社提供的新闻公认的是新闻，而非评论。几乎所有的主流意见也都认为三大通讯社的新闻总体上中立，没有特别偏向。
 
 **[The Associated Press](https://www.ap.org/en-us/)**
 
@@ -73,7 +73,7 @@ Bloomberg News 作为通讯社并不直接与普通读者接触，而是通过 B
 
 上述媒体中，个人仅关注 Bloomberg News 的 Twitter 账号，其他的媒体大概只有搜索验证新闻时才可能用到。
 
-## 2· 公共广播 / 电视
+## 2. 公共广播 / 电视
 
 **BBC**
 
@@ -102,7 +102,7 @@ Public Broadcasting Service 也是美国影响力较大的非盈利媒体机构�
 - 可信度：高
 - 官方渠道：[官网](https://www.pbs.org/) | [PBS Kids 直播](https://pbskids.org/video/livetv)
 
-## 3· 商业电视台
+## 3. 商业电视台
 
 **科普四大电视网**
 
@@ -158,7 +158,7 @@ CNN Anderson Cooper 360° | [YouTube Channel ](https://www.youtube.com/channel/U
 
 **欢迎在评论中推荐你喜欢的电视新闻 / 访谈节目**
 
-## 4· 主流报纸杂志
+## 4. 主流报纸杂志
 
 影响力最大的几大报纸在网络时代同样有不逊于电视台的影响力。这里先介绍美国的主流报纸杂志媒体，后介绍英国的。
 
@@ -213,7 +213,7 @@ CNN Anderson Cooper 360° | [YouTube Channel ](https://www.youtube.com/channel/U
 
 - 网站月访问量：15M
 
-## 5· 主流网站
+## 5. 主流网站
 
 影响力极大的商业电视网、报纸、杂志都能在数字时代赢得足够的订阅及经费。而网络时代出现的媒体盈利模式就不一样了，他们的盈利模式还是要靠流量卖广告。所以一方面内容上没有传统媒体中立，网站整体体验很好，并且他们的网页基本都有超过 10 个 tracker 用于收集数据卖数据和广告。
 
@@ -235,11 +235,11 @@ BuzzFeed 是 [Jonah Peretti](https://medium.com/matter/buzzfeeds-jonah-peretti-g
 
 BuzzFeed 又称猫猫狗狗站。Buzzfeed 与其他媒体的区别在于，他们建立了一套算法模型来做选题，而不是让编辑来选题。虽然网站到处都是猫猫狗狗， “XX 件证明你是 XX 的 XX” 等标题，但他们并不是故意为之，而是因为主流观众就是喜欢这些。
 
-## 6· 聚合新闻网站
+## 6. 聚合新闻网站
 
 Google News App，请查看本站文章了解更多。
 
-## 7· 如何关注这些媒体
+## 7. 如何关注这些媒体
 
 **官方网站或者 APP**
 
@@ -265,7 +265,7 @@ Twitter 由于其平台特点，非常适合媒体传播信息，你可以通过
 
 对于绝大部分只是偶尔可能会看看 电视直播的人来说，推荐使用 PLUTO TV ， PLUTO TV 是 viacom 旗下的流媒体播放平台，免费版也可以看 NBC， CBS， SkyNews Bloomberg 等新闻台的 24 小时直播，共支持 100 多个台。可以下载客户端，也可以直接在 [网页上](https://pluto.tv/tv/) 看。
 
-## 8· 个人关注的媒体
+## 8. 个人关注的媒体
 
 哈哈，这是个有趣的话题。
 
