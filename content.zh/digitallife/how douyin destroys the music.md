@@ -8,10 +8,12 @@ bookHidden: false
 
 # 抖音是如何破坏音乐的
 
+> 原标题：周深混音师告诉你抖音是如何摧毁音乐动态的
+
 {{< bilibili 925044144 >}}
 
->原视频标题：周深混音师告诉你抖音是如何摧毁音乐动态的
+---
+
+> 作者：李大脑袋
 >
->作者：李大脑袋
->
->来源：[bilibili.com](https://www.bilibili.com/video/BV1ET4y157vU?share_source=copy_web)
+> 来源：[bilibili.com](https://www.bilibili.com/video/BV1ET4y157vU?share_source=copy_web)

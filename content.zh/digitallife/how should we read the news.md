@@ -9,6 +9,8 @@ bookHidden: false
 
 # 我们该如何看新闻
 
+> 原标题：英美主流媒体盘点：为什么我不建议你看 VOA，CNN
+
 本文更新于 2021 年 7 月。
 
 - 第一篇上：英文主流媒体盘点 ｜ 综合类媒体 （本文）
@@ -362,12 +364,10 @@ https://www.journalism.org/2014/10/21/political-polarization-media-habits/pj_14-
 
 ---
 
->原文标题：英美主流媒体盘点：为什么我不建议你看 VOA，CNN
+> 作者：Bates
 >
->作者：Bates
+> 时间：2021.07.08
 >
->时间：2021.07.08
+> 来源：[blog.shuziyimin.org](https://blog.shuziyimin.org/587)
 >
->来源：[blog.shuziyimin.org](https://blog.shuziyimin.org/587)
->
->协议：署名-非商业性使用-相同方式共享 ©2021 CC BY-NC-SA 3.0
+> 协议：署名-非商业性使用-相同方式共享 ©2021 CC BY-NC-SA 3.0

@@ -1,12 +1,18 @@
 ---
 weight: 10
-title: "人生苦短，远离微信［GitHub］"
+title: "人生苦短 远离微信［GitHub］"
 bookFlatSection: false
 bookCollapseSection: false
 bookHidden: false
 ---
 
-# 人生苦短，远离微信
+# 人生苦短 远离微信
+
+收集微信的反人性设计、无耻审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等侵犯 [人权](https://www.un.org/zh/about-us/universal-declaration-of-human-rights) 的行径，期望用户认识到微信的弊病，并提供微信之外的选择，倡导用户用脚投票、拒绝使用微信 👎️。
+
+🤖️ 欢迎提交 [Issues](https://github.com/TomBener/get-rid-of-wechat/issues) 和 [Pull requests](https://github.com/TomBener/get-rid-of-wechat/pulls)
+
+---
 
 > 方便真的是我们人生的唯一价值吗？所谓精神生活并不是指向专家学习审美或是艺术创作，那其实是把精神生活变成了世俗生活。微信越是一种生活方式，我们就越有必要对其严阵以待。—— [李如一](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)
 
@@ -155,7 +161,8 @@ bookHidden: false
 
 ![逃离微信宣言海报](https://raw.githubusercontent.com/TomBener/stay-away-from-wechat/master/free-from-wechat.jpg)
 
+---
 
->GitHub项目：stay-away-from-wechat 
+> GitHub 项目：stay-away-from-wechat/人生苦短，远离微信
 >
->项目地址：[https://github.com/TomBener/stay-away-from-wechat](https://github.com/TomBener/stay-away-from-wechat)
+> 项目地址：[https://github.com/TomBener/stay-away-from-wechat](https://github.com/TomBener/stay-away-from-wechat)
