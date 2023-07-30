@@ -4,12 +4,13 @@
   width: 100%;
   max-width: 100%;
   padding: 5px; 
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 </style>
 
-<input type="text" id="keyword" name="keyword" onclick="selectText(this)"/>
-<br />
+<div class="book-search">
+  <input type="text" id="keyword" name="keyword" placeholder="Jianghu Search" aria-label="Search" onclick="selectText(this)"/>
+</div>
 <button onclick="google()">Google NCR</button>
 <button onclick="duckGo()">DuckDuckGo</button>
 <button onclick="bing()">Bing</button>
