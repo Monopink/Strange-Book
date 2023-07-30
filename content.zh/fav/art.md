@@ -33,7 +33,8 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.colorhunt.co/img/color-hunt-icon-ios.png"> | [Color Hunt](https://www.colorhunt.co) | 四个一组卡片配色 |
 | <img loading="lazy" width="32px" alt="💔" src="https://webgradients.com/favicons/favicon-32x32.png"> | [WebGradients](https://webgradients.com) | 适合 Web 开发的渐变色 |
 | <img loading="lazy" width="32px" alt="💔" src="https://uigradients.com/static/images/favicon-32x32.png"> | [uiGradients](https://uigradients.com) | 渐变色 |
-| <img loading="lazy" width="32px" alt="💔" src="https://zhongguose.com/favicon.ico"> | [中国色](http://zhongguose.com) | 中国传统颜色 |
+| <img loading="lazy" width="32px" alt="💔" src="https://nipponcolors.com/favicon.ico"> | [NIPPON COLORS](https://nipponcolors.com/) | 日本传统颜色 |
+| <img loading="lazy" width="32px" alt="💔" src="https://zhongguose.com/favicon.ico"> | [中国色](http://zhongguose.com) | 中国传统颜色 风格模仿自 NIPPON COLORS |
 
 
 ## 图库
