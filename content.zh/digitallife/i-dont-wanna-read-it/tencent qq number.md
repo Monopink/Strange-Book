@@ -57,7 +57,7 @@ title: "QQ 号码规则"
 
 ## 其他
 
-- 本规则内容包括 [腾讯服务协议](./tencent-services) 。
+- 本规则内容包括 [腾讯服务协议](../tencent-services) 。
 
 - 个人信息问题包含在 [《腾讯隐私政策》](http://www.qq.com/privacy.htm) 中。
 
