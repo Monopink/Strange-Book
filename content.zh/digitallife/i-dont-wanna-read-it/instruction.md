@@ -1,9 +1,6 @@
 ---
 weight: 1
 title: "项目说明"
-bookFlatSection: false
-bookCollapseSection: true
-bookHidden: false
 ---
 
 >  "I don′t wanna read it."
