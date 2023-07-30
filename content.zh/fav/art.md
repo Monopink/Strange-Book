@@ -6,9 +6,6 @@ bookCollapseSection: false
 bookHidden: false
 ---
 
-
-
-
 ## 设计&创意
 
 |  |  |  |
@@ -74,10 +71,10 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src=" 	https://www.whatfontis.com/favicon.ico"> | [WhatFontIs](https://www.whatfontis.com/) | 图片搜索字体 以及找字体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 开源字体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源宋体](https://github.com/adobe-fonts/source-han-serif) | 开源字体 |
-| <img loading="lazy" width="32px" alt="💔" src="http://jikasei.me/favicon.ico"> | [思源柔黑](http://jikasei.me/font/genjyuu/) | 基于思源黑体制作的圆体 |
+| <img loading="lazy" width="32px" alt="💔" src="http://jikasei.me/favicon.ico"> | [自家製フォント工房](http://jikasei.me/)｜[思源柔黑](http://jikasei.me/font/genjyuu/) | 自制字体工作坊｜基于思源黑体制作的圆体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [资源黑体](https://github.com/CyanoHao/Resource-Han-Rounded) | 基于思源黑体制作的圆体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic) | 基于 Iosevka 与思源黑体 适用于中英混合的编程字体 |
-| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | 楷体 开源 |
+| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [LXGW](https://lxgw.github.io/)｜[霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | 独立字体制作者｜开源楷体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.maoken.com/favicon.ico"> | [猫啃网](https://www.maoken.com/) | 免费商用字体集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://3type.cn/img/icons/favicon-96x96.png"> | [3type](https://3type.cn/)｜[丁卯点阵体](https://3type.cn/fonts/dinkie_bitmap/index.html) | 国际化的字体公司  代表作：基本美术体、丁卯点阵体|
 
@@ -98,8 +95,8 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.freebiesbug.com/favicon.ico"> | [Freebiesbug](https://freebiesbug.com) | 免费 Mockup、图标、UI 资源 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.graphberry.com/favicon.ico"> | [Graphberry](https://www.graphberry.com) | 免费 Mockup 资源 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.vecteezy.com/favicon.ico"> | [Vecteezy](https://www.vecteezy.com) | Mockup 资源 |
-| <img loading="lazy" width="32px" alt="💔" src="abc"> | [Premiumpixels](https://www.premiumpixels.com) | Mockup、图标资源 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.pixeden.com/favicon.ico"> | [Pixeden](https://www.pixeden.com) | Mockup、网页资源 |
+| <img loading="lazy" width="32px" alt="💔" src="abc"> | [Premiumpixels](https://www.premiumpixels.com) | Mockup/图标资源 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.pixeden.com/favicon.ico"> | [Pixeden](https://www.pixeden.com) | Mockup/网页资源 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pixelbuddha.net/assets/images/content/favicon/favicon-32.png"> | [Pixelbuddha](https://pixelbuddha.net/) | Mockup 资源 |
 
 ## 视频
@@ -113,13 +110,13 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.photopea.com/promo/thumb256.png"> | [Photopea](https://www.photopea.com) | 在线版 Photoshop |
-| <img loading="lazy" width="32px" alt="💔" src="https://canva.com/favicon.ico"> | [Canva](https://www.canva.com) | 平面设计工具 |
+| <img loading="lazy" width="32px" alt="💔" src="https://canva.com/favicon.ico"> | [Canva](https://www.canva.com) | 模板众多的平面设计工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://xoihazard.com/favicon.ico"> | [Vector Halftone Maker](https://xoihazard.com/tools/halftone/) | 色彩半调生成 |
 | <img loading="lazy" width="32px" alt="💔" src="https://bigjpg.com/static/css/touch-icon-iphone.png"> | [Bigjpg](https://bigjpg.com) | 图片智能放大 |
 | <img loading="lazy" width="32px" alt="💔" src="https://smallpdf.com/favicon.png"> | [Smallpdf](https://smallpdf.com/pdf-tools) | 众多 PDF 相关工具 |
-| 💔 | [Duotone Effect Generator](https://duotones.co) | 双色调滤镜 |
+| 💔 | [Duotone Effect Generator](https://duotones.co) | 将图片处理为双色调风格 |
 | <img loading="lazy" width="32px" alt="💔" src="https://fotoforensics.com/apple-touch-icon.png"> | [FotoForensics](https://fotoforensics.com/) | jpg 图片分析工具 |
-| <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/apple-touch-icon.png"> | [TheFaviconFinder](https://besticon.herokuapp.com/) | 获取网站图标 |
+| <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)｜[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.launchaco.com/static/favicon.ico"> | [launchaco](https://www.launchaco.com) | 设计你的网站、Logo 部分付费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://elementor.com/marketing/wp-content/uploads/2021/06/cropped-fav2-32x32.png"> | [elementor](https://elementor.com) | 在线设计网站 没用过 付费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pixelmap.amcharts.com/static/img/icons/favicon.ico"> | [Pixel Map Generator](https://pixelmap.amcharts.com/) | 地图着色 可能不符合中国大陆规范 |
@@ -153,6 +150,7 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://aur.one/images/favicon.png"> | [一个开始](https://aur.one) | 快速搜索创意内容 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.doyoudo.com/favicon.ico"> | [doyoudo](http://www.doyoudo.com/resources) | doyoudo 设计资源推荐 |
-| <img loading="lazy" width="32px" alt="💔" src="https://chuangzaoshi.com/favicon.ico"> | [创意狮](http://chuangzaoshi.com) | 创意狮导航 |
+
+[lioil](/lioil)
 
 {{< tables-style >}}

@@ -217,16 +217,16 @@ author: "Dangel"
 
 在 GitHub 中新建一个名为 `<你的用户名>.github.io` 的仓库，用于存放网页文件。
 
-这里假设用户名为 `smilonely` 部署好后网站的链接为 `smilonely.github.io`。
+这里假设用户名为 `monopink` 部署好后网站的链接为 `monopink.github.io`。
 
-如果这个仓库你已经使用或者你不想使用，你可以自定义一个仓库名字，假设为 `my-blog` ，那么你需要推送到这个仓库的 `gh-pages` 分支，网站链接为 `smilonely.github.io/my-blog`。
+如果这个仓库你已经使用或者你不想使用，你可以自定义一个仓库名字，假设为 `my-blog` ，那么你需要推送到这个仓库的 `gh-pages` 分支，网站链接为 `monopink.github.io/my-blog`。
 
 ### 生成网站文件
 
 在生成之前先完善好配置文件 `blog/config.toml`：
 
 ```toml
-baseURL = "https://smilonely.github.io/"
+baseURL = "https://monopink.github.io/"
 # 网站链接
 
 title = "Jianghu Wiki"
@@ -259,7 +259,7 @@ Hugo
 ```shell
 cd public
 git init
-git remote add origin https://smilonely.github.io/
+git remote add origin https://monopink.github.io/
 git add .
 git commit -m "First commit"
 git push -u origin main

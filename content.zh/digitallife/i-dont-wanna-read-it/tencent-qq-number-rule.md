@@ -51,7 +51,7 @@ title: "QQ 空间使用规则"
 
 ## 其他
 
-- 本规则是 [QQ 空间服务协议](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-Qzone-Service) 的一部分。
+- 本规则是 [QQ 空间服务协议](https://github.com/monopink/I-dont-wanna-read-it/wiki/Tencent-Qzone-Service) 的一部分。
 
 - 条款内容随时更新。
 

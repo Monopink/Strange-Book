@@ -6,18 +6,23 @@ bookCollapseSection: false
 bookHidden: false
 ---
 
+## AI
 
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://psc2.cf2.poecdn.net/favicon.svg"> | [Poe](https://poe.com/) | 对话 Ai 合集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://uploads-ssl.webflow.com/628193922a4d18e69ba81f14/628193922a4d180bf1a81f46_Favicon.png"> | [Forefront Chat](https://chat.forefront.ai/) | 对话 Ai 合集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://claude.ai/favicon.ico"> | [Claude](https://claude.ai/)｜[Slack 插件](https://slack.com/apps/A04KGS7N9A8-claude) | 对话 Ai Claude |
+| <img loading="lazy" width="32px" alt="💔" src="https://cdn.fastest.chat/icon-easy-open.jpg"> | [Easyopen](https://easyopen.chat/) | 每天免费一次 绘画 Ai Midjourney |
 
 
 ## 找东西
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://search.chongbuluo.com/favicon.ico"> | [快搜](https://search.chongbuluo.com/) | 搜索引擎集合 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.jiumodiary.com/images/apple/apple-57.png"> | [鸠摩搜索](https://www.jiumodiary.com/) | 找电子书 |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.iplaysoft.com/ips/icon/favicon-v1/favicon.ico"> | [异次元软件世界](https://www.iplaysoft.com) | 分享好用的软件 |
 | <img loading="lazy" width="20px" alt="💔" src="https://static1.appinn.com/stwww/wp-content/uploads/Appinn-icon-152.jpg"> | [小众软件](https://www.appinn.com) | 分享好用的软件 |
-| <img loading="lazy" width="32px" alt="💔" src="https://giphy.com/static/img/icons/apple-touch-icon-120px.png"> | [GIPHY](https://giphy.com/) | 找表情动图 |
 | <img loading="lazy" width="32px" alt="💔" src="https://mp3clan.com/favicon.ico"> | [mp3Clan](http://mp3clan.com) | MP3 音乐资源 |
 | <img loading="lazy" width="32px" alt="💔" src="https://33.agilestudio.cn/favicon.ico"> | [33台词](https://33.agilestudio.cn/) | 找影视剧中出现的台词 |
 
@@ -31,13 +36,9 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://ludwig.guru/l-favicon-32x32.png?3a7cefc109162422373b764db145c010"> | [Ludwig](https://ludwig.guru/) | 英语语料库 有限免费|
 | <img loading="lazy" width="32px" alt="💔" src="https://linggle.com/favicon.ico"> | [Linggle](https://linggle.com/) | 英语语料库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.english-corpora.org/favicon.ico"> | [English Corpora](https://www.english-corpora.org/) | 英语语料库 需注册|
+| <img loading="lazy" width="32px" alt="💔" src="https://www.allscrabblewords.com/img/favicon.ico"> | [All Scrabble Words](http://www.allscrabblewords.com/) | 按特征找单词 |
+| <img loading="lazy" width="32px" alt="💔" src="https://shenyandayi.com/favicon.ico"> | [深言达意](https://www.shenyandayi.com/) | 根据描述找中英文词 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.shi-ci.com/favicon.ico"> | [中华诗词](https://www.shi-ci.com/) | 收录了从先秦开始六万余首诗词 |
-| <img loading="lazy" width="32px" alt="💔" src="https://wantwords.thunlp.org/static/image/zm2.ico"> | [万词王](https://wantwords.thunlp.org/home/) | 根据描述找词 |
-| <img loading="lazy" width="32px" alt="💔" src="https://saying.mingdawoo.com/static/img/common/ming.logo.png"> | [如是说](https://saying.mingdawoo.com/) | 找类似的名言诗句 |
-| <img loading="lazy" width="32px" alt="💔" src="https://tool.mingdawoo.com/lang/nearby_word/static/img/common/bird.logo.png"> | [近邻词汇检索](https://tool.mingdawoo.com/lang/nearby_word/) | 查找中文近邻词 |
-| 💔 | [王斌给您对对连](https://ai.binwang.me/couplet/) | 智能对对联 |
-| <img loading="lazy" width="32px" alt="💔" src="https://uranus-static.oss-accelerate.aliyuncs.com/xiezuocat/favicon.ico"> | [写作猫](https://xiezuocat.com/) | 帮你改文章 |
-
 
 ## 在线工具
 
@@ -48,7 +49,6 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://imgflip.com/favicon.ico"> | [Imgflip](https://imgflip.com) | 表情包制作工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.savefrom.net/apple-touch-icon.png"> | [savefrom.net](https://savefrom.net/) | 下载网站视频 |
 | <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)｜[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
-| 💔 | [手写体](http://59.108.48.27/flexifont-chn/home/) | 生成你的手写字体 |
 
 ## 数据
 
