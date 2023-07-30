@@ -22,6 +22,7 @@
 <button onclick="qimai()">七麦</button>
 <button onclick="steamdb()">SteamDB</button>
 <button onclick="steam()">Steam</button>
+<button onclick="giphy()">GIPHY</button>
 <span>｜</span>
 <button onclick="domainr()">Domainr</button>
 <button onclick="whois()">Whois</button>
@@ -69,6 +70,9 @@ function steamdb() {
 }
 function steam() {
   window.open("https://store.steampowered.com/search/?term=" + keywordBox.value);
+}
+function giphy() {
+  window.open("https://giphy.com/search/" + keywordBox.value);
 }
 
 function domainr() {

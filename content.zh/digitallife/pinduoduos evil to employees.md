@@ -16,7 +16,7 @@ bookHidden: false
 
 > 卡巴斯基实验室的安全研究人员证实拼多多 App 包含恶意代码，此前谷歌已将其从官方应用商店 Play Store 中下架。
 
-![img](https://fo.lioil.live/photo/pinduoduo-report.jpg)
+![img](https://oo7.iou.icu/photo/pinduoduo-report.jpg)
 
 大厂吃瓜据悉，拼多多在社区团购业务（也就是某买菜业务）的百团大战中能够大获全胜，市场份额占领第一，是个很有意思的故事。
 
@@ -64,7 +64,7 @@ D2-1，应届生，薪资范围：平均 60w，最高能接近 100w
 
 拼多多员工迫于现实的声音也此起彼伏。
 
-![img](https://fo.lioil.live/photo/pinduoduo-voices-1.jpg)
+![img](https://oo7.iou.icu/photo/pinduoduo-voices-1.jpg)
 
 这反应了员工最直接的想法，**因为薪资高，其他公司接不住，所以员工一般只有三个选择。**
 
@@ -84,7 +84,7 @@ D2-1，应届生，薪资范围：平均 60w，最高能接近 100w
 
 除此之外，**私人社交也被严格管控**，不允许员工私自建微信群，一旦发现，HR 监督删除、解散；不允许微信发任何文件，发了，HR 直接问询、扣手机；一旦被怀疑泄露，HR 直接查员工微信、脉脉。
 
-![img](https://fo.lioil.live/photo/pinduoduo-voices-2.jpg)
+![img](https://oo7.iou.icu/photo/pinduoduo-voices-2.jpg)
 
 脉脉常有HR钓鱼发帖，发现有泄露的，就带去谈话，边缘化员工。
 

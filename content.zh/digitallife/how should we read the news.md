@@ -293,7 +293,7 @@ Business Insider， Fast Company， Bloomberg 都通过 RSS 订阅关注，偶�
 
 ## 媒体的客观性
 
-![img](https://fo.lioil.live/photo/media-statistics-1.jpg)
+![img](https://oo7.iou.icu/photo/media-statistics-1.jpg)
 
 上图来自 [Businessinsider 2018 年的新闻](https://www.businessinsider.com/most-and-least-biased-news-outlets-in-america-2018-6)，符合年轻一代对媒体的大概认识。
 
@@ -303,7 +303,7 @@ Business Insider， Fast Company， Bloomberg 都通过 RSS 订阅关注，偶�
 
 ## 不同媒体的受众意识形态有何区别？
 
-![img](https://fo.lioil.live/photo/media-statistics-2.jpg)
+![img](https://oo7.iou.icu/photo/media-statistics-2.jpg)
 
 上图来自 [umich.edu](https://guides.lib.umich.edu/c.php?g=637508&p=4462444)。
 
@@ -311,7 +311,7 @@ Business Insider， Fast Company， Bloomberg 都通过 RSS 订阅关注，偶�
 
 ## 不同意识形态的受众对媒体的可信度有什么区别？
 
-![img](https://fo.lioil.live/photo/media-statistics-3.jpg)
+![img](https://oo7.iou.icu/photo/media-statistics-3.jpg)
 
 这张来自 [journalism.org](https://www.journalism.org/2014/10/21/political-polarization-media-habits/pj_14-10-21_mediapolarization-01/) 的图就更有趣了。偏自由派的人 和 偏保守派的人对部分媒体的看法是完全不一样的。
 
@@ -323,7 +323,7 @@ WJS 在印象中一直被认为稍微偏保守派，也有认为稍微偏自由�
 
 ## 哪些媒体提供的是新闻，哪些提供的是观点？
 
-![img](https://fo.lioil.live/photo/media-map.jpg)
+![img](https://oo7.iou.icu/photo/media-map.jpg)
 
 上图来自 [adfontesmedia.com](https://www.adfontesmedia.com/the-chart-version-3-0-what-exactly-are-we-reading/)，这篇图示从两个维度来分析各大媒体，左侧为偏自由派，右侧为偏保守派。从上到下是按照内容分类：从真实事实 – 事实 – 分析 – 合理的观点 – 不合理的观点 – 带有误导性质的政治宣传等。
 

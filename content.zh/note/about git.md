@@ -14,14 +14,14 @@ bookHidden: false
 
 ```shell
 git config --global user.name "Jianghu Wiki"
-git config --global user.email "jianghu-wiki@lioil.com"
+git config --global user.email "jianghu-wiki@jhwiki.com"
 ```
 
 ### 在某个项目下进行特殊设置
 
 ```shell
 git config user.name "Jianghu Wiki 2"
-git config user.email "jianghu-wiki-2@lioil.live"
+git config user.email "jianghu-wiki-2@jhwiki.com"
 ```
 
 ### 查看该项目配置
@@ -35,10 +35,10 @@ git config --list
 ```shell
 ...
 user.name=Jianghu Wiki
-user.email=jianghu-wiki@lioil.live
+user.email=jianghu-wiki@jhwiki.com
 ...
 user.name=Jianghu Wiki 2
-user.email=jianghu-wiki-2@lioil.live
+user.email=jianghu-wiki-2@jhwiki.com
 ...
 ```
 

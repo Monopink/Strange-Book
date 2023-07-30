@@ -13,6 +13,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://haveibeenpwned.com/favicon.ico"> | [have i been pwned?](https://haveibeenpwned.com/) | 检查密码是否泄露 |
 | <img loading="lazy" width="32px" alt="💔" src="https://amiunique.org/favicon.ico"> | [AmIUnique](https://amiunique.org/) | 你在互联网的身份 浏览器指纹 |
 | <img loading="lazy" width="32px" alt="💔" src="https://dnsleaktest.org/favicon.png"> | [DNS Leak Test](https://dnsleaktest.org/dns-leak-test) | DNS 泄露检测 |
 

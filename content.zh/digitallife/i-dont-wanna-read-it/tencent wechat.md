@@ -73,11 +73,11 @@ title: "腾讯微信软件许可及服务协议"
 
 ## 其他
 
-- 本协议视为 [腾讯服务协议](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-Service) 及 [QQ 号码规则](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule) 的补充协议，冲突内容以本协议为准。
+- 本协议视为 [腾讯服务协议](https://github.com/monopink/I-dont-wanna-read-it/wiki/Tencent-Service) 及 [QQ 号码规则](https://github.com/monopink/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule) 的补充协议，冲突内容以本协议为准。
 
 - 隐私相关请看 [《微信隐私保护指引》](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy)。
 
-- 关于帐号具体规则请遵守 [QQ 号码规则](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule) 以及 [《微信个人帐号使用规范》](https://weixin110.qq.com/security/readtemplate?t=w_security_center_website/w_weixin_account_agreement)。
+- 关于帐号具体规则请遵守 [QQ 号码规则](https://github.com/monopink/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule) 以及 [《微信个人帐号使用规范》](https://weixin110.qq.com/security/readtemplate?t=w_security_center_website/w_weixin_account_agreement)。
 
 - 使用微信支付时，请遵守 [《微信支付用户服务协议》](http://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=faq&t=weixin_agreement&s=pay)。
 
