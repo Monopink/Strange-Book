@@ -59,7 +59,7 @@ title: "QQ 空间服务协议"
 
 ## 其他
 
-- 本协议内容同时包括 [腾讯服务协议](https://github.com/monopink/I-dont-wanna-read-it/wiki/Tencent-Service)、[QQ 号码规则](https://github.com/monopink/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule)、[QQ 空间使用规则](https://github.com/monopink/I-dont-wanna-read-it/wiki/Tencent-Qzone-Usage-Rules)。
+- 本协议内容同时包括 [腾讯服务协议](./tencent-services)、[QQ 号码规则](./tencent-qq-number)、[QQ 空间使用规则](./tencent-qzone)。
 
 <br />
 
