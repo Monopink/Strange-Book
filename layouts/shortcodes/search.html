@@ -9,11 +9,6 @@
 .searchbt {
   padding-right: 0.5rem;
 }
-
-.searchbt:visited {
-  color: inherit;
-  text-decoration: none;
-}
 </style>
 
 <div class="book-search" style="margin-bottom: 0.5rem;">
@@ -49,12 +44,15 @@
 let keywordBox = document.getElementById("keyword");
 function google() {
   window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=" + keywordBox.value);
+  return false
 }
 function duckgo() {
   window.open("https://duckduckgo.com/?q=" + keywordBox.value);
+  return false
 }
 function bing() {
   window.open("https://www.bing.com/search?q=" + keywordBox.value);
+  return false
 }
 function yandex() {
   window.open("https://yandex.com/search/?text=" + keywordBox.value);
