@@ -77,7 +77,8 @@
 
   pre {
     padding: $padding-16;
-    background: var(--gray-100);
+    /*background: var(--gray-100);*/
+    /*overrides from syntax.css*/
     border-radius: $border-radius;
     overflow-x: auto;
 
