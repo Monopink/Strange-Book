@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: "sample"
+title: "title"
 bookFlatSection: false
 bookCollapseSection: true
 bookHidden: true
@@ -8,7 +8,7 @@ bookHidden: true
 
 # 标题
 
-> 原始协议地址：[sample.com](https://sample.com)
+> 原始协议地址：[example.com](https://example.com)
 ```
 所属公司名称：才华有限公司
 最后编辑时间：2020-01-01
