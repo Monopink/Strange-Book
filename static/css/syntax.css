@@ -1,7 +1,18 @@
+:root {
+  @media (prefers-color-scheme: light) {
+    --code-color: #4c4f69;
+    --code-backgroud-color: #eff1f5;
+  }
+  @media (prefers-color-scheme: dark) {
+    --code-color: #c6d0f5;
+    --code-backgroud-color: #323542;
+  }
+}
+
 @media (prefers-color-scheme: light) {
   .chroma {
-    color: #4c4f69;
-    background-color: #eff1f5;
+    color: var(--code-color);
+    background-color: var(--code-backgroud-color);
   }
   .chroma .cl {
     color: #4c4f69;
@@ -280,8 +291,8 @@
 
 @media (prefers-color-scheme: dark) {
   .chroma {
-    color: #c6d0f5;
-    background-color: #323542;
+    color: var(--code-color);
+    background-color: var(--code-backgroud-color);
   }
   .chroma .cl {
     color: #c6d0f5;
