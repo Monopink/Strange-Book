@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: "sample"
+title: "title"
 bookFlatSection: false
 bookCollapseSection: false
 bookHidden: true
