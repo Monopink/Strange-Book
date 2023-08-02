@@ -49,15 +49,15 @@ $hint-colors: (
 }
 
 @mixin theme-dark {
-  --gray-100: rgba(255, 255, 255, 0.1);
-  --gray-150: rgba(255, 255, 255, 0.1); //book-search
+  --gray-100: rgba(255, 255, 255, 0.08);
+  --gray-150: rgba(255, 255, 255, 0.08); //book-search
   --gray-200: rgba(255, 255, 255, 0.2);
   --gray-500: rgba(255, 255, 255, 0.5);
 
   --color-link: #84b2ff;
   --color-visited-link: #b88dff;
 
-  --body-background: #343a40;
+  --body-background: #202429;
   --body-font-color: #e9ecef;
 
   --icon-filter: brightness(0) invert(1);
