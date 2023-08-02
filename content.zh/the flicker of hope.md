@@ -10,6 +10,7 @@ tags:
 categories: 
   - Poem
   - Line
+bookHidden: true
 ---
 
 The sun sets low, the day is done,
