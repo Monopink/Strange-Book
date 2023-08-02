@@ -4,12 +4,12 @@
   fill: var(--body-font-color);
 }
 
-.markdown table tr th:first-child {
+.markdown table:nth-of-type(n+2) tr th:first-child {
   width: 38px;
   max-width: 38px;
 }
 
-.markdown table tr td:first-child {
+.markdown table:nth-of-type(n+2) tr td:first-child {
   width: 38px;
   max-width: 38px;
   padding: 0 0 0 8px !important;
@@ -17,16 +17,16 @@
   vertical-align: middle;
 }
 
-.markdown table tr td:nth-child(2) {
+.markdown table:nth-of-type(n+2) tr td:nth-child(2) {
   width: 34%;
   padding: 8px 8px 8px 5px;
 }
 
-.markdown table tr td:nth-child(3) {
+.markdown table:nth-of-type(n+2) tr td:nth-child(3) {
   width: 47%;
 }
 
-.markdown table tr td:nth-child(4) {
+.markdown table:nth-of-type(n+2) tr td:nth-child(4) {
   width: 19%;
   padding: 0 8px 0 0 !important;
   vertical-align: middle;
