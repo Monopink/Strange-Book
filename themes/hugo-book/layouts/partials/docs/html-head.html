@@ -49,3 +49,8 @@ https://github.com/alex-shpak/hugo-book
     integrity="{{ .Data.Integrity }}" crossorigin="anonymous"
   {{- end -}}
 {{- end -}}
+
+<!-- Add custom head content from articles -->
+{{ if .Params.headCustom }}
+  {{ .Params.headCustom | safeHTML }}
+{{ end }}
