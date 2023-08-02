@@ -1,15 +1,11 @@
 ---
 author: "Dangel"
-date: 2023-07-10
-linktitle: Hello World
-menu:
-  main:
-    parent: tutorials
-next: 
-prev: 
-title: Hello
+date: 2023-08-20
+linktitle: hello-world 
+title: Hello World
 weight: 10
 ---
 
+Helloooo Woooorld！
 
-Helloooo Woooorld
+博客开起来了，我第二次有了博客。

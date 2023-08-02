@@ -4,7 +4,7 @@
     <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
   </h1>
   {{ partial "docs/post-meta" . }}
-  {{- .Content | replaceRE "<a " "<a target=\"_blank\" " -}}
+  {{- .Content -}}
 </article>
 {{ end }}
 
