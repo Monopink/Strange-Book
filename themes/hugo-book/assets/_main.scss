@@ -135,6 +135,10 @@ ul.pagination {
   }
 }
 
+.book-content-tree {
+  margin-bottom: 2em;
+}
+
 // for RTL support
 body[dir="rtl"] .book-menu {
   input.toggle + label::after {

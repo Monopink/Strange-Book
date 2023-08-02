@@ -8,7 +8,7 @@
 {{ end }}
 
 {{ define "book-section-children" }}{{/* (dict "Section" .Section "CurrentPage" .CurrentPage) */}}
-  <ul>
+  <ul class="book-content-tree">
     {{ range (where .Section.Pages "Params.bookhidden" "ne" true) }}
       {{ if .IsSection }}
         <li {{- if .Params.BookFlatSection }} class="book-section-flat" {{ end -}}>
