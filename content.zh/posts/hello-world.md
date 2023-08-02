@@ -9,3 +9,5 @@ weight: 10
 Helloooo Woooorld！
 
 博客开起来了，我第二次有了博客。
+
+![Photographs](https://oo7.iou.icu/bicture/hello-word.webp)
