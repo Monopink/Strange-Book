@@ -32,8 +32,6 @@ defaultContentLanguageInSubdir = false
   lineNumbersInTable = true
   noClasses = false
   noHl = false
-  style = 'catppuccin-frappe'
-  tabWidth = 4
 
 # Multi-lingual mode config
 # There are different options to translate files
