@@ -87,7 +87,7 @@ headCustom: |
 
 | 图标 | 文字 | 系统 |
 | :----: | :----: | ---- |
-| {{< lists-svg w >}} | W | Windows |
+| {{< lists-svg "w" >}} | W | Windows |
 | <img loading="lazy" width="32px" alt="M" src="https://oo7.iou.icu/list/logo-macos.svg"> | M | macOS |
 | <img loading="lazy" width="32px" alt="M" src="https://oo7.iou.icu/list/logo-linux.svg"> | L | Linux |
 | <img loading="lazy" width="32px" alt="M" src="https://oo7.iou.icu/list/logo-ios.svg"> | I | iOS |
