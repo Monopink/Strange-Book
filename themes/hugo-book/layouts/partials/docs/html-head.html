@@ -20,6 +20,11 @@
 {{- $styles := resources.Get "book.scss" | resources.ExecuteAsTemplate "book.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}" {{ template "integrity" $styles }}>
 
+<!-- Add custom head content from articles -->
+{{ if .Params.headCustom }}
+  {{ .Params.headCustom | safeHTML }}
+{{ end }}
+
 {{- if default true .Site.Params.BookSearch -}}
   {{- $searchJSFile := printf "%s.search.js" .Language.Lang }}
   {{- $searchJS := resources.Get "search.js" | resources.ExecuteAsTemplate $searchJSFile . | resources.Minify | resources.Fingerprint }}
@@ -49,8 +54,3 @@ https://github.com/alex-shpak/hugo-book
     integrity="{{ .Data.Integrity }}" crossorigin="anonymous"
   {{- end -}}
 {{- end -}}
-
-<!-- Add custom head content from articles -->
-{{ if .Params.headCustom }}
-  {{ .Params.headCustom | safeHTML }}
-{{ end }}
