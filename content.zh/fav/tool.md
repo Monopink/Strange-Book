@@ -15,7 +15,6 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://claude.ai/favicon.ico"> | [Claude](https://claude.ai/)｜[Slack 插件](https://slack.com/apps/A04KGS7N9A8-claude) | 对话 Ai Claude |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.fastest.chat/icon-easy-open.jpg"> | [Easyopen](https://easyopen.chat/) | 每天免费一次 绘画 Ai Midjourney |
 
-
 ## 找东西
 
 |  |  |  |
@@ -49,6 +48,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://imgflip.com/favicon.ico"> | [Imgflip](https://imgflip.com) | 表情包制作工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.savefrom.net/apple-touch-icon.png"> | [savefrom.net](https://savefrom.net/) | 下载网站视频 |
 | <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)｜[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
+| <img loading="lazy" width="32px" alt="💔" src="https://gcore.jsdelivr.net/gh/TransparentLC/transparentlc.github.io/img/favicon.png"> | [朋友圈生成器](https://akarin.dev/WechatMomentScreenshot/)｜[GitHub](https://github.com/mat/besticon) | 朋友圈转发截图生成工具 |
 
 ## 数据
 
