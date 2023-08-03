@@ -93,6 +93,12 @@ ul.pagination {
     width: 1.5em;
     margin-inline-end: $padding-8;
   }
+  svg {
+    height: 1.5em;
+    width: 1.5em;
+    margin-inline-end: $padding-8;
+    fill: var(--body-font-color);
+  }
 }
 
 .book-menu {
