@@ -105,6 +105,12 @@ ul.pagination {
     background: var(--body-background);
 
     @include fixed;
+
+    > a,
+    > span,
+    > label {
+      font-weight: bolder;
+    }
   }
 
   a,
@@ -151,13 +157,7 @@ body[dir="rtl"] .book-menu {
 }
 
 .book-section-flat {
-  margin: $padding-16 * 2 0;
-
-  > a,
-  > span,
-  > label {
-    font-weight: bolder;
-  }
+  /*margin: $padding-16 * 2 0;*/
 
   > ul {
     padding-inline-start: 0;
@@ -200,7 +200,7 @@ body[dir="rtl"] .book-menu {
     border: 0;
     border-radius: $border-radius;
 
-    background: var(--gray-150);
+    background: var(--gray-100);
     color: var(--body-font-color);
 
     &:required + .book-search-spinner {
