@@ -48,7 +48,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://imgflip.com/favicon.ico"> | [Imgflip](https://imgflip.com) | 表情包制作工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.savefrom.net/apple-touch-icon.png"> | [savefrom.net](https://savefrom.net/) | 下载网站视频 |
 | <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)｜[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
-| <img loading="lazy" width="32px" alt="💔" src="https://gcore.jsdelivr.net/gh/TransparentLC/transparentlc.github.io/img/favicon.png"> | [朋友圈生成器](https://akarin.dev/WechatMomentScreenshot/)｜[GitHub](https://github.com/mat/besticon) | 朋友圈转发截图生成工具 |
+| <img loading="lazy" width="32px" alt="💔" src="https://gcore.jsdelivr.net/gh/TransparentLC/transparentlc.github.io/img/favicon.png"> | [朋友圈生成器](https://akarin.dev/WechatMomentScreenshot/) | 朋友圈转发截图生成工具 |
 
 ## 数据
 
