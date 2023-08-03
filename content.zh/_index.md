@@ -5,7 +5,7 @@ type: docs
 description: 你好，这里是 Jianghu Wiki/浆糊 Wiki，请随意浏览
 ---
 
-# 你好，这里是 Jianghu Wiki
+# Hello!
 
 > 请随意浏览
 
