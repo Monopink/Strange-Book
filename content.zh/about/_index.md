@@ -12,7 +12,7 @@ bookHidden: true
 
 这里是 Jianghu Wiki aka 浆糊 Wiki
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300px" aria-label="Jh Logo">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 324.08" width="300px" aria-label="Jh Logo">
   <defs>
     <style>
       .cls-1 {
