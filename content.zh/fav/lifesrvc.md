@@ -8,7 +8,7 @@ bookHidden: false
 
 > ✅PWA 标志表示该网站经验证通过手机默认浏览器打开（如 Safari 浏览器），可以添加图标到桌面以应用的形式打开。[如何添加？](https://support.apple.com/zh-cn/guide/iphone/iph42ab2f3a7/ios#aria-iph4f9a47bbc)
 >
-> 世界上不是只有小程序和App，还有网页和PWA。
+> 世界上不是只有小程序和 App，还有网页和 PWA。
 
 ## 购物
 
