@@ -42,7 +42,7 @@ defaultContentLanguageInSubdir = false
   languageName = "中文"
   languageCode = "zh"
   contentDir = "content.zh"
-  title = "浆糊 Wiki"
+  title = "Jianghu Wiki"
   weight = 1
 
 [languages.en]
