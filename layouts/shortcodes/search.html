@@ -48,6 +48,9 @@
 <a href="#" class="searchbt" onclick="zhihu()"><span style="color: #056de8;">•</span>知乎</a>
 <a href="#" class="searchbt" onclick="so360()"><span style="color: #0fb264;">•</span>360搜索</a>
 <a href="#" class="searchbt" onclick="sougou()"><span style="color: #fd6853;">•</span>搜狗</a>
+<span style="padding-right: 0.5rem;">｜</span>
+<a href="#" class="searchbt" onclick="googletrans()"><span style="color: #2932e1;">•</span>Translate</a>
+<a href="#" class="searchbt" onclick="baiduyue()"><span style="color: #2932e1;">•</span>粤语翻译</a>
 <script>
 let keywordBox = document.getElementById("keyword");
 function google() {
@@ -121,6 +124,13 @@ function so360() {
 }
 function sougou() {
   window.open("https://www.sogou.com/web?query=" + keywordBox.value);
+}
+
+function googletrans() {
+  window.open("https://translate.google.com/?sl=auto&tl=zh-CN&op=translate&text=" + keywordBox.value);
+}
+function baiduyue() {
+  window.open("https://fanyi.baidu.com/#zh/yue/" + keywordBox.value);
 }
 
 let flag = 0;
