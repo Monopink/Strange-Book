@@ -5,7 +5,7 @@ menu:
     weight: 90
 linktitle: about
 title: About
-bookHidden: false
+bookHidden: true
 ---
 
 # 关于
