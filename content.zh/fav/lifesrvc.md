@@ -10,16 +10,28 @@ bookHidden: false
 >
 > 世界上不是只有小程序和 App，还有网页和 PWA。
 
+## 寻找 PWA
+
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://appsco.pe/img/favicon-32.png"> | [Appscope](https://appsco.pe) | 收集众多 PWA 网站 ✅PWA |
+
 ## 购物
+
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://gw.alicdn.com/tps/i2/TB1nmqyFFXXXXcQbFXXE5jB3XXX-114-114.png"> | [淘宝](https://main.m.taobao.com/) | 淘宝移动端 ✅PWA |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.iliangcang.com/favicon.ico"> | [良仓](https://www.iliangcang.com/) | 设计不错的日用百货 |
+| <img loading="lazy" width="32px" alt="💔" src="https://m.modian.com/favicon.ico"> | [摩点](https://www.modian.com/) | 文创商品 |
+| <img loading="lazy" width="32px" alt="💔" src="https://jscache.ontheroadstore.com/64x64.png"> | [公路商店](https://hs.ontheroadstore.com/) | 冷门商品 价格较贵 ✅PWA |
+| <img loading="lazy" width="32px" alt="💔" src=" 	https://www.apple.com/favicon.ico"> | [Apple Gift Card](https://www.apple.com/shop/buy-giftcard/giftcard) | Apple 礼品卡 |
+
+## 众筹
 
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.kickstarter.com/favicon.ico"> | [Kickstarter](https://www.kickstarter.com/) | 众筹网站 |
 | <img loading="lazy" width="32px" alt="💔" src="https://g2.iggcdn.com/assets/favicon/favicon-32-4dfcba8dfbe628f9065885bcfd163ad0e7ff6629c72ec0efdd839c081bb5608e.png"> | [Indiegogo](https://www.indiegogo.com/) | 众筹网站 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.iliangcang.com/favicon.ico"> | [良仓](https://www.iliangcang.com/) | 设计不错的日用百货 |
-| <img loading="lazy" width="32px" alt="💔" src="https://m.modian.com/favicon.ico"> | [摩点](https://www.modian.com/) | 文创商品 |
-| <img loading="lazy" width="32px" alt="💔" src="https://jscache.ontheroadstore.com/64x64.png"> | [公路商店](https://hs.ontheroadstore.com/) | 冷门商品 价格较贵 ✅PWA |
-| <img loading="lazy" width="32px" alt="💔" src=" 	https://www.apple.com/favicon.ico"> | [Apple Gift Card](https://www.apple.com/shop/buy-giftcard/giftcard) | Apple 礼品卡 |
 
 ## 电影票
 
@@ -38,7 +50,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://m.autohome.com.cn/favicon.ico"> | [汽车之家](https://m.autohome.com.cn/) | 汽车之家移动端网页版 ✅PWA |
+| <img loading="lazy" width="32px" alt="💔" src="https://m.autohome.com.cn/favicon.ico"> | [汽车之家](https://m.autohome.com.cn/) | 汽车之家移动端 ✅PWA |
 
 
 {{< tables-style >}}

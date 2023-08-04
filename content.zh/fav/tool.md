@@ -65,6 +65,13 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://rsdsd.cc/favicon.ico"> | [榕树音乐论坛](https://rsdsd.cc) | 无损音乐资源 |
 
+## For Apple
+
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://sharecuts.cn/icon.png"> | [捷径社区](https://sharecuts.cn/) | 收集和分享 Shortcuts 快捷指令 |
+| <img loading="lazy" width="32px" alt="💔" src="https://app.so/favicon.ico"> | [鲜面连线](https://app.so/xianmian/) | App Store 每日精品限免/促销应用 |
+
 ## 游戏&平台
 
 |  |  |  |
