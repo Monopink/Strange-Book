@@ -111,6 +111,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://game.maj-soul.com/1/favicon.ico"> | [雀魂麻将](https://game.maj-soul.com/1/) | 日本麻将 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.nytimes.com/games/wordle/images/NYT-Wordle-Icon-32.png"> | [Wordle](https://www.nytimes.com/games/wordle/index.html) | 有意思的英文单词游戏 |
 | <img loading="lazy" width="32px" alt="💔" src="https://a.poki.com/img/favicon.ico"> | [Poki](https://poki.com/) | 游戏集 有很多经典手机游戏 |
 | <img loading="lazy" width="32px" alt="💔" src="https://taiko.uk/taiko/assets-201202-p1/img/favicon.png"> | [太鼓ウェブ](https://taiko.bui.pm/) | 免注册的太鼓达人 可以和好友联机 |
