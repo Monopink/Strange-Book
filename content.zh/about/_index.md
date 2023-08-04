@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: about
+    name: About
     weight: 90
 linktitle: about
 title: About
