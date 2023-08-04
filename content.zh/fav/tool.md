@@ -12,7 +12,7 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://psc2.cf2.poecdn.net/favicon.svg"> | [Poe](https://poe.com/) | 对话 Ai 合集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://uploads-ssl.webflow.com/628193922a4d18e69ba81f14/628193922a4d180bf1a81f46_Favicon.png"> | [Forefront Chat](https://chat.forefront.ai/) | 对话 Ai 合集 |
-| <img loading="lazy" width="32px" alt="💔" src="https://claude.ai/favicon.ico"> | [Claude](https://claude.ai/)｜[Slack 插件](https://slack.com/apps/A04KGS7N9A8-claude) | 对话 Ai Claude |
+| <img loading="lazy" width="32px" alt="💔" src="https://claude.ai/favicon.ico"> | [Claude](https://claude.ai/)<span class="oldline">｜</span>[Slack 插件](https://slack.com/apps/A04KGS7N9A8-claude) | 对话 Ai Claude |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.fastest.chat/icon-easy-open.jpg"> | [Easyopen](https://easyopen.chat/) | 每天免费一次 绘画 Ai Midjourney |
 
 ## 找东西
@@ -46,7 +46,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.mail-tester.com/img/favicon.png"> | [Newsletters spam test by mail](https://www.mail-tester.com/) | 测试你发出邮件的垃圾邮件匹配度 |
 | <img loading="lazy" width="32px" alt="💔" src="https://imgflip.com/favicon.ico"> | [Imgflip](https://imgflip.com) | 表情包制作工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.savefrom.net/apple-touch-icon.png"> | [savefrom.net](https://savefrom.net/) | 下载网站视频 |
-| <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)｜[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
+| <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)<span class="oldline">｜</span>[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
 | <img loading="lazy" width="32px" alt="💔" src="https://gcore.jsdelivr.net/gh/TransparentLC/transparentlc.github.io/img/favicon.png"> | [朋友圈生成器](https://akarin.dev/WechatMomentScreenshot/) | 朋友圈转发截图生成工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://hardwaretester.com/favicon.png"> | [Hardware Tester](https://hardwaretester.com/) | 手柄、麦克风、MIDI 等电脑外设测试 |
 
@@ -54,7 +54,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/favicon.png"> | [ChinaRailTransit](https://ivysauro.github.io/CNRT/)｜[轨道交通支付方式](https://ivysauro.github.io/CNRT/data/Pie)｜[公交支付方式](https://ivysauro.github.io/CNRT/data/BusPay)| 另一角度看地铁 |
+| <img loading="lazy" width="32px" alt="💔" src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/favicon.png"> | [ChinaRailTransit](https://ivysauro.github.io/CNRT/)<span class="oldline">｜</span>[轨道交通支付方式](https://ivysauro.github.io/CNRT/data/Pie)<span class="oldline">｜</span>[公交支付方式](https://ivysauro.github.io/CNRT/data/BusPay)| 另一角度看地铁 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.binbase.com/tmp/binbase/images/1.ico"> | [BinBase](https://www.binbase.com/search.html) | 信用卡 Bin 信息查询 |
 | <img loading="lazy" width="32px" alt="💔" src="https://obj.pipi.cn/festatic/piaofang/moviepro/favicon.ico"> | [猫眼专业版](https://piaofang.maoyan.com/dashboard) | 中国实时票房 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [Name Age Calculator](http://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Ashley) | 美国生日与名字统计，或许对你取英文名有帮助 |
