@@ -139,8 +139,6 @@ function getIP(json) {
   if (json && json.ip && keywordBox.value === "" && flag == 0) {
     keywordBox.value = json.ip;
     flag = 1;
-  } else {
-    console.log("Failed to retrieve IP address");
   }
 }
 /*
