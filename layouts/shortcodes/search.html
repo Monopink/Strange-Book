@@ -50,7 +50,8 @@
 <span style="padding-right: 0.5rem;">｜</span>
 <a href="#" class="searchbt" onclick="googletrans()"><span style="color: #4b8bf5;">•</span>Translate</a>
 <a href="#" class="searchbt" onclick="baiduyue()"><span style="color: #2932e1;">•</span>粤语翻译</a>
-<script>
+
+<script type="application/javascript">
 let keywordBox = document.getElementById("keyword");
 function google() {
   window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=" + keywordBox.value);
@@ -133,6 +134,16 @@ function baiduyue() {
 }
 
 let flag = 0;
+
+function getIP(json) {
+  if (json && json.ip && keywordBox.value === "" && flag == 0) {
+    keywordBox.value = json.ip;
+    flag = 1;
+  } else {
+    console.log("Failed to retrieve IP address");
+  }
+}
+/*
 if (keywordBox.value === "" && flag == 0) {
   fetch("https://api.ipify.org/?format=json")
     .then(response => response.json())
@@ -144,7 +155,7 @@ if (keywordBox.value === "" && flag == 0) {
     })
     .catch(error => console.error(error));
 }
-
+*/
 function selectText(input) {
   if (flag == 1) {
     input.select();
@@ -152,3 +163,5 @@ function selectText(input) {
   flag = 2;
 }
 </script>
+
+<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
