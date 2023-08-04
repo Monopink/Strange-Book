@@ -30,8 +30,8 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://img.alicdn.com/tps/i1/TB1.aEgGFXXXXamXpXXnCBGGXXX-32-32.ico"> | [淘票票](https://www.taopiaopiao.com)｜[移动端](https://m.taopiaopiao.com) | 淘票票网页版 ✅PWA |
-| <img loading="lazy" width="32px" alt="💔" src="https://obj.pipi.cn/festatic/common/image/1bb48d83e5241ff2a1e3e1a0184de793.png"> | [猫眼电影](https://www.maoyan.com/)｜[移动端](https://i.maoyan.com/)｜[专业版](https://piaofang.maoyan.com/dashboard) | 猫眼网页版 专业版是票房看板 |
+| <img loading="lazy" width="32px" alt="💔" src="https://img.alicdn.com/tps/i1/TB1.aEgGFXXXXamXpXXnCBGGXXX-32-32.ico"> | [淘票票](https://www.taopiaopiao.com)<span class="oldline">｜</span>[移动端](https://m.taopiaopiao.com) | 淘票票网页版 ✅PWA |
+| <img loading="lazy" width="32px" alt="💔" src="https://obj.pipi.cn/festatic/common/image/1bb48d83e5241ff2a1e3e1a0184de793.png"> | [猫眼电影](https://www.maoyan.com/)<span class="oldline">｜</span>[移动端](https://i.maoyan.com/)<span class="oldline">｜</span>[专业版](https://piaofang.maoyan.com/dashboard) | 猫眼网页版 专业版是票房看板 |
 
 ## 快递
 

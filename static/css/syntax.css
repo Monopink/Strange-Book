@@ -1,3 +1,9 @@
+/*Return spaces caused by newlines*/
+.oldline {
+  display: inline-block;
+  margin-right: -4px;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     --code-font-color: black; /*--body-font-color*/

@@ -60,7 +60,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg"> | [IconPark](https://iconpark.oceanengine.com/official) | 字节跳动 SVG 图标库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico"> | [IconFont](https://www.iconfont.cn) | 阿里巴巴矢量图标库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.openmoji.org/favicons/apple-touch-icon.png"> | [OpenMoji](https://www.openmoji.org/) | 开源 Emoji 图标库 简洁风格 |
-| <img loading="lazy" width="32px" alt="💔" src="https://devicon.dev/logos/favicon.ico"> | [Devicon](https://devicon.dev/)｜[GitHub](https://github.com/devicons/devicon) | 开发语言和工具图标集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://devicon.dev/logos/favicon.ico"> | [Devicon](https://devicon.dev/)<span class="oldline">｜</span>[GitHub](https://github.com/devicons/devicon) | 开发语言和工具图标集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://brandslogos.com/wp-content/uploads/resources/favicon.ico"> | [Brands Logos](https://brandslogos.com/) | 品牌商标图标集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pictogram2.com/favicons/favicon_57.png"> | [Huhan Pictogram](https://pictogram2.com/) | 「紧急出口小人」皮特托图标集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"> | [Noun Project](https://thenounproject.com/) | 矢量图标库 有限授权 部分收费 |
@@ -72,12 +72,12 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src=" 	https://www.whatfontis.com/favicon.ico"> | [WhatFontIs](https://www.whatfontis.com/) | 图片搜索字体 以及找字体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 开源字体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源宋体](https://github.com/adobe-fonts/source-han-serif) | 开源字体 |
-| <img loading="lazy" width="32px" alt="💔" src="http://jikasei.me/favicon.ico"> | [自家製フォント工房](http://jikasei.me/)｜[思源柔黑](http://jikasei.me/font/genjyuu/) | 自制字体工作坊｜基于思源黑体制作的圆体 |
+| <img loading="lazy" width="32px" alt="💔" src="http://jikasei.me/favicon.ico"> | [自家製フォント工房](http://jikasei.me/)<span class="oldline">｜</span>[思源柔黑](http://jikasei.me/font/genjyuu/) | 自制字体工作坊｜基于思源黑体制作的圆体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [资源黑体](https://github.com/CyanoHao/Resource-Han-Rounded) | 基于思源黑体制作的圆体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic) | 基于 Iosevka 与思源黑体 适用于中英混合的编程字体 |
-| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [LXGW](https://lxgw.github.io/)｜[霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | 独立字体制作者｜开源楷体 |
+| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [LXGW](https://lxgw.github.io/)<span class="oldline">｜</span>[霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | 独立字体制作者｜开源楷体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.maoken.com/favicon.ico"> | [猫啃网](https://www.maoken.com/) | 免费商用字体集 |
-| <img loading="lazy" width="32px" alt="💔" src="https://3type.cn/img/icons/favicon-96x96.png"> | [3type](https://3type.cn/)｜[丁卯点阵体](https://3type.cn/fonts/dinkie_bitmap/index.html) | 国际化的字体公司  代表作：基本美术体、丁卯点阵体|
+| <img loading="lazy" width="32px" alt="💔" src="https://3type.cn/img/icons/favicon-96x96.png"> | [3type](https://3type.cn/)<span class="oldline">｜</span>[丁卯点阵体](https://3type.cn/fonts/dinkie_bitmap/index.html) | 国际化的字体公司  代表作：基本美术体、丁卯点阵体|
 
 
 ## 网站
@@ -117,7 +117,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://smallpdf.com/favicon.png"> | [Smallpdf](https://smallpdf.com/pdf-tools) | 众多 PDF 相关工具 |
 | 💔 | [Duotone Effect Generator](https://duotones.co) | 将图片处理为双色调风格 |
 | <img loading="lazy" width="32px" alt="💔" src="https://fotoforensics.com/apple-touch-icon.png"> | [FotoForensics](https://fotoforensics.com/) | jpg 图片分析工具 |
-| <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)｜[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
+| <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)<span class="oldline">｜</span>[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.launchaco.com/static/favicon.ico"> | [launchaco](https://www.launchaco.com) | 设计你的网站、Logo 部分付费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://elementor.com/marketing/wp-content/uploads/2021/06/cropped-fav2-32x32.png"> | [elementor](https://elementor.com) | 在线设计网站 没用过 付费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pixelmap.amcharts.com/static/img/icons/favicon.ico"> | [Pixel Map Generator](https://pixelmap.amcharts.com/) | 地图着色 可能不符合中国大陆规范 |
