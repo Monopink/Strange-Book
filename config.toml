@@ -16,7 +16,9 @@ defaultContentLanguageInSubdir = false
 [markup]
 [markup.goldmark.renderer]
   unsafe = true
-
+# Smartypants will replaces western punctuation marks
+[markup.goldmark.renderer.smartypants]
+  fractions = false
 [markup.tableOfContents]
   startLevel = 1
 
