@@ -6,11 +6,11 @@ menu:
 title: About
 bookHidden: true
 headCustom: |
-<style>
-  .cls-1 {
-    fill: var(--body-font-color);
-  }
-</style>
+  <style>
+    .cls-1 {
+      fill: var(--body-font-color);
+    }
+  </style>
 ---
 
 # 关于
