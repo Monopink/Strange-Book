@@ -22,7 +22,6 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.jiumodiary.com/images/apple/apple-57.png"> | [鸠摩搜索](https://www.jiumodiary.com/) | 找电子书 |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.iplaysoft.com/ips/icon/favicon-v1/favicon.ico"> | [异次元软件世界](https://www.iplaysoft.com) | 分享好用的软件 |
 | <img loading="lazy" width="20px" alt="💔" src="https://static1.appinn.com/stwww/wp-content/uploads/Appinn-icon-152.jpg"> | [小众软件](https://www.appinn.com) | 分享好用的软件 |
-| <img loading="lazy" width="32px" alt="💔" src="https://mp3clan.com/favicon.ico"> | [mp3Clan](http://mp3clan.com) | MP3 音乐资源 |
 | <img loading="lazy" width="32px" alt="💔" src="https://33.agilestudio.cn/favicon.ico"> | [33台词](https://33.agilestudio.cn/) | 找影视剧中出现的台词 |
 
 ## 文字&语言
@@ -43,12 +42,13 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://mathsolver.microsoft.com/favicon.ico"> | [Microsoft Math Solver](https://gamepad-tester.com/) | 科学计算器 |
+| <img loading="lazy" width="32px" alt="💔" src="https://mathsolver.microsoft.com/favicon.ico"> | [Microsoft Math Solver](https://math.microsoft.com/) | 方程等数学问题自动求解 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.mail-tester.com/img/favicon.png"> | [Newsletters spam test by mail](https://www.mail-tester.com/) | 测试你发出邮件的垃圾邮件匹配度 |
 | <img loading="lazy" width="32px" alt="💔" src="https://imgflip.com/favicon.ico"> | [Imgflip](https://imgflip.com) | 表情包制作工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://en.savefrom.net/apple-touch-icon.png"> | [savefrom.net](https://savefrom.net/) | 下载网站视频 |
 | <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)｜[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
 | <img loading="lazy" width="32px" alt="💔" src="https://gcore.jsdelivr.net/gh/TransparentLC/transparentlc.github.io/img/favicon.png"> | [朋友圈生成器](https://akarin.dev/WechatMomentScreenshot/) | 朋友圈转发截图生成工具 |
+| <img loading="lazy" width="32px" alt="💔" src="https://hardwaretester.com/favicon.png"> | [Hardware Tester](https://hardwaretester.com/) | 手柄、麦克风、MIDI 等电脑外设测试 |
 
 ## 数据
 
