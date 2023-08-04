@@ -1,7 +1,6 @@
 ---
 author: "Dangel"
 date: 2021-08-30
-linktitle: Start
 title: 启动！
 weight: 10
 ---

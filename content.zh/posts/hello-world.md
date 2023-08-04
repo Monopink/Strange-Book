@@ -1,7 +1,6 @@
 ---
 author: "Dangel"
 date: 2023-08-02
-linktitle: hello-world 
 title: Hello World
 weight: 10
 ---
