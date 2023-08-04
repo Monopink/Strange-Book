@@ -24,12 +24,16 @@
   input.addEventListener('focus', init);
   input.addEventListener('keyup', search);
 
-  // document.addEventListener('keypress', focusSearchFieldOnKeyPress);
+  document.addEventListener('keypress', focusSearchFieldOnKeyPress);
 
   /**
    * @param {Event} event
    */
   function focusSearchFieldOnKeyPress(event) {
+    if (event.target.value !== undefined) {
+      return;
+    }
+
     if (input === document.activeElement) {
       return;
     }
