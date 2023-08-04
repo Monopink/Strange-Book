@@ -3,7 +3,6 @@ menu:
   after:
     name: About
     weight: 90
-linktitle: about
 title: About
 bookHidden: true
 ---
