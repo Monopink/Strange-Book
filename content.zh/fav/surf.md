@@ -91,6 +91,13 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.rottentomatoes.com/assets/pizza-pie/images/favicon.ico"> | [Rotten Tomatoes](https://www.rottentomatoes.com/) | 烂番茄 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.themoviedb.org/assets/2/favicon-32x32-543a21832c8931d3494a68881f6afcafc58e96c5d324345377f3197a37b367b5.png"> | [TMDB](https://www.themoviedb.org/) | 由社区建设的影剧资料库 |
 
+## 新奇
+
+|  |  |  |
+| :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.kickstarter.com/favicon.ico"> | [Kickstarter](https://www.kickstarter.com/) | 众筹网站 |
+| <img loading="lazy" width="32px" alt="💔" src="https://g2.iggcdn.com/assets/favicon/favicon-32-4dfcba8dfbe628f9065885bcfd163ad0e7ff6629c72ec0efdd839c081bb5608e.png"> | [Indiegogo](https://www.indiegogo.com/) | 众筹网站 |
+
 ## 个人博客
 
 |  |  |  |
@@ -117,17 +124,16 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://taiko.uk/taiko/assets-201202-p1/img/favicon.png"> | [太鼓ウェブ](https://taiko.bui.pm/) | 免注册的太鼓达人 可以和好友联机 |
 | <img loading="lazy" width="32px" alt="💔" src="https://oskarstalberg.com/Townscaper/TemplateData/favicon.ico"> | [Townscaper](https://oskarstalberg.com/Townscaper/) | 北欧小镇生成器 |
 | <img loading="lazy" width="32px" alt="💔" src="http://www.heyzxz.me/favicons-rytEElp9W/favicon-32x32.png"> | [PCOL](http://www.heyzxz.me/pcol/) | 台球 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.yikm.net/f.png"> | [Play NES Games](https://www.yikm.net/) | NES 游戏集 |
-| <img loading="lazy" width="32px" alt="💔" src="https://agar.io/favicon.ico"> | [Ager.io](https://agar.io/) | 在线版「球球大作战」 |
+| <img loading="lazy" width="32px" alt="💔" src="https://agar.io/favicon.ico"> | [Ager.io](https://agar.io/) | 类似「球球大作战」 |
 | <img loading="lazy" width="32px" alt="💔" src="https://radio.garden/public/icons/ios/ios-appicon-76-76.png"> | [Radio Garden](http://radio.garden/) | 收听全世界的电台 |
-| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [俄罗斯方块](https://chvin.github.io/react-tetris/) | 俄罗斯方块 |
+| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [俄罗斯方块](https://chvin.github.io/react-tetris/) | 复古游戏机俄罗斯方块 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.yikm.net/f.png"> | [yikm.net](https://www.yikm.net/) | 各类老街机和家用游戏机游戏 |
 
-## 有趣但无用的网站
+## 有趣但无用
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://daftpunk.cafe/favicon-32x32.png"> | [Daft Punk Cafe](https://daftpunk.cafe/) | 粉丝制作的Daft Punk 纪念网站 |
+| <img loading="lazy" width="32px" alt="💔" src="https://daftpunk.cafe/favicon-32x32.png"> | [Daft Punk Cafe](https://daftpunk.cafe/) | 粉丝制作的 Daft Punk 纪念网站 |
 | <img loading="lazy" width="32px" alt="💔" src="https://geektyper.com/favicon.ico"> | [GEEKTyper](https://geektyper.com/) | 随便敲键盘就能出代码的黑客模拟器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://joshworth.com/jpw/wp-content/uploads/2019/09/logosmall19-32.png"> | [If the Moon Were Only 1 Pixel](http://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) | 如果月球只有 1 像素的模拟宇宙 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.windows93.net/favicon.ico"> | [WINDOWS93](http://www.windows93.net/) | 体验 Winodws 93 |
