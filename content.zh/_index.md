@@ -42,3 +42,5 @@ Blog<span class="oldline">｜</span>[酱紫表](https://qust.me/)<span class="ol
 ---
 
 *本网站使用 Firefox 或 Safari 浏览将获得最佳体验*
+
+{{< search-scr >}}
