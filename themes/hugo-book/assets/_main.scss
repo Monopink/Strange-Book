@@ -275,10 +275,15 @@ body[dir="rtl"] .book-menu {
   padding-top: $padding-16;
   font-size: $font-size-14;
 
+  a {
+    color: var(--gray-600);
+  }
+
   img {
     height: 1em;
     width: 1em;
     margin-inline-end: $padding-8;
+    filter: var(--icon-filter-600);
   }
 }
 
