@@ -1,0 +1,4 @@
+<!-- Add custom after body content from articles -->
+{{ if .Params.afterBodyCustom }}
+  {{ .Params.afterBodyCustom | safeHTML }}
+{{ end }}
