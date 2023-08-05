@@ -11,7 +11,7 @@ bookHidden: false
 ## 图例
 
 | 图标 | 文字 | 平台 |
-| :----: | ---- |
+| :----: | :----: | :----: |
 | {{< lists-svg "w" >}} | W | Windows |
 | {{< lists-svg "m" >}} | m |  macOS |
 | {{< lists-svg "l" >}} | L |  Linux |
