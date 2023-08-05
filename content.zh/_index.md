@@ -3,6 +3,119 @@ title: 欢迎
 bookToC: false
 type: docs
 description: 你好，这里是 Jianghu Wiki/浆糊 Wiki，请随意浏览
+afterBodyCustom: |
+  <script type="application/javascript">
+  let keywordBox = document.getElementById("keyword");
+  function google() {
+    window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=" + keywordBox.value);
+  }
+  function duckgo() {
+    window.open("https://duckduckgo.com/?q=" + keywordBox.value);
+  }
+  function bing() {
+    window.open("https://www.bing.com/search?q=" + keywordBox.value);
+  }
+  function yandex() {
+    window.open("https://yandex.com/search/?text=" + keywordBox.value);
+  }
+  function baidu() {
+    window.open("https://www.baidu.com/s?wd=" + keywordBox.value);
+  }
+
+  function github() {
+    window.open("https://github.com/search?q=" + keywordBox.value);
+  }
+  function pinterest() {
+    window.open("https://www.pinterest.com/search/pins/?q=" + keywordBox.value);
+  }
+  function neodb() {
+    window.open("https://neodb.social/search/?q=" + keywordBox.value);
+  }
+  function qimai() {
+    window.open("https://www.qimai.cn/search/index/country/cn/search/" + keywordBox.value);
+  }
+  function steamdb() {
+    window.open("https://steamdb.info/search/?a=app&q=" + keywordBox.value);
+  }
+  function steam() {
+    window.open("https://store.steampowered.com/search/?term=" + keywordBox.value);
+  }
+  function giphy() {
+    window.open("https://giphy.com/search/" + keywordBox.value);
+  }
+
+  function domainr() {
+    window.open("https://domainr.com/?q=" + keywordBox.value);
+  }
+  function whois() {
+    window.open("https://whois.domaintools.com/" + keywordBox.value);
+  }
+  function cnicp() {
+    window.open("https://icp.chinaz.com/" + keywordBox.value);
+  }
+  function ipshu() {
+    window.open("https://ipshu.com/ipv4/" + keywordBox.value);
+  }
+  function bczs() {
+    window.open("http://ip.bczs.net/" + keywordBox.value);
+  }
+  function baiduip() {
+    window.open("https://qifu.baidu.com/wise/#/?activeId=SEARCH_IP_ADDRESS&ip=" + keywordBox.value);
+  }
+
+  function v2ex() {
+    window.open("https://www.google.com/search?pws=0&gl=us&gws_rd=cr&q=site:v2ex.com/t+" + keywordBox.value);
+  }
+  function taobaopc() {
+    window.open("https://s.taobao.com/search?q=" + keywordBox.value);
+  }
+  function zhihu() {
+    window.open("https://www.zhihu.com/search?q=" + keywordBox.value);
+  }
+  function so360() {
+    window.open("https://www.so.com/s?q=" + keywordBox.value);
+  }
+  function sougou() {
+    window.open("https://www.sogou.com/web?query=" + keywordBox.value);
+  }
+
+  function googletrans() {
+    window.open("https://translate.google.com/?sl=auto&tl=zh-CN&op=translate&text=" + keywordBox.value);
+  }
+  function baiduyue() {
+    window.open("https://fanyi.baidu.com/#zh/yue/" + keywordBox.value);
+  }
+
+  let flag = 0;
+
+  function getIP(json) {
+    if (json && json.ip && keywordBox.value === "" && flag == 0) {
+      keywordBox.value = json.ip;
+      flag = 1;
+    }
+  }
+  /*
+  if (keywordBox.value === "" && flag == 0) {
+    fetch("https://api.ipify.org/?format=json")
+      .then(response => response.json())
+      .then(data => {
+        if (keywordBox.value === "" && flag == 0) {
+          keywordBox.value = data.ip;
+          flag = 1;
+        }
+      })
+      .catch(error => console.error(error));
+  }
+  */
+  function selectText(input) {
+    if (flag == 1) {
+      input.select();
+    }
+    flag = 2;
+  }
+  </script>
+
+  <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
 ---
 
 # Hello!
@@ -42,5 +155,3 @@ Blog<span class="oldline">｜</span>[酱紫表](https://qust.me/)<span class="ol
 ---
 
 *本网站使用 Firefox 或 Safari 浏览将获得最佳体验*
-
-{{< search-scr >}}
