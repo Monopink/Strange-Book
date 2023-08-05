@@ -31,9 +31,11 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.iliangcang.com/favicon.ico"> | [良仓](https://www.iliangcang.com/) | 设计不错的日用百货 |
 | <img loading="lazy" width="32px" alt="💔" src="https://m.modian.com/favicon.ico"> | [摩点](https://www.modian.com/)<span class="oldline">｜</span>[摩点众筹](https://m.modian.com/project/list?category=all) | 文创商品 |
 | <img loading="lazy" width="32px" alt="💔" src="https://asset.duozhuayu.com/logo.png"> | [多抓鱼](https://www.duozhuayu.com/) | 二手书等交易 |
+| <img loading="lazy" width="32px" alt="💔" src="https://img1.haoshiqi.net/assets/img/favicon.png"> | [好食期](https://m.haoshiqi.net/) | 临期零食平台 |
+| <img loading="lazy" width="32px" alt="💔" src="http://h5.shuaishuaimai.com/favicon.ico"> | [甩甩卖](http://h5.shuaishuaimai.com/#/) | 自营临期零食 ✅PWA |
 | <img loading="lazy" width="32px" alt="💔" src="https://jscache.ontheroadstore.com/64x64.png"> | [公路商店](https://hs.ontheroadstore.com/) | 冷门商品 价格较贵 ✅PWA |
 
-# 本地生活
+## 本地生活
 
 |  |  |  |
 | :----: | ---- | ---- |
@@ -41,7 +43,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://h5.waimai.meituan.com:443/favicon.ico"> | [美团外卖](https://h5.waimai.meituan.com/) | 美团外卖 |
 | <img loading="lazy" width="32px" alt="💔" src="https://h5.ele.me/favicon.ico"> | [饿了么](https://h5.ele.me) | 饿了么外卖 |
 
-# 出行
+## 出行
 
 |  |  |  |
 | :----: | ---- | ---- |
