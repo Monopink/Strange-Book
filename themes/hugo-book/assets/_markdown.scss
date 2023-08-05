@@ -77,14 +77,14 @@
 
   pre {
     padding: $padding-16;
-    background: var(--code-backgroud-color);
+    background: var(--gray-100);
     border-radius: $border-radius;
     overflow-x: auto;
 
     code {
       padding: 0;
       background: none;
-      color: var(--code-font-color);
+      color: var(--body-font-color);
     }
   }
 
