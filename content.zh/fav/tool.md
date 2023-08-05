@@ -19,9 +19,10 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.jiumodiary.com/images/apple/apple-57.png"> | [鸠摩搜索](https://www.jiumodiary.com/) | 找电子书 |
+| <img loading="lazy" width="32px" alt="💔" src="https://appsco.pe/img/favicon-32.png"> | [Appscope](https://appsco.pe) | 收集众多 PWA 网站 |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.iplaysoft.com/ips/icon/favicon-v1/favicon.ico"> | [异次元软件世界](https://www.iplaysoft.com) | 分享好用的软件 |
 | <img loading="lazy" width="20px" alt="💔" src="https://static1.appinn.com/stwww/wp-content/uploads/Appinn-icon-152.jpg"> | [小众软件](https://www.appinn.com) | 分享好用的软件 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.jiumodiary.com/images/apple/apple-57.png"> | [鸠摩搜索](https://www.jiumodiary.com/) | 找电子书 |
 | <img loading="lazy" width="32px" alt="💔" src="https://33.agilestudio.cn/favicon.ico"> | [33台词](https://33.agilestudio.cn/) | 找影视剧中出现的台词 |
 
 ## 文字&语言
@@ -71,6 +72,7 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://sharecuts.cn/icon.png"> | [捷径社区](https://sharecuts.cn/) | 收集和分享 Shortcuts 快捷指令 |
 | <img loading="lazy" width="32px" alt="💔" src="https://app.so/favicon.ico"> | [鲜面连线](https://app.so/xianmian/) | App Store 每日精品限免/促销应用 |
+| <img loading="lazy" width="32px" alt="💔" src=" 	https://www.apple.com/favicon.ico"> | [Apple Gift Card](https://www.apple.com/shop/buy-giftcard/giftcard) | Apple 礼品卡 |
 
 ## 游戏&平台
 
