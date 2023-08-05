@@ -34,9 +34,12 @@ $hint-colors: (
   --gray-200: #e9ecef;
   --gray-500: #adb5bd;
 
+  --color-link: #b00;
+  --color-visited-link: #d47363;
+  /*
   --color-link: #0055bb;
   --color-visited-link: #8440f1;
-
+  */
   --body-background: white;
   --body-font-color: black;
 
@@ -48,13 +51,16 @@ $hint-colors: (
 }
 
 @mixin theme-dark {
-  --gray-100: rgba(255, 255, 255, 0.08);
-  --gray-200: rgba(255, 255, 255, 0.15);
-  --gray-500: rgba(255, 255, 255, 0.35);
+  --gray-100: rgba(255, 255, 255, 0.05);
+  --gray-200: rgba(255, 255, 255, 0.10);
+  --gray-500: rgba(255, 255, 255, 0.25);
 
+  --color-link: #f06275;
+  --color-visited-link: #f570f2;
+  /*
   --color-link: #84b2ff;
   --color-visited-link: #b88dff;
-
+  */
   --body-background: #202429;
   --body-font-color: #e9ecef;
 
