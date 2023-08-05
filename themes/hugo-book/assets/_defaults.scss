@@ -40,7 +40,7 @@ $hint-colors: (
   --body-background: white;
   --body-font-color: black;
 
-  --icon-filter: none;
+  --icon-filter: brightness(0);
 
   --hint-color-info: #6bf;
   --hint-color-warning: #fd6;
@@ -58,7 +58,7 @@ $hint-colors: (
   --body-background: #202429;
   --body-font-color: #e9ecef;
 
-  --icon-filter: brightness(0) invert(1);
+  --icon-filter: brightness(0) invert(0.93);
 
   --hint-color-info: #6bf;
   --hint-color-warning: #fd6;
