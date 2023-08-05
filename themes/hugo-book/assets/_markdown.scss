@@ -96,6 +96,8 @@
     border-inline-start: $padding-4 solid var(--gray-200);
     border-radius: $border-radius;
 
+    background-color: var(--gray-200);
+
     :first-child {
       margin-top: 0;
     }
