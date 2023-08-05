@@ -112,13 +112,15 @@
     margin-bottom: $padding-16;
 
     tr th {
-      padding: $padding-8 $padding-16;
+      padding: $padding-8;
       border-bottom: $padding-1 solid var(--gray-200);
       background-color: var(--gray-200);
     }
-
-    tr td {
-      padding: $padding-8 $padding-8;
+    tr td:first-child {
+      padding: $padding-8 $padding-8 $padding-8 $padding-16;
+    }
+    tr td:not(:first-child) {
+      padding: $padding-8
     }
 
     tr:last-child td {
