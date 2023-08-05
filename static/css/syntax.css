@@ -1,25 +1,15 @@
-/*Return spaces caused by newlines*/
-.oldline {
-  display: inline-block;
-  margin-right: -4px;
-}
-
 @media (prefers-color-scheme: light) {
-  :root {
-    --code-font-color: black; /*--body-font-color*/
-    --code-backgroud-color: #f2f5f7; /*--gray-150*/
-  }
   .chroma {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .cl {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .err {
     color: #d20f39;
   }
   .chroma .x {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .lntd {
     border: 0;
@@ -74,7 +64,7 @@
     color: #d20f39;
   }
   .chroma .n {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .nc {
     color: #df8e1d;
@@ -135,13 +125,13 @@
     color: #04a5e5;
   }
   .chroma .nx {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .l {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .ld {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .s {
     color: #40a02b;
@@ -243,7 +233,7 @@
     font-weight: bold;
   }
   .chroma .g {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .gi {
     color: #40a02b;
@@ -254,15 +244,15 @@
     background-color: #ccd0da;
   }
   .chroma .ge {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
     font-style: italic;
   }
   .chroma .gs {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
     font-weight: bold;
   }
   .chroma .gl {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
     text-decoration: underline;
   }
   .chroma .gh {
@@ -274,10 +264,10 @@
     font-weight: bold;
   }
   .chroma .go {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .gp {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .gr {
     color: #d20f39;
@@ -288,21 +278,17 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --code-font-color: #e9ecef; /*--body-font-color*/
-    --code-backgroud-color: rgba(255, 255, 255, 0.08); /*--gray-150*/
-  }
   .chroma {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .cl {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .err {
     color: #ed8796;
   }
   .chroma .x {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .lntd {
     border: 0;
@@ -357,7 +343,7 @@
     color: #ed8796;
   }
   .chroma .n {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .nc {
     color: #eed49f;
@@ -418,13 +404,13 @@
     color: #91d7e3;
   }
   .chroma .nx {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .l {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .ld {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .s {
     color: #a6da95;
@@ -526,7 +512,7 @@
     font-weight: bold;
   }
   .chroma .g {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .gi {
     color: #a6da95;
@@ -537,15 +523,15 @@
     background-color: #363a4f;
   }
   .chroma .ge {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
     font-style: italic;
   }
   .chroma .gs {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
     font-weight: bold;
   }
   .chroma .gl {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
     text-decoration: underline;
   }
   .chroma .gh {
@@ -557,10 +543,10 @@
     font-weight: bold;
   }
   .chroma .go {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .gp {
-    color: var(--code-font-color);
+    color: var(--body-font-color);
   }
   .chroma .gr {
     color: #ed8796;
