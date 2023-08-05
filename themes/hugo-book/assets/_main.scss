@@ -277,6 +277,9 @@ body[dir="rtl"] .book-menu {
 
   a {
     color: var(--gray-600);
+    &:hover {
+      opacity: 0.8;
+    }
   }
 
   img {
