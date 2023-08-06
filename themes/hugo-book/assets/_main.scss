@@ -248,6 +248,9 @@ body[dir="rtl"] .book-menu {
       display: block;
     }
   }
+  .book-search:hover {
+    background: var(--gray-85);
+  }
 
   .book-search-spinner {
     position: absolute;
