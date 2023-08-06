@@ -11,6 +11,7 @@ categories:
   - Poem
   - Line
 bookHidden: true
+bookFooter: False
 ---
 
 The sun sets low, the day is done,
