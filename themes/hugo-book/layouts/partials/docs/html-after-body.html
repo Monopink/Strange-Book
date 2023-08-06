@@ -1,5 +1,5 @@
 <!-- Import the script that copies the code to the clipboard -->
-{{ if in $content "class="chroma"" }}
+{{ if in .Content "class="chroma"" }}
   {{ $script := resources.Get "clipboard.js" | resources.Minify }}
 	{{ with $script.Content }}
 	  <script>{{ . | safeJS }}</script>
