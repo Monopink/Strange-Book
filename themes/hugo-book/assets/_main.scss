@@ -189,14 +189,12 @@ body[dir="rtl"] .book-menu {
 }
 
 .book-page-with-toc {
-  margin-top: $padding-16 * 2;
   min-width: $body-min-width;
   max-width: $body-max-width-medium;
   flex-grow: 1;
   padding: $padding-16;
 }
 .book-page-without-toc {
-  margin-top: $padding-16 * 2;
   min-width: $body-min-width;
   max-width: $body-max-width-large;
   flex-grow: 1;
