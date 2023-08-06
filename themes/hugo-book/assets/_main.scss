@@ -188,9 +188,15 @@ body[dir="rtl"] .book-menu {
   }
 }
 
-.book-page {
+.book-page-with-toc {
   min-width: $body-min-width;
-  max-width: $body-max-width;
+  max-width: $body-max-width-medium;
+  flex-grow: 1;
+  padding: $padding-16;
+}
+.book-page-without-toc {
+  min-width: $body-min-width;
+  max-width: $body-max-width-large;
   flex-grow: 1;
   padding: $padding-16;
 }
@@ -212,14 +218,14 @@ body[dir="rtl"] .book-menu {
     height: 1.5em;
     width: 1.5em;
     filter: var(--icon-filter-30);
-
+  }
+  
   a {
     color: var(--gray-50);
   }
   a:hover {
     color: var(--color-link);
     opacity: 0.6;
-  }
   }
 }
 
