@@ -49,7 +49,8 @@ $hint-colors: (
   --body-font-color: black;
 
   --icon-filter: brightness(0);
-  --icon-filter-600: brightness(0) invert(0.5);
+  --icon-filter-60: brightness(0) invert(0.5);
+  --icon-filter-30: brightness(0) invert(0.3);
 
   --hint-color-info: #6bf;
   --hint-color-warning: #fd6;
@@ -63,7 +64,7 @@ $hint-colors: (
   --gray-85: rgba(255, 255, 255, 0.3);
   --gray-60: #808080; /*footer font*/
   --gray-50: #acaeb0;
-  --gray-30: #ced0d3;
+  --gray-30: #c3c5c7;
 
   --color-link: #f06275;
   --color-visited-link: #f06275; /*#ea67aa*/
@@ -75,7 +76,8 @@ $hint-colors: (
   --body-font-color: #e9ecef;
 
   --icon-filter: brightness(0) invert(0.93);
-  --icon-filter-600: brightness(0) invert(0.65);
+  --icon-filter-60: brightness(0) invert(0.65);
+  --icon-filter-30: brightness(0) invert(0.79);
 
   --hint-color-info: #6bf;
   --hint-color-warning: #fd6;
