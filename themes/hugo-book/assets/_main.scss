@@ -238,18 +238,20 @@ body[dir="rtl"] .book-menu {
     width: 100%;
     padding: $padding-8;
 
-    border: 0;
+    border: 1px solid var(--gray-90);
     border-radius: $border-radius;
 
-    background: var(--gray-95);
     color: var(--body-font-color);
 
     &:required + .book-search-spinner {
       display: block;
     }
   }
-  .book-search:hover {
-    background: var(--gray-85);
+  input:hover {
+    border: 1px solid var(--gray-80);
+  }
+  input::placeholder {
+    color: var(--gray-60);
   }
 
   .book-search-spinner {
@@ -304,7 +306,7 @@ body[dir="rtl"] .book-menu {
 }
 
 .book-footer {
-  border-top: 1px solid var(--gray-85);
+  border-top: 1px solid var(--gray-80);
   margin-top: $padding-16 * 3;
   padding-top: $padding-16;
   font-size: $font-size-14;
