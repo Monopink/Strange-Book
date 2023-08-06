@@ -12,9 +12,6 @@
   }
 </style>
 
-{{ $content := .Content }}
-{{ $hasCode := in $content "```" }}
-
-{{ if $hasCode }}
+{{ if in $content "class="chroma"" }}
   <link rel="stylesheet" href="/css/syntax.css">
 {{ end }}
