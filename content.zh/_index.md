@@ -8,6 +8,9 @@ headCustom: |
     .markdown blockquote {
       background: none;
     }
+    .oldline {
+      color: var(--gray-60);
+    }
   </style>
 afterBodyCustom: |
   <script type="application/javascript">

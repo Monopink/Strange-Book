@@ -11,3 +11,10 @@
     filter: var(--icon-filter)
   }
 </style>
+
+{{ $content := .Content }}
+{{ $hasCode := in $content "```" }}
+
+{{ if $hasCode }}
+  <link rel="stylesheet" href="/css/syntax.css">
+{{ end }}

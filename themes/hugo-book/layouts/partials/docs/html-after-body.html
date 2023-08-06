@@ -1,7 +1,12 @@
 <!-- Import the script that copies the code to the clipboard -->
-{{ $script := resources.Get "clipboard.js" | resources.Minify }}
-{{ with $script.Content }}
-  <script>{{ . | safeJS }}</script>
+{{ $content := .Content }}
+{{ $hasCode := in $content "```" }}
+
+{{ if $hasCode }}
+  {{ $script := resources.Get "clipboard.js" | resources.Minify }}
+	{{ with $script.Content }}
+	  <script>{{ . | safeJS }}</script>
+	{{ end }}
 {{ end }}
 
 <!-- Add custom after body content from articles -->
