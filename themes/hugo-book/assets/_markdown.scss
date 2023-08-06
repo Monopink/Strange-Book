@@ -9,6 +9,14 @@
     margin-top: 0;
   }
 
+  .post-title {
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.4;
+    margin-top: 1.5em;
+    margin-bottom: $padding-16;
+  }
+
   .post-date {
     margin-top: 0 - $padding-8;
     margin-bottom: $padding-16 * 1.5;
@@ -24,7 +32,6 @@
     font-weight: bold;
     line-height: 1.4;
     margin-top: 1.5em;
-    margin-bottom: $padding-16;
 
     a.anchor {
       opacity: 0;
@@ -37,6 +44,18 @@
     a.anchor:focus {
       opacity: initial;
     }
+  }
+
+  h1 {
+    margin-bottom: $padding-16 * 2;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: $padding-16;
   }
 
   h4,
