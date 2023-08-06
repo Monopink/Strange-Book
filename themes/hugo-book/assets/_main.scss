@@ -109,7 +109,7 @@ ul.pagination {
 
   .book-menu-content {
     width: $menu-width;
-    padding: $padding-16;
+    padding: $padding-16*2 $padding-16*1.4 $padding-16*2 $padding-16;
     background: var(--body-background);
     border-right: 1px solid var(--gray-90);
 
@@ -280,6 +280,7 @@ body[dir="rtl"] .book-menu {
   flex: 0 0 $toc-width;
   margin-left: $padding-16 * 2;
   font-size: $font-size-12;
+  line-height: 1.4;
 
   .book-toc-content {
     width: $toc-width;
@@ -303,6 +304,7 @@ body[dir="rtl"] .book-menu {
 
   nav > ul > li:first-child {
     margin-top: 0;
+    margin-bottom: 0.7em;
   }
 }
 
