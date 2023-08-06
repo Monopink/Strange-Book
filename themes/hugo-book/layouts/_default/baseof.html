@@ -14,7 +14,11 @@
       </div>
     </aside>
 
-    <div class="book-page">
+    {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
+      <div class="book-page-with-toc">
+    {{ else }}
+      <div class="book-page-without-toc">
+    {{ end }}
       <header class="book-header">
         {{ template "header" . }} <!-- Mobile layout header -->
       </header>
