@@ -78,6 +78,7 @@ ul.pagination {
 .container {
   max-width: $container-max-width;
   margin: 0 auto;
+  justify-content: space-between;
 }
 
 .book-icon {
@@ -150,6 +151,7 @@ ul.pagination {
 
 .book-content-tree {
   margin-bottom: 2em;
+  color: var(--gray-30);
 }
 
 // for RTL support
@@ -187,6 +189,7 @@ body[dir="rtl"] .book-menu {
 
 .book-page {
   min-width: $body-min-width;
+  max-width: $body-max-width;
   flex-grow: 1;
   padding: $padding-16;
 }
@@ -221,7 +224,7 @@ body[dir="rtl"] .book-menu {
     border: 0;
     border-radius: $border-radius;
 
-    background: var(--gray-100);
+    background: var(--gray-95);
     color: var(--body-font-color);
 
     &:required + .book-search-spinner {
@@ -252,6 +255,7 @@ body[dir="rtl"] .book-menu {
 
 .book-toc {
   flex: 0 0 $toc-width;
+  margin-left: $padding-16 * 2;
   font-size: $font-size-12;
 
   .book-toc-content {
@@ -259,6 +263,10 @@ body[dir="rtl"] .book-menu {
     padding: $padding-16;
 
     @include fixed;
+  }
+
+  a {
+    color: var(--gray-50);
   }
 
   img {
@@ -272,11 +280,13 @@ body[dir="rtl"] .book-menu {
 }
 
 .book-footer {
+  border-top: 1px solid var(--gray-85);
+  margin-top: $padding-16 * 3;
   padding-top: $padding-16;
   font-size: $font-size-14;
 
   a {
-    color: var(--gray-600);
+    color: var(--gray-60);
     &:hover {
       opacity: 0.7;
     }
