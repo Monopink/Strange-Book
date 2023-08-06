@@ -8,6 +8,12 @@
     margin-top: 0;
   }
 
+  .post-date {
+    margin-top: 0 - $padding-8;
+    margin-bottom: $padding-16 * 1.5;
+    color: var(--gray-60);
+  }
+
   h1,
   h2,
   h3,

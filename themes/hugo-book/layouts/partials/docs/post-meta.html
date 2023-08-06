@@ -1,5 +1,5 @@
 {{ with .Date }}
-  <h5>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5>
+  <div class="post-date">{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</div>
 {{ end }}
 
 {{ range $taxonomy, $_ := .Site.Taxonomies }}
