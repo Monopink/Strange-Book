@@ -14,7 +14,8 @@ $border-radius: $padding-4 !default;
 $body-font-weight: normal !default;
 
 $body-min-width: 20rem !default;
-$container-max-width: 80rem !default;
+$body-max-width: 46rem !default;
+$container-max-width: 90rem !default;
 
 $header-height: 3.5rem !default;
 $menu-width: 16rem !default;
@@ -30,10 +31,13 @@ $hint-colors: (
 
 // Themes
 @mixin theme-light {
-  --gray-100: #f2f5f7;
-  --gray-200: #ebeff2;
-  --gray-500: #adb5bd;
-  --gray-600: #9a9a9a; /*footer font*/
+  --gray-97: #f5f8fa;
+  --gray-95: #f2f5f7;
+  --gray-90: #edf2f5;
+  --gray-85: #d7dde0;
+  --gray-60: #9a9a9a; /*footer font*/
+  --gray-50: #808080;
+  --gray-30: #515151;
 
   --color-link: #b00;
   --color-visited-link: #b00; /*#c76445*/
@@ -53,10 +57,13 @@ $hint-colors: (
 }
 
 @mixin theme-dark {
-  --gray-100: rgba(255, 255, 255, 0.05);
-  --gray-200: rgba(255, 255, 255, 0.1);
-  --gray-500: rgba(255, 255, 255, 0.3);
-  --gray-600: #808080; /*footer font*/
+  --gray-97: rgba(255, 255, 255, 0.04);
+  --gray-95: rgba(255, 255, 255, 0.05);
+  --gray-90: rgba(255, 255, 255, 0.1);
+  --gray-85: rgba(255, 255, 255, 0.3);
+  --gray-60: #808080; /*footer font*/
+  --gray-50: #acaeb0;
+  --gray-30: #ced0d3;
 
   --color-link: #f06275;
   --color-visited-link: #f06275; /*#ea67aa*/

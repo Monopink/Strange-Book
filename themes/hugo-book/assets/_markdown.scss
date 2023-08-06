@@ -71,14 +71,14 @@
 
   code {
     padding: 0 $padding-4;
-    background: var(--gray-200);
+    background: var(--gray-90);
     border-radius: $border-radius;
     font-size: 0.875em;
   }
 
   pre {
     padding: $padding-16;
-    background: var(--gray-100);
+    background: var(--gray-95);
     border-radius: $border-radius;
     overflow-x: auto;
 
@@ -93,10 +93,10 @@
     margin: $padding-16 0;
     padding: $padding-8 $padding-16 $padding-8 ($padding-16 - $padding-4); //to keep total left space 16dp
 
-    border-inline-start: $padding-4 solid var(--gray-500);
+    border-inline-start: $padding-4 solid var(--gray-85);
     border-radius: $border-radius;
 
-    background-color: var(--gray-200);
+    background-color: var(--gray-97);
 
     :first-child {
       margin-top: 0;
@@ -116,8 +116,8 @@
 
     tr th {
       padding: $padding-8;
-      border-bottom: $padding-1 solid var(--gray-200);
-      background-color: var(--gray-200);
+      border-bottom: $padding-1 solid var(--gray-90);
+      background-color: var(--gray-90);
     }
     tr td:first-child {
       padding: $padding-8 $padding-8 $padding-8 $padding-16;
@@ -127,18 +127,18 @@
     }
 
     tr:last-child td {
-      border-bottom: $padding-1 solid var(--gray-200);
+      border-bottom: $padding-1 solid var(--gray-90);
     }
 
     tr:nth-child(2n) {
-      background: var(--gray-100);
+      background: var(--gray-95);
     }
   }
 
   hr {
     height: $padding-1;
     border: none;
-    background: var(--gray-200);
+    background: var(--gray-90);
   }
 
   ul,
@@ -172,7 +172,7 @@
 
   details {
     padding: $padding-16;
-    border: $padding-1 solid var(--gray-200);
+    border: $padding-1 solid var(--gray-90);
     border-radius: $border-radius;
 
     summary {
