@@ -3,6 +3,7 @@ author: "Dangel"
 date: 2023-08-02
 title: Hello World
 weight: 10
+bookFooter: False
 ---
 
 Helloooo Woooorld！
