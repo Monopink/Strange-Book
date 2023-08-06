@@ -12,6 +12,6 @@
   }
 </style>
 
-{{ if in .Content "class="chroma"" }}
+{{ if in .RawContent "```" }}
   <link rel="stylesheet" href="/css/syntax.css">
 {{ end }}
