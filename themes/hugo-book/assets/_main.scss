@@ -111,6 +111,7 @@ ul.pagination {
     width: $menu-width;
     padding: $padding-16;
     background: var(--body-background);
+    border-right: 1px solid var(--gray-90);
 
     @include fixed;
 
@@ -201,6 +202,7 @@ body[dir="rtl"] .book-menu {
 .book-header {
   display: none;
   margin-bottom: $padding-16;
+  color: var(--gray-30);
 
   label {
     line-height: 0;
@@ -209,6 +211,15 @@ body[dir="rtl"] .book-menu {
   img.book-icon {
     height: 1.5em;
     width: 1.5em;
+    filter: var(--icon-filter-30);
+
+  a {
+    color: var(--gray-50);
+  }
+  a:hover {
+    color: var(--color-link);
+    opacity: 0.6;
+  }
   }
 }
 
@@ -268,6 +279,10 @@ body[dir="rtl"] .book-menu {
   a {
     color: var(--gray-50);
   }
+  a:hover {
+    color: var(--color-link);
+    opacity: 0.6;
+  }
 
   img {
     height: 1em;
@@ -296,7 +311,7 @@ body[dir="rtl"] .book-menu {
     height: 1em;
     width: 1em;
     margin-inline-end: $padding-8;
-    filter: var(--icon-filter-600);
+    filter: var(--icon-filter-60);
   }
 }
 
