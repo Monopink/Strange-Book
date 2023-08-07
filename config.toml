@@ -110,13 +110,6 @@ defaultContentLanguageInSubdir = false
 
   # The third party search service by Algolia
   DocSearch = true
-  [[params.DocSearch]]
-    appId = "TR1JS5XUQQ"
-    apiKey = "65b41088a6c64941a701a3170fee3899"
-    indexName = "jhcom"
-    insights = true # Optional, automatically send insights when user interacts with search results
-    container = "div"
-    debug = false # Set debug to true if you want to inspect the modal
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
@@ -142,3 +135,11 @@ defaultContentLanguageInSubdir = false
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly = false
+
+[params.DocSearch]
+  appId = "TR1JS5XUQQ"
+  apiKey = "65b41088a6c64941a701a3170fee3899"
+  indexName = "jhcom"
+  insights = true # Optional, automatically send insights when user interacts with search results
+  container = "div"
+  debug = false # Set debug to true if you want to inspect the modal
