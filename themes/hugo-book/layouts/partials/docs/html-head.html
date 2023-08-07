@@ -59,8 +59,11 @@ https://github.com/alex-shpak/hugo-book
 {{ end }}
 
 {{ if .Site.Params.DocSearch.enabled }}
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3"/></pre></li>
   <link rel="preconnect" href="https://{{ .Site.Params.DocSearch.appId }}-dsn.algolia.net" crossorigin />
+  {{ $options := dict "transpiler" "libsass" "targetPath" "css/docsearch.css" }}
+  {{ with resources.Get "docsearch.scss" | toCSS $options | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{ end }}
 {{ end }}
 
 <!-- Add custom head content from articles -->
