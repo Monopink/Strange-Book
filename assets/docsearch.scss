@@ -58,10 +58,6 @@
   }
 }
 
-:root{
-  
-}
-
 .docsearch-container {
   position: relative;
   margin: $padding-16 0;
@@ -489,7 +485,7 @@ svg.DocSearch-Hit-Select-Icon {
   width: 80%;
 }
 .DocSearch-Screen-Icon {
-  filter: var(--icon-filter)
+  filter: var(--icon-filter);
   padding-bottom: 12px;
 }
 .DocSearch-NoResults-Prefill-List {
