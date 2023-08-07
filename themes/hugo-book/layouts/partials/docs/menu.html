@@ -1,8 +1,10 @@
 <nav>
 {{ partial "docs/brand" . }}
+
 {{ if .Site.Params.DocSearch }}
-<div id="docsearch"></div>
+  <div id="docsearch"></div>
 {{ end }}
+
 {{ partial "docs/search" . }}
 {{ if .Site.IsMultiLingual }}
   {{ partial "docs/languages" . }}
