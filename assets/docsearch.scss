@@ -1,5 +1,5 @@
 /** * Skipped minification because the original files appears to be already minified. * Original file: /npm/@docsearch/css@3.5.1/dist/style.css * * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files */
-/*! @docsearch/css 3.5.1 | MIT License | 漏 Algolia, Inc. and contributors | https://docsearch.algolia.com */
+/*! @docsearch/css 3.5.1 | MIT License | © Algolia, Inc. and contributors | https://docsearch.algolia.com */
 @import "defaults";
 
 :root {
@@ -7,9 +7,9 @@
   --docsearch-text-color: #1c1e21;
   --docsearch-spacing: 12px;
   --docsearch-icon-stroke-width: 1.4;
-  --docsearch-highlight-color: var(--docsearch-primary-color);
+  --color-link: var(--docsearch-primary-color);
   --docsearch-muted-color: #969faf;
-  --docsearch-container-background: rgba(101, 108, 133, 0.8);
+  /*--docsearch-container-background: rgba(101, 108, 133, 0.8);*/
   --docsearch-logo-color: #5468ff;
   --docsearch-modal-width: 560px;
   --docsearch-modal-height: 600px;
@@ -32,12 +32,14 @@
   --docsearch-footer-background: #fff;
   --docsearch-footer-shadow: 0 -1px 0 0 #e0e3e8,
     0 -3px 6px 0 rgba(69, 98, 155, 0.12);
+  /*remain*/
+  --docsearch-container-background: rgba(0, 0, 0, 0.5);
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
+@mixin theme-dark {
+  :root {
     --docsearch-text-color: #f5f6f7;
-    --docsearch-container-background: rgba(9, 10, 17, 0.8);
+    /*--docsearch-container-background: rgba(9, 10, 17, 0.8);*/
     --docsearch-modal-background: #15172a;
     --docsearch-modal-shadow: inset 1px 1px 0 0 #2c2e40, 0 3px 8px 0 #000309;
     --docsearch-searchbox-background: #090a11;
@@ -56,6 +58,10 @@
   }
 }
 
+:root{
+  
+}
+
 .docsearch-container {
   position: relative;
   margin: $padding-16 0;
@@ -68,16 +74,12 @@
   border: 1px solid var(--gray-85);
   border-radius: $border-radius;
   background: none;
-  color: var(--body-font-color);
 
   align-items: center;
-  border: 0;
-  border-radius: $border-radius;
   color: var(--gray-60);
   cursor: pointer;
   display: flex;
-  font-weight: 500;
-  height: 36px;
+  height: auto;
   justify-content: space-between;
 }
 .DocSearch-Button:active,
@@ -133,7 +135,7 @@
   appearance: none;
   background: none;
   border: 0;
-  color: var(--docsearch-highlight-color);
+  color: var(--color-link);
   cursor: pointer;
   font: inherit;
   margin: 0;
@@ -196,7 +198,7 @@
 .DocSearch-MagnifierLabel,
 .DocSearch-Reset {
   align-items: center;
-  color: var(--docsearch-highlight-color);
+  color: var(--color-link);
   display: flex;
   justify-content: center;
 }
@@ -206,7 +208,7 @@
 }
 .DocSearch-Container--Stalled .DocSearch-LoadingIndicator {
   align-items: center;
-  color: var(--docsearch-highlight-color);
+  color: var(--color-link);
   display: flex;
   justify-content: center;
 }
@@ -239,7 +241,7 @@
   display: none;
 }
 .DocSearch-Reset:hover {
-  color: var(--docsearch-highlight-color);
+  color: var(--color-link);
 }
 .DocSearch-LoadingIndicator svg,
 .DocSearch-MagnifierLabel svg {
@@ -306,7 +308,7 @@
 }
 .DocSearch-Hits mark {
   background: none;
-  color: var(--docsearch-highlight-color);
+  color: var(--color-link);
 }
 .DocSearch-HitsFooter {
   color: var(--docsearch-muted-color);
@@ -356,7 +358,7 @@
 }
 .DocSearch-Hit-source {
   background: var(--docsearch-modal-background);
-  color: var(--docsearch-highlight-color);
+  color: var(--color-link);
   font-size: 0.85em;
   font-weight: 600;
   line-height: 32px;
@@ -374,7 +376,7 @@
   width: 24px;
 }
 .DocSearch-Hit[aria-selected="true"] a {
-  background-color: var(--docsearch-highlight-color);
+  background-color: var(--color-link);
 }
 .DocSearch-Hit[aria-selected="true"] mark {
   text-decoration: underline;
@@ -487,7 +489,7 @@ svg.DocSearch-Hit-Select-Icon {
   width: 80%;
 }
 .DocSearch-Screen-Icon {
-  color: var(--docsearch-muted-color);
+  filter: var(--icon-filter)
   padding-bottom: 12px;
 }
 .DocSearch-NoResults-Prefill-List {
@@ -501,14 +503,14 @@ svg.DocSearch-Hit-Select-Icon {
 }
 .DocSearch-NoResults-Prefill-List li {
   list-style-position: inside;
-  list-style-type: "禄 ";
+  list-style-type: "» ";
 }
 .DocSearch-Prefill {
   appearance: none;
   background: none;
   border: 0;
   border-radius: $border-radius;
-  color: var(--docsearch-highlight-color);
+  color: var(--color-link);
   cursor: pointer;
   display: inline-block;
   font-size: 1em;
@@ -583,7 +585,7 @@ svg.DocSearch-Hit-Select-Icon {
     appearance: none;
     background: none;
     border: 0;
-    color: var(--docsearch-highlight-color);
+    color: var(--color-link);
     cursor: pointer;
     display: inline-block;
     flex: none;
