@@ -54,12 +54,12 @@ defaultContentLanguageInSubdir = false
 
 [menu]
 # [[menu.before]]
-#[[menu.after]]
+# [[menu.after]]
 #  name = "Github"
 #  url = "https://github.com/alex-shpak/hugo-book"
 #  weight = 10
 
-#[[menu.after]]
+# [[menu.after]]
 #  name = "Hugo Themes"
 #  url = "https://themes.gohugo.io/hugo-book/"
 #  weight = 20
@@ -109,7 +109,14 @@ defaultContentLanguageInSubdir = false
   BookDateFormat = "January 2, 2006"
 
   # The third party search service by Algolia
-
+  DocSearch = false
+  [[params.DocSearch]]
+    appId = "TR1JS5XUQQ"
+    apiKey = "65b41088a6c64941a701a3170fee3899"
+    indexName = "jhcom"
+    insights = true # Optional, automatically send insights when user interacts with search results
+    container = "div"
+    debug = false # Set debug to true if you want to inspect the modal
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
