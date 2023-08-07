@@ -1,42 +1,41 @@
 /** * Skipped minification because the original files appears to be already minified. * Original file: /npm/@docsearch/css@3.5.1/dist/style.css * * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files */
 /*! @docsearch/css 3.5.1 | MIT License | 漏 Algolia, Inc. and contributors | https://docsearch.algolia.com */
 @import "defaults";
-@media (prefers-color-scheme: light) {
-  :root {
-    --docsearch-primary-color: #5468ff;
-    --docsearch-text-color: #1c1e21;
-    --docsearch-spacing: 12px;
-    --docsearch-icon-stroke-width: 1.4;
-    --docsearch-highlight-color: var(--docsearch-primary-color);
-    --docsearch-muted-color: #969faf;
-    --docsearch-container-background: rgba(101, 108, 133, 0.8);
-    --docsearch-logo-color: #5468ff;
-    --docsearch-modal-width: 560px;
-    --docsearch-modal-height: 600px;
-    --docsearch-modal-background: #f5f6f7;
-    --docsearch-modal-shadow: inset 1px 1px 0 0 hsla(0, 0%, 100%, 0.5),
-      0 3px 8px 0 #555a64;
-    --docsearch-searchbox-height: 56px;
-    --docsearch-searchbox-background: #ebedf0;
-    --docsearch-searchbox-focus-background: #fff;
-    --docsearch-searchbox-shadow: inset 0 0 0 2px var(--docsearch-primary-color);
-    --docsearch-hit-height: 56px;
-    --docsearch-hit-color: #444950;
-    --docsearch-hit-active-color: #fff;
-    --docsearch-hit-background: #fff;
-    --docsearch-hit-shadow: 0 1px 3px 0 #d4d9e1;
-    --docsearch-key-gradient: linear-gradient(-225deg, #d5dbe4, #f8f8f8);
-    --docsearch-key-shadow: inset 0 -2px 0 0 #cdcde6, inset 0 0 1px 1px #fff,
-      0 1px 2px 1px rgba(30, 35, 90, 0.4);
-    --docsearch-footer-height: 44px;
-    --docsearch-footer-background: #fff;
-    --docsearch-footer-shadow: 0 -1px 0 0 #e0e3e8,
-      0 -3px 6px 0 rgba(69, 98, 155, 0.12);
-  }
-  
+
+:root {
+  --docsearch-primary-color: #5468ff;
+  --docsearch-text-color: #1c1e21;
+  --docsearch-spacing: 12px;
+  --docsearch-icon-stroke-width: 1.4;
+  --docsearch-highlight-color: var(--docsearch-primary-color);
+  --docsearch-muted-color: #969faf;
+  --docsearch-container-background: rgba(101, 108, 133, 0.8);
+  --docsearch-logo-color: #5468ff;
+  --docsearch-modal-width: 560px;
+  --docsearch-modal-height: 600px;
+  --docsearch-modal-background: #f5f6f7;
+  --docsearch-modal-shadow: inset 1px 1px 0 0 hsla(0, 0%, 100%, 0.5),
+    0 3px 8px 0 #555a64;
+  --docsearch-searchbox-height: 56px;
+  --docsearch-searchbox-background: #ebedf0;
+  --docsearch-searchbox-focus-background: #fff;
+  --docsearch-searchbox-shadow: inset 0 0 0 2px var(--docsearch-primary-color);
+  --docsearch-hit-height: 56px;
+  --docsearch-hit-color: #444950;
+  --docsearch-hit-active-color: #fff;
+  --docsearch-hit-background: #fff;
+  --docsearch-hit-shadow: 0 1px 3px 0 #d4d9e1;
+  --docsearch-key-gradient: linear-gradient(-225deg, #d5dbe4, #f8f8f8);
+  --docsearch-key-shadow: inset 0 -2px 0 0 #cdcde6, inset 0 0 1px 1px #fff,
+    0 1px 2px 1px rgba(30, 35, 90, 0.4);
+  --docsearch-footer-height: 44px;
+  --docsearch-footer-background: #fff;
+  --docsearch-footer-shadow: 0 -1px 0 0 #e0e3e8,
+    0 -3px 6px 0 rgba(69, 98, 155, 0.12);
 }
+
 @media (prefers-color-scheme: dark) {
-  :root {
+  html {
     --docsearch-text-color: #f5f6f7;
     --docsearch-container-background: rgba(9, 10, 17, 0.8);
     --docsearch-modal-background: #15172a;
@@ -80,9 +79,6 @@
   font-weight: 500;
   height: 36px;
   justify-content: space-between;
-  margin: 0 0 0 16px;
-  padding: 0 8px;
-  user-select: none;
 }
 .DocSearch-Button:active,
 .DocSearch-Button:focus,
@@ -302,7 +298,7 @@
   display: flex;
 }
 .DocSearch-Logo svg {
-  color: var(--docsearch-logo-color);
+  color: var(--body-font-color);
   margin-left: 8px;
 }
 .DocSearch-Hits:last-of-type {
@@ -541,32 +537,7 @@ svg.DocSearch-Hit-Select-Icon {
   z-index: 300;
 }
 .DocSearch-Commands {
-  color: var(--docsearch-muted-color);
-  display: flex;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.DocSearch-Commands li {
-  align-items: center;
-  display: flex;
-}
-.DocSearch-Commands li:not(:last-of-type) {
-  margin-right: 0.8em;
-}
-.DocSearch-Commands-Key {
-  align-items: center;
-  background: var(--docsearch-key-gradient);
-  border-radius: $border-radius;
-  box-shadow: var(--docsearch-key-shadow);
-  display: flex;
-  height: 18px;
-  justify-content: center;
-  margin-right: 0.4em;
-  padding: 0 0 1px;
-  color: var(--docsearch-muted-color);
-  border: 0;
-  width: 20px;
+  display: none;
 }
 @media (max-width: 768px) {
   :root {
