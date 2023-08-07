@@ -60,6 +60,7 @@ https://github.com/alex-shpak/hugo-book
 
 {{ if .Site.Params.DocSearch.enabled }}
   <link rel="preconnect" href="https://{{ .Site.Params.DocSearch.appId }}-dsn.algolia.net" crossorigin />
+  {{/* <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3"/></pre></li> */}}
   {{ $options := dict "transpiler" "libsass" "targetPath" "css/docsearch.css" }}
   {{ with resources.Get "docsearch.scss" | toCSS $options | minify | fingerprint }}
     <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
