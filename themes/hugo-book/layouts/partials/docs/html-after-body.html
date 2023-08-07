@@ -6,6 +6,10 @@
 	{{ end }}
 {{ end }}
 
+{{ if .Site.Params.DocSearch }}
+{{ partial "docsearch" . }}
+{{ end }}
+
 <!-- Add custom after body content from articles -->
 {{ if .Params.afterBodyCustom }}
   {{ .Params.afterBodyCustom | safeHTML }}

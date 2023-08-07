@@ -1,0 +1,11 @@
+<script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
+<script type="text/javascript">
+docsearch({
+appId: {{ .Site.Params.DocSearch.appId }},
+apiKey: {{ .Site.Params.DocSearch.apiKey }},
+indexName: {{ .Site.Params.DocSearch.indexName }},
+insights: {{ .Site.Params.DocSearch.insights }}, 
+container: {{ .Site.Params.DocSearch.container }},
+debug: {{ .Site.Params.DocSearch.debug }} 
+});
+</script>
