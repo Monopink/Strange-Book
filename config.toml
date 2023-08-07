@@ -108,9 +108,6 @@ defaultContentLanguageInSubdir = false
   # - In blog posts
   BookDateFormat = "January 2, 2006"
 
-  # The third party search service by Algolia
-  DocSearch = true
-
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
@@ -136,7 +133,9 @@ defaultContentLanguageInSubdir = false
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly = false
 
+# The third party search service by Algolia
 [params.DocSearch]
+  enabled = true
   appId = "TR1JS5XUQQ"
   apiKey = "65b41088a6c64941a701a3170fee3899"
   indexName = "jhcom"
