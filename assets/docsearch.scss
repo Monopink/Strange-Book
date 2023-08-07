@@ -4,10 +4,10 @@
 
 :root {
   --docsearch-primary-color: #5468ff;
+  --docsearch-primary-color: #5468ff;
   --docsearch-text-color: #1c1e21;
   --docsearch-spacing: 12px;
   --docsearch-icon-stroke-width: 1.4;
-  --color-link: var(--docsearch-primary-color);
   --docsearch-muted-color: #969faf;
   /*--docsearch-container-background: rgba(101, 108, 133, 0.8);*/
   --docsearch-logo-color: #5468ff;
@@ -296,7 +296,7 @@
   display: flex;
 }
 .DocSearch-Logo svg {
-  color: var(--body-font-color);
+  fill: var(--body-font-color);
   margin-left: 8px;
 }
 .DocSearch-Hits:last-of-type {
