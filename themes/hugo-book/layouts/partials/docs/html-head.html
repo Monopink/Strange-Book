@@ -54,6 +54,10 @@ https://github.com/alex-shpak/hugo-book
   {{- end -}}
 {{- end -}}
 
+{{ if in .Content "class=\"chroma\"" }}
+  <link rel="stylesheet" href="/css/syntax.css">
+{{ end }}
+
 <!-- Add custom head content from articles -->
 {{ if .Params.headCustom }}
   {{ .Params.headCustom | safeHTML }}
