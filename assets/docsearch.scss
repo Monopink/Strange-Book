@@ -36,7 +36,7 @@
   --docsearch-container-background: rgba(0, 0, 0, 0.5);
 }
 
-@mixin theme-dark {
+@media (prefers-color-scheme: dark) {
   :root {
     --docsearch-text-color: #f5f6f7;
     /*--docsearch-container-background: rgba(9, 10, 17, 0.8);*/
@@ -66,7 +66,7 @@
 
 .DocSearch-Button {
   width: 100%;
-  padding: 0.5;
+  padding: $padding-8;
   border: 1px solid var(--gray-85);
   border-radius: $border-radius;
   background: none;
