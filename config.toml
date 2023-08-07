@@ -109,7 +109,7 @@ defaultContentLanguageInSubdir = false
   BookDateFormat = "January 2, 2006"
 
   # The third party search service by Algolia
-  DocSearch = true
+  DocSearch = false
   [Params.DocSearch]
     appId = "TR1JS5XUQQ"
     apiKey = "65b41088a6c64941a701a3170fee3899"
