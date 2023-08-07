@@ -4,7 +4,6 @@
 
 :root {
   --docsearch-primary-color: #5468ff;
-  --docsearch-primary-color: #5468ff;
   --docsearch-text-color: #1c1e21;
   --docsearch-spacing: 12px;
   --docsearch-icon-stroke-width: 1.4;
@@ -19,7 +18,7 @@
   --docsearch-searchbox-height: 56px;
   --docsearch-searchbox-background: #ebedf0;
   --docsearch-searchbox-focus-background: #fff;
-  --docsearch-searchbox-shadow: inset 0 0 0 2px var(--docsearch-primary-color);
+  --docsearch-searchbox-shadow: inset 0 0 0 2px var(--color-link);
   --docsearch-hit-height: 56px;
   --docsearch-hit-color: #444950;
   --docsearch-hit-active-color: #fff;
@@ -296,7 +295,7 @@
   display: flex;
 }
 .DocSearch-Logo svg {
-  fill: var(--body-font-color);
+  filter: var(--icon-filter)
   margin-left: 8px;
 }
 .DocSearch-Hits:last-of-type {
