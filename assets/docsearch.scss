@@ -1,5 +1,6 @@
 /** * Skipped minification because the original files appears to be already minified. * Original file: /npm/@docsearch/css@3.5.1/dist/style.css * * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files */
 /*! @docsearch/css 3.5.1 | MIT License | 漏 Algolia, Inc. and contributors | https://docsearch.algolia.com */
+@import "defaults";
 @media (prefers-color-scheme: light) {
   :root {
     --docsearch-primary-color: #5468ff;
