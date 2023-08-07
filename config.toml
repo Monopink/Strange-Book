@@ -140,5 +140,5 @@ defaultContentLanguageInSubdir = false
   apiKey = "65b41088a6c64941a701a3170fee3899"
   indexName = "jhcom"
   insights = true # Optional, automatically send insights when user interacts with search results
-  container = "div"
-  debug = false # Set debug to true if you want to inspect the modal
+  container = "#docsearch"
+  debug = true # Set debug to true if you want to inspect the modal
