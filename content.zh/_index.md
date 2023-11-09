@@ -71,6 +71,9 @@ afterBodyCustom: |
     window.open("https://giphy.com/search/" + keywordBox.value);
   }
 
+  function wayback() {
+    window.open("https://web.archive.org/web/*/" + keywordBox.value);
+  }
   function domainr() {
     window.open("https://domainr.com/?q=" + keywordBox.value);
   }
