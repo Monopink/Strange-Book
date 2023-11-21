@@ -175,11 +175,11 @@ Blog<span class="oldline">｜</span>[酱紫表](https://qust.me/)<span class="ol
 
 ### 🔨工具
 
-云机器<span class="oldline">｜</span>[云手机](https://cloudphoneh5.buy.139.com/#/cloudphone)<span class="oldline">｜</span>[MS Learn](https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1)<span class="oldline">｜</span>[LightNode](https://console.lightnode.com/)
+云机器<span class="oldline">｜</span>[云手机](https://cloudphoneh5.buy.139.com/#/cloudphone)
 
 笔记<span class="oldline">｜</span>[作业部落](https://www.zybuluo.com/mdeditor#2412183)<span class="oldline">｜</span>[HackMD](https://hackmd.io/)
 
-工具<span class="oldline">｜</span>[小鹤音形查询](http://react.xhup.club/search)<span class="oldline">｜</span>[Wormhole](https://wormhole.app/)<span class="oldline">｜</span>[Emailnator](https://www.emailnator.com/)
+工具<span class="oldline">｜</span>[小鹤音形查询](http://react.xhup.club/search)<span class="oldline">｜</span>[Wormhole](https://wormhole.app/)<span class="oldline">｜</span>[Emailnator](https://www.emailnator.com/)<span class="oldline">｜</span>[VooV](https://voovmeeting.com/regist-email.html)
 
 ---
 
