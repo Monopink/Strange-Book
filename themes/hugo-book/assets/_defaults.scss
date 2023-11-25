@@ -23,9 +23,7 @@ $menu-width: 16.4rem !default;
 $toc-width: 16rem !default;
 
 $tocmargin-breakpoint: $menu-width + $body-max-width-medium + $toc-width + $padding-16 * 3
-// $tablet-breakpoint: $menu-width + $body-max-width-medium + $toc-width !default;
-// $mobile-breakpoint: $menu-width + $body-min-width * 1.2 + $toc-width !default;
-// ^Not finished yet
+
 
 $hint-colors: (
   info: #6bf,
