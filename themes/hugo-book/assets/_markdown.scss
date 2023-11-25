@@ -115,6 +115,10 @@
     }
   }
 
+  p {
+    word-wrap: break-word;
+  }
+
   blockquote {
     margin: $padding-16 0;
     padding: $padding-8 $padding-16 $padding-8 ($padding-16 - $padding-4); //to keep total left space 16dp
@@ -140,6 +144,7 @@
     margin-top: $padding-16;
     margin-bottom: $padding-16;
     border-radius: $border-radius;
+    word-wrap: break-word;
 
     tr th {
       padding: $padding-8;
@@ -171,6 +176,7 @@
   ul,
   ol {
     padding-inline-start: $padding-16 * 2;
+    word-wrap: break-word;
   }
 
   dl {
