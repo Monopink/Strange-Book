@@ -1,6 +1,6 @@
 ---
 author: "Dangel"
-date: 2023-10-27
+date: 2023-11-27
 title: 蛋炒饭
 weight: 10
 bookFooter: False
