@@ -9,7 +9,7 @@ bookHidden: true
 
 # 关于
 
-这里是 Jianghu Wiki aka 浆糊 Wiki
+这里是 Jianghu Wiki，aka 浆糊 Wiki
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 324.08" width="300px" aria-label="Jh Logo">
   <path class="fill-font-color" d="M268.15,50.3c21.22,0,31.84,13.86,31.85,41.58V0h-57V63.15c5.77-8.57,14.15-12.85,25.15-12.85Z"/>
