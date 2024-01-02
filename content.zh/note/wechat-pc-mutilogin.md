@@ -8,7 +8,7 @@ bookHidden: false
 
 # 微信 PC 端多开
 
-```shell
+```
 @echo off
 title open wechat
 
