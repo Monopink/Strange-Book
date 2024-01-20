@@ -74,6 +74,9 @@ afterBodyCustom: |
   function wayback() {
     window.open("https://web.archive.org/web/*/" + keywordBox.value);
   }
+  function webcheck() {
+    window.open("https://web-check.xyz/results/" + keywordBox.value);
+  }
   function domainr() {
     window.open("https://domainr.com/?q=" + keywordBox.value);
   }
