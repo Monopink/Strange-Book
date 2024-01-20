@@ -78,6 +78,13 @@ headCustom: |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [LittleBigMouse](https://github.com/mgth/LittleBigMouse) | 在不同 DPI 的屏幕间顺畅移动鼠标 | {{< lists-svg "w" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [Monitorian](https://github.com/emoacht/Monitorian) | 单独调节每个输出显示器的亮度等参数 | {{< lists-svg "w" >}} |
 
+## 油猴脚本
+
+|  |  |  |  |
+| :----: | ---- | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://greasyfork.org/vite/assets/blacklogo16-bc64b9f7.png"> | [搜索助手](https://greasyfork.org/en/scripts/456311-%E6%90%9C%E7%B4%A2%E5%8A%A9%E6%89%8B) | 左侧悬浮按钮快速切换搜索引擎 | N/A |
+| <img loading="lazy" width="32px" alt="💔" src="https://greasyfork.org/vite/assets/blacklogo16-bc64b9f7.png"> | [all-search](https://greasyfork.org/en/scripts/397993-all-search-%E5%85%A8%E6%90%9C-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC-%E6%94%AF%E6%8C%81%E4%BB%BB%E6%84%8F%E7%BD%91%E7%AB%99%E5%B1%95%E7%A4%BA)<span class="oldline">｜</span>[GitHub](https://github.com/all-search/all-search) | 顶部搜索引擎快捷跳转 | N/A |
+
 ## Geek
 
 |  |  |  |  |
