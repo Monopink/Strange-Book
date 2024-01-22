@@ -173,7 +173,7 @@ afterBodyCustom: |
 <a href="#" class="searchbt" onclick="giphy()"><span style="color: #9933ff;">●</span>GIPHY</a><br />
 <span class="oldline seawrch-pipe">｜</span>
 <a href="#" class="searchbt" onclick="wayback()"><span style="color: #ab2e33;">●</span>IAWM</a>
-<a href="#" class="searchbt" onclick="webcheck()"><span style="color: #B6FF25;">●</span>Domainr</a>
+<a href="#" class="searchbt" onclick="webcheck()"><span style="color: #B6FF25;">●</span>Web Check</a>
 <a href="#" class="searchbt" onclick="domainr()"><span style="color: #0e5f96;">●</span>Domainr</a>
 <a href="#" class="searchbt" onclick="whois()"><span style="color: #91d117;">●</span>Whois</a>
 <a href="#" class="searchbt" onclick="cnicp()"><span style="color: #fdd000;">●</span>CNICP</a>
