@@ -154,7 +154,46 @@ afterBodyCustom: |
 
 ## 🔍搜索
 
-{{< search >}}
+<div class="book-search" style="margin-bottom: 0.5rem;">
+  <input type="text" id="keyword" name="keyword" placeholder="Jianghu 搜索" aria-label="搜索" onclick="selectText(this)"/>
+</div>
+
+<span class="oldline seawrch-pipe">｜</span>
+<a href="#" class="searchbt" onclick="google()"><span style="color: #4285f4;">●</span>Google NCR</a>
+<a href="#" class="searchbt" onclick="duckgo()"><span style="color: #de5833;">●</span>DuckDuckGo</a>
+<a href="#" class="searchbt" onclick="bing()"><span style="color: #0060df;">●</span>Bing</a>
+<a href="#" class="searchbt" onclick="yandex()"><span style="color: #fc3f1d;">●</span>Yandex</a>
+<a href="#" class="searchbt" onclick="baidu()"><span style="color: #4e6ef2;">●</span>百度</a><br />
+
+<span class="oldline seawrch-pipe">｜</span>
+<a href="#" class="searchbt" onclick="github()"><span style="color: #6e5494;">●</span>GitHub</a>
+<a href="#" class="searchbt" onclick="pinterest()"><span style="color: #e60023;">●</span>Pinterest</a>
+<a href="#" class="searchbt" onclick="neodb()"><span style="color: #c0d9b4;">●</span>NeoDB</a>
+<a href="#" class="searchbt" onclick="qimai()"><span style="color: #02b389;">●</span>七麦</a>
+<a href="#" class="searchbt" onclick="steamdb()"><span style="color: #0366d6;">●</span>SteamDB</a>
+<a href="#" class="searchbt" onclick="steam()"><span style="color: #1a9fff;">●</span>Steam</a>
+<a href="#" class="searchbt" onclick="giphy()"><span style="color: #9933ff;">●</span>GIPHY</a><br />
+
+<span class="oldline seawrch-pipe">｜</span>
+<a href="#" class="searchbt" onclick="wayback()"><span style="color: #ab2e33;">●</span>IAWM</a>
+<a href="#" class="searchbt" onclick="webcheck()"><span style="color: #B6FF25;">●</span>Domainr</a>
+<a href="#" class="searchbt" onclick="domainr()"><span style="color: #0e5f96;">●</span>Domainr</a>
+<a href="#" class="searchbt" onclick="whois()"><span style="color: #91d117;">●</span>Whois</a>
+<a href="#" class="searchbt" onclick="cnicp()"><span style="color: #fdd000;">●</span>CNICP</a>
+<a href="#" class="searchbt" onclick="ipshu()"><span style="color: #50b8fe;">●</span>IPSHU</a>
+<a href="#" class="searchbt" onclick="bczs()"><span style="color: #0088cc;">●</span>bczs.net</a>
+<a href="#" class="searchbt" onclick="baiduip()"><span style="color: #2469f3;">●</span>百度IP</a><br />
+
+<span class="oldline seawrch-pipe">｜</span>
+<a href="#" class="searchbt" onclick="v2ex()"><span style="color: #aab0c6;">●</span>V2EX</a>
+<a href="#" class="searchbt" onclick="taobaopc()"><span style="color: #ff4400;">●</span>淘宝PC</a>
+<a href="#" class="searchbt" onclick="zhihu()"><span style="color: #056de8;">●</span>知乎</a>
+<a href="#" class="searchbt" onclick="so360()"><span style="color: #0fb264;">●</span>360搜索</a>
+<a href="#" class="searchbt" onclick="sougou()"><span style="color: #fd6853;">●</span>搜狗</a><br />
+
+<span class="oldline seawrch-pipe">｜</span>
+<a href="#" class="searchbt" onclick="googletrans()"><span style="color: #4b8bf5;">●</span>Translate</a>
+<a href="#" class="searchbt" onclick="baiduyue()"><span style="color: #2932e1;">●</span>粤语翻译</a><br />
 
 ## 📞快速拨号
 
