@@ -150,9 +150,7 @@ afterBodyCustom: |
   <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
 ---
 
-# Hello!
-
-> 请随意浏览
+> Hello！请随意浏览
 
 ## 🔍搜索
 
