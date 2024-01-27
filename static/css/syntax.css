@@ -1,4 +1,8 @@
 @media (prefers-color-scheme: light) {
+  :root {
+    --code-font-color: black; /*--body-font-color*/
+    --code-backgroud-color: #f2f5f7; /*--gray-150*/
+  }
   .chroma {
     color: var(--code-font-color);
   }
@@ -278,6 +282,10 @@
 }
 
 @media (prefers-color-scheme: dark) {
+  :root {
+    --code-font-color: #e9ecef; /*--body-font-color*/
+    --code-backgroud-color: rgba(255, 255, 255, 0.1); /*--gray-150*/
+  }
   .chroma {
     color: var(--code-font-color);
   }
