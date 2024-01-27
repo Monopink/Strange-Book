@@ -1,6 +1,6 @@
 @media (prefers-color-scheme: light) {
   :root {
-    --code-font-color: #4c4f69; /*--body-font-color*/
+    --code-font-color: #ca0e66; /*--body-font-color*/
     --code-backgroud-color: #f2f5f7; /*--gray-150*/
   }
   .chroma {
@@ -283,7 +283,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --code-font-color: #c6d0f5; /*--body-font-color*/
+    --code-font-color: #f7bbd4; /*--body-font-color*/
     --code-backgroud-color: rgba(255, 255, 255, 0.1); /*--gray-150*/
   }
   .chroma {
