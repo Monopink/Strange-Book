@@ -6,13 +6,15 @@ bookCollapseSection: false
 bookHidden: false
 ---
 
-
+# iOS 在本机切换地图等系统 App 语言
 
 参考自 Hackl0us 的文章[《#骚操作# 英文系统下使用全中文地图导航……》](https://mp.weixin.qq.com/s/xOjQXMULyIEmH8rqu5E6cw)，事情的前因后果可看其中的内容，Hackl0us 已经讲得很清楚这里就不再重复了。
 
 原文所说的方法需要使用电脑连接手机备份来达到修改系统应用语言的目的，这个方法思路很好，但是操作起来略微复杂。这里以地图应用 Maps 为例，在 iPhone 或 iPad 本机，不需要借助其他设备来修改应用语言。
 
 但是前提是设备需要已经越狱或者安装 TrollStore 巨魔商店，并且安装文件管理器，这里我以 Filza 为例。
+
+下面开始。
 
 1. 通过可能的方法安装 Filza。
 2. 在 Filza 中点底栏中间的⭐星星图标，选择`Apps manager`。
