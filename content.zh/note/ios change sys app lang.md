@@ -33,9 +33,9 @@ bookHidden: false
 8. 还是这里，在`VALUE`下点击`Add item ...`，新建`Item 0`。
 
 9. 点击修改新添加的`Item 0`，将`VALUE`修改为`zh-Hant`。语言标志含义如下：
-- zh-Hans 简体中文
-- zh-Hant 繁体中文
-- en-US 美式英语
+- `zh-Hans` 简体中文
+- `zh-Hant` 繁体中文
+- `en-US` 美式英语
 
 10. 上面一步是将简体中文作为第一选择语言，如果还需添加第二选择语言（例如英语）则重复 8-9 步添加`Item 1`即可，以此类推。
 
