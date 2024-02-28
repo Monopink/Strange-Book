@@ -116,7 +116,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://bigjpg.com/static/css/touch-icon-iphone.png"> | [Bigjpg](https://bigjpg.com) | 图片智能放大 |
 | <img loading="lazy" width="32px" alt="💔" src="https://smallpdf.com/favicon.png"> | [Smallpdf](https://smallpdf.com/pdf-tools) | 众多 PDF 相关工具 |
 | 💔 | [Duotone Effect Generator](https://duotones.co) | 将图片处理为双色调风格 |
-| <img loading="lazy" width="32px" alt="💔" src="https://fotoforensics.com/apple-touch-icon.png"> | [FotoForensics](https://fotoforensics.com/) | jpg 图片分析工具 |
+| <img loading="lazy" width="32px" alt="💔" src="https://29a.ch/favicon.ico"> | [Forensically](https://29a.ch/photo-forensics/) | 图片分析工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://besticon.herokuapp.com/favicon.ico"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)<span class="oldline">｜</span>[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.launchaco.com/static/favicon.ico"> | [launchaco](https://www.launchaco.com) | 设计你的网站、Logo 部分付费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://elementor.com/marketing/wp-content/uploads/2021/06/cropped-fav2-32x32.png"> | [elementor](https://elementor.com) | 在线设计网站 没用过 付费 |
