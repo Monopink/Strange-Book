@@ -14,6 +14,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://webbrowsertools.com/includes/img/32.png"> | [WebBrowserTools](https://webbrowsertools.com/) | Web 工具集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://cdn2.downdetector.com/63238d7394197d4/icons/favicon.png"> | [Downdetecotor](https://downdetector.com/) | 大平台故障和中断实时监控 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.whatsmyua.info/favicon.ico"> | [What's my user agent?](https://www.whatsmyua.info/) | 浏览器 UA 查询 |
 | <img loading="lazy" width="32px" alt="💔" src="https://iknowwhatyoudownload.com/assets/img/utorrent2.png"> | [I KNOW](https://iknowwhatyoudownload.com/) | 同 IP 下 BT 传输记录 |
 
