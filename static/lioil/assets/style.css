@@ -60,11 +60,10 @@ html,body{
 }
 
 .copyright a:visited {
-  text-decoration: none !important;
   color: #aaa;
 }
 
-.copyright a:hover {
+.copyright a:active {
   opacity: .6;
 }
 
