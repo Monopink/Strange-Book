@@ -58,7 +58,8 @@ html,body{
   -ms-user-select: none;
   user-select: none;
 }
-.copyright:visited {
+
+.copyright a:visited {
   text-decoration: none;
   color: #aaa;
 }
