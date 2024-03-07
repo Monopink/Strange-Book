@@ -9,21 +9,6 @@
 html,body{
   background-color:#202429;
   height:90%
-  a:link { 
-    text-decoration: none;
-    color: blue
-  }
-  a:active { 
-    text-decoration:blink
-  }
-  a:hover { 
-    text-decoration:underline;
-    color: #aaa
-  }
-  a:visited { 
-    text-decoration: none;
-    color: #aaa
-  }
 }
 
 .banner {
@@ -72,6 +57,10 @@ html,body{
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+.copyright:visited {
+  text-decoration: none;
+  color: #aaa;
 }
 
 .wrapper{
