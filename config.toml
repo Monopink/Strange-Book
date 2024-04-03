@@ -135,7 +135,7 @@ defaultContentLanguageInSubdir = false
 
 # The third party search service by Algolia
 [params.DocSearch]
-  enabled = true
+  enabled = false
   appId = "TR1JS5XUQQ"
   apiKey = "65b41088a6c64941a701a3170fee3899"
   indexName = "jhcom"
