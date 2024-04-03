@@ -1,1 +1,1 @@
-Sitemap: https://www.jhwiki.com/sitemap.xml
+Sitemap: https://wiki.iou.icu/sitemap.xml
