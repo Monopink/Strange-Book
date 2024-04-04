@@ -13,9 +13,8 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w32"> | [Google News](https://news.google.com/) | Google News |
 | <img loading="lazy" width="32px" alt="💔" src=" 	https://s.flipboard.com/webapp/images/favicon/favicon-32x32.png"> | [Flipboard](https://flipboard.com/) | Flipboard 需登录 |
 | <img loading="lazy" width="32px" alt="💔" src="https://chinafactcheck.com/wp-content/themes/youju/assets/favicon.ico"> | [有据](https://chinafactcheck.com/) | 核查中文世界的国际资讯 |
-| <img loading="lazy" width="32px" alt="💔" src="https://matters.news/_next/static/media/favicon-32x32.5e03b2c1.png"> | [Matters](https://matters.news/) | 分布式信息平台 |
-| <img loading="lazy" width="32px" alt="💔" src="https://www.feeeedin.com/favicon.ico"> | [FEEEED.in](https://www.feeeedin.com/) | 飞叮：设计资讯聚合 |
-| <img loading="lazy" width="32px" alt="💔" src="https://assets-1256259474.cos.ap-shanghai.myqcloud.com/static/img/icon-180.jpg"> | [后续](https://houxu.app) | 持续追踪中国新闻热点 |
+| <img loading="lazy" width="32px" alt="💔" src="https://matters.news/_next/static/media/favicon-32x32.5e03b2c1.png"> | [Matters](https://matters.news/) | 分布式内容平台 |
+| <img loading="lazy" width="32px" alt="💔" src="https://substackcdn.com/icons/substack/favicon-32x32.png"> | [Substack](https://substack.com/) | 新闻内容创作订阅平台 有中文自由创作者 |
 | <img loading="lazy" width="32px" alt="💔" src="https://tophub.today/favicon.ico"> | [今日热榜](https://tophub.today/) | 中国媒体、社交平台热点瀑布流聚合 |
 | <img loading="lazy" width="32px" alt="💔" src="https://momoyu.cc/favicon32.ico"> | [摸摸鱼热榜](https://momoyu.cc) | 中国媒体、社交平台热点聚合 |
 
