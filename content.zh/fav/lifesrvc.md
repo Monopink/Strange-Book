@@ -21,6 +21,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://gw.alicdn.com/tps/i2/TB1nmqyFFXXXXcQbFXXE5jB3XXX-114-114.png"> | [淘宝](https://main.m.taobao.com/) | 淘宝移动版 ✅PWA |
+| <img loading="lazy" width="32px" alt="💔" src="https://paipai.m.jd.com/favicon.ico"> | [京东备件库](https://paipai.m.jd.com/bjk/) | 京东售后、破损商品销售 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.tmall.com/favicon.ico"> | [造点新货](https://pages.tmall.com/wow/z/aliyu/zao-home/index) | 淘宝关联公司众筹平台 |
 | <img loading="lazy" width="32px" alt="💔" src="https://m.xiaomiyoupin.com/favicon.ico"> | [小米有品众筹](https://m.xiaomiyoupin.com/w/crowdfundV3?_rt=weex&pageid=9433&sign=e50311198e28d0dff1c5d38d97ad1aee&pdl=jianyu&noDL=1) | 小米有品众筹 |
 
