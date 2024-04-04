@@ -137,10 +137,16 @@ bookHidden: false
 
 ## 成人
 
+{{< details title="浏览此内容请确保已年满 18 周岁" open=false >}}
+
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://theporndude.com/favicon-32x32.png"> | [Porn Dude](https://theporndude.com/) | 色情网站集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://lululu.one/icon/www.lululu.one.png"> | [擼擼擼](https://lululu.one/) | 色情网站集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://xslist.org/favicon.ico"> | [Xsliste](https://xslist.org/) | 以图搜寻 |
+| <img loading="lazy" width="32px" alt="💔" src="https://viva-la-vita.org/apple-icon-180.png"> | [生如夏花](https://viva-la-vita.org/) | 探索美好而新奇的性体验 |
+
+{{< /details >}}
 
 
 {{< tables-style >}}

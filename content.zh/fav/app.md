@@ -64,6 +64,7 @@ headCustom: |
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://chromium.woolyss.com/favicon.ico"> | [Chromium](https://chromium.woolyss.com/) | 各种版本的 Chromium | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
+| <img loading="lazy" width="32px" alt="💔" src="https://thorium.rocks/favicon-32x32.png"> | [Thorium](https://thorium.rocks/) | 精简化更快速的 Chromium | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}}{{< lists-svg "a" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://photodemon.org/favicon.png"> | [PhotoDemon](https://photodemon.org/)<span class="oldline">｜</span>[GitHub](https://github.com/tannerhelland/PhotoDemon) | 开源图像编辑软件 | {{< lists-svg "w" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/) | Steam 挂卡工具 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://steampp.net/favicon.ico"> | [Watt Toolkit](https://steampp.net/) | 本地 Steam 客户端工具箱 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}}{{< lists-svg "a" >}} |
