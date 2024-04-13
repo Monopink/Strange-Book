@@ -20,7 +20,7 @@ headCustom: |
 <script type="text/javascript">
   AColorPicker.from('.picker')
     .on('change', (picker, color) => {
-      document.querySelector('.markdown').backgroundColor = color;
+      document.querySelector('.markdown').style.backgroundColor = color;
     })
     .on('coloradd', (picker, color) => {
       // color added: color
