@@ -12,7 +12,7 @@ headCustom: |
       box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(3, 1, 1, 0.08);
     }
   </style>
-  <script type="module" type="text/javascript" src="/js/acolorpicker.js"></script>
+  <script src="/js/acolorpicker.js"></script>
 ---
 
 <div class="picker" acp-color="#EFE9E7" acp-palette="PALETTE_MATERIAL_CHROME" acp-palette-editable></div>
