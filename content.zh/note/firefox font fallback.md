@@ -25,3 +25,5 @@ font-family: "Roboto Mono", monospace, system-ui, sans-serif;
 将原本的字体删掉换成不包含中文字形的字体（例如 Consolas），中文字体就正确地 Fallback 到了`system-ui`。
 
 猜测可能是因为不知道何种原因导致设置中的简体中文等宽字体设置未生效，中文字体 Fallback 到`font.name-list.monospace.zh-CN` 中指定 Simsun，而不是网站指定的 `system-ui`。
+
+>参考资料：[如何在浏览器中彻底干掉某些字体-bgm.tv](https://bgm.tv/group/topic/368926)
