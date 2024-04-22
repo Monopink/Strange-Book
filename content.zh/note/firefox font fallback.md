@@ -18,7 +18,7 @@ font-family: "Roboto Mono", monospace, system-ui, sans-serif;
 
 但是在 Windows 的 Firefox 浏览器，西文为 Roboto Mono，中文却是 SimSun（宋体）。
 
-即便将设置中 对应语言下的 Monospace 字体设置为一款不包含中文字形的字体，并且网页语言也被浏览器正确识别，也无济于事，等宽字体依然 Fallback 到了 Simsun。
+即便将设置中对应语言下的 Monospace 字体设置为一款不包含中文字形的字体，并且网页语言也被浏览器正确识别，也无济于事，等宽字体依然 Fallback 到了 Simsun。
 
 在 `about:config` 中搜索 `font.name-list.monospace`，可以看到 `zh-CN` 包括 Simsun 等字体，`zh-HK`、`zh-TW` 包括 MingLiU（细明体）等字体。
 
