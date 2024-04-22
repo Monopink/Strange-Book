@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: "iOS 在本机切换地图等系统 App 语言"
+title: "iOS 切换地图 App 语言"
 bookFlatSection: false
 bookCollapseSection: false
 bookHidden: false
