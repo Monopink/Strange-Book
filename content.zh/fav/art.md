@@ -69,11 +69,13 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src=" 	https://www.whatfontis.com/favicon.ico"> | [WhatFontIs](https://www.whatfontis.com/) | 图片搜索字体 以及找字体 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.dafont.com/favicon.ico"> | [DaFont](https://www.dafont.com/) | 字体寻找预览 |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.whatfontis.com/favicon.ico"> | [WhatFontIs](https://www.whatfontis.com/) | 图片搜索字体 以及找字体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 开源字体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://source.typekit.com/favicon.ico"> | [思源宋体](https://github.com/adobe-fonts/source-han-serif) | 开源字体 |
 | <img loading="lazy" width="32px" alt="💔" src="http://jikasei.me/favicon.ico"> | [自家製フォント工房](http://jikasei.me/)<span class="oldline">｜</span>[思源柔黑](http://jikasei.me/font/genjyuu/) | 自制字体工作坊｜基于思源黑体制作的圆体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [资源黑体](https://github.com/CyanoHao/Resource-Han-Rounded) | 基于思源黑体制作的圆体 |
+| <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [未来荧黑](https://github.com/welai/glow-sans)<span class="oldline">｜</span>[调参工具](https://welai.github.io/glow-sans/#) | 基于思源黑体多字重可调宽度的黑体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic) | 基于 Iosevka 与思源黑体 适用于中英混合的编程字体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://pages.github.com/favicon.ico"> | [LXGW](https://lxgw.github.io/)<span class="oldline">｜</span>[霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | 独立字体制作者｜开源楷体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.maoken.com/favicon.ico"> | [猫啃网](https://www.maoken.com/) | 免费商用字体集 |
