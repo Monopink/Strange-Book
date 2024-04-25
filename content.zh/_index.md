@@ -216,4 +216,4 @@ Blog<span class="oldline">｜</span>[十年之约 Feed](https://www.foreverblog.
 
 ---
 
-*本网站使用 Firefox 或 Safari 浏览将获得最佳体验*
+*本网站使用 [Firefox](/note/firefox-font-fallback/) 或 Safari 浏览将获得最佳体验*
