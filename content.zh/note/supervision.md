@@ -121,6 +121,34 @@ bookHidden: false
 
 ## 招投标
 
+{{< mermaid >}}
+gantt
+    title 招投标时间轴
+    dateFormat  DDD
+    axisFormat  %j
+    section Bidding
+    招标文件出售时间≥5日	:b1, 001, 5d
+    可澄清、修改招标文件	:b2, 001, 5d
+    保留≥15日 可顺延	:active, b3, 006, 15d
+    投标截止时间/开标时间	:crit, milestone, c1, 20, 2d
+    招标人收到评标报告	:milestone, d1, 21, 2d
+    公示≥5日	:d2, 22, 5d
+    确定中标人	:milestone, d3, 26, 2d
+    15日内报行政监督部门	:d4, 27, 10d
+    发出中标通知书	:milestone, d5, 36, 2d
+    30日内缴纳10%履约保证金	:d6, 37, 10d
+    签订合同	:milestone, d7, 46, 2d
+    5日内退还投标保证金及利息	:d8, 47, 5d
+    投标/投标保证金有效期90日	:active, d9, 21, 26d
+    section Tendering
+    编制投标文件时间≥20日	:a1, 001, 20d
+    可修改、撤回投标文件	:done, a2, 001, 20d
+    提出异议10日前	:a7, 001, 10d
+    截止日前撤回投标文件5日内退还保证金，不退利息	:a3, 020, 5d
+    投标截止时间/开标时间	:crit, milestone, a6, 20, 2d
+    截止日后撤回投标文件，可以不退保证金	:milestone, a4, 021, 2d
+{{< /mermaid >}}
+
 ```mermaid
 gantt
     title 招投标时间轴
@@ -147,6 +175,4 @@ gantt
     截止日前撤回投标文件5日内退还保证金，不退利息	:a3, 020, 5d
     投标截止时间/开标时间	:crit, milestone, a6, 20, 2d
     截止日后撤回投标文件，可以不退保证金	:milestone, a4, 021, 2d
-
 ```
-
