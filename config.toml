@@ -16,6 +16,11 @@ defaultContentLanguageInSubdir = false
 [markup]
 [markup.goldmark.renderer]
   unsafe = true
+[markup.goldmark.extensions.cjk]
+  eastAsianLineBreaks = true
+  eastAsianLineBreaksStyle = 'normal'
+  enable = true
+  escapedSpace = true
 
 [markup.tableOfContents]
   startLevel = 1
