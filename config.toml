@@ -70,7 +70,7 @@ defaultContentLanguageInSubdir = false
 #  weight = 20
   name = "开往"
   url = "https://www.travellings.cn/go.html"
-  weight = 20
+  weight = 95
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
