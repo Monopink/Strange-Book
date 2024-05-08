@@ -64,12 +64,19 @@ defaultContentLanguageInSubdir = false
 #  url = "https://github.com/alex-shpak/hugo-book"
 #  weight = 10
 
-[[menu.after]]
+[[menu.travellings]]
 #  name = "Hugo Themes"
 #  url = "https://themes.gohugo.io/hugo-book/"
 #  weight = 20
   name = "开往"
   url = "https://www.travellings.cn/go.html"
+  weight = 94
+[[menu.moeicp]]
+#  name = "Hugo Themes"
+#  url = "https://themes.gohugo.io/hugo-book/"
+#  weight = 20
+  name = "萌ICP备20246464号"
+  url = "https://icp.gov.moe/?keyword=20246464"
   weight = 95
 
 [params]
