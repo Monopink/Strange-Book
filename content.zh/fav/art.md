@@ -12,10 +12,11 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.behance.net/favicon.ico"> | [Behance](https://www.behance.net/) | 设计分享交流平台 平面、插画居多 |
 | <img loading="lazy" width="32px" alt="💔" src="https://cdn.dribbble.com/assets/favicon-b38525134603b9513174ec887944bde1a869eb6cd414f4d640ee48ab2a15a26b.ico"> | [Dribbble](https://dribbble.com/) | 设计分享交流平台 UI、动效居多 |
-| <img loading="lazy" width="32px" alt="💔" src="https://s.pinimg.com/webapp/favicon-54a5b2af.png	"> | [Pinterest](https://www.pinterest.com/) | Pinterest |
+| <img loading="lazy" width="32px" alt="💔" src="https://s.pinimg.com/webapp/favicon-54a5b2af.png"> | [Pinterest](https://www.pinterest.com/) | Pinterest |
+| <img loading="lazy" width="32px" alt="💔" src="https://spotify.design/favicons/favicon-32x32.png"> | [Spotify Design](https://spotify.design/) | Spotify 设计主页 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.fubiz.net/wp-content/themes/fubiz/assets/images/favicons/news-32x32.png"> | [Fubiz Media](http://www.fubiz.net/) | 设计分享交流平台 |
 | <img loading="lazy" width="32px" alt="💔" src="https://static.zcool.cn/z/site/favicon.ico"> | [站酷](https://www.zcool.com.cn/) | 站酷 |
-| <img loading="lazy" width="32px" alt="💔" src="https://isux.tencent.com/static/images/favicon.ico	"> | [Tencent ISUX Design](https://isux.tencent.com/) | 腾讯社交用户体验设计主页 |
+| <img loading="lazy" width="32px" alt="💔" src="https://isux.tencent.com/static/images/favicon.ico"> | [Tencent ISUX Design](https://isux.tencent.com/) | 腾讯社交用户体验设计主页 |
 | <img loading="lazy" width="32px" alt="💔" src="https://logopond.com/favicon.ico"> | [logopond](https://logopond.com/) | 图标设计集 |
 
 ## 奖项&活动
