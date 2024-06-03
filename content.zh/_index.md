@@ -120,7 +120,9 @@ afterBodyCustom: |
   }
 
   function alibaba() {
-    window.open("https://s.1688.com/selloffer/offer_search.htm?keywords=" + keywordBox.value);
+    let keyword = keywordBox.value;
+    let encodedKeyword = gbkEncode(keyword);
+    window.open("https://s.1688.com/selloffer/offer_search.htm?keywords=" + encodedKeyword);
   }
   function yiwugo() {
     window.open("https://www.yiwugo.com/search?q=" + keywordBox.value);
@@ -130,6 +132,16 @@ afterBodyCustom: |
   }
   function chinagoods() {
     window.open("https://www.chinagoods.com/selloffer/product/" + keywordBox.value);
+  }
+
+  function gbkEncode(str) {
+    const encoder = new TextEncoder('gbk');
+    let encoded = encoder.encode(str);
+    let encodedStr = '';
+    for (let i = 0; i < encoded.length; i++) {
+      encodedStr += '%' + encoded[i].toString(16).toUpperCase();
+    }
+    return encodedStr;
   }
 
   let flag = 0;
@@ -161,6 +173,7 @@ afterBodyCustom: |
   }
   </script>
   <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+  <script type="application/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/encoding-japanese/2.0.0/encoding.min.js"></script>
 ---
 
 > Hello！请随意浏览
