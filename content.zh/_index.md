@@ -113,16 +113,14 @@ afterBodyCustom: |
   }
 
   function googletrans() {
-    window.open("https://translate.google.com/?sl=auto&tl=zh-CN&op=translate&text=" + keywordBox.value);
+    window.open("https://translate.google.com/?sl=auto&tl=zh-CN&op=translate&text=" + );
   }
   function baiduyue() {
     window.open("https://fanyi.baidu.com/#zh/yue/" + keywordBox.value);
   }
 
   function alibaba() {
-    let keyword = keywordBox.value;
-    let encodedKeyword = gbkEncode(keyword);
-    window.open("https://s.1688.com/selloffer/offer_search.htm?keywords=" + encodedKeyword);
+    window.open("https://s.1688.com/selloffer/offer_search.htm?keywords=" + gbkEncode(keywordBox.value));
   }
   function yiwugo() {
     window.open("https://www.yiwugo.com/search?q=" + keywordBox.value);
