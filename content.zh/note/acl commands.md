@@ -17,7 +17,14 @@ $cred = Get-Credential
 ```
 
 2. 输入用户名及密码
-3. 新窗口输入
+
+3. 继续输入：
+
+```
+Start-Process powershell -ArgumentList '-Command Start-Process powershell' -Credential $cred -LoadUserProfile
+```
+
+4. 新窗口输入
 
 ```shell
 $env:__COMPAT_LAYER = 'RunAsInvoker'
