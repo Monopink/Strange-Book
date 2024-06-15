@@ -119,19 +119,6 @@ afterBodyCustom: |
     window.open("https://fanyi.baidu.com/#zh/yue/" + keywordBox.value);
   }
 
-  function alibaba() {
-    window.open("https://s.1688.com/selloffer/offer_search.htm?keywords=" + keywordBox.value);
-  }
-  function yiwugo() {
-    window.open("https://www.yiwugo.com/search?q=" + keywordBox.value);
-  }
-  function iyicaibao() {
-    window.open("https://www.iyicaibao.com/searchResult/product/" + keywordBox.value);
-  }
-  function chinagoods() {
-    window.open("https://www.chinagoods.com/selloffer/product/" + keywordBox.value);
-  }
-
   let flag = 0;
 
   function getIP(json) {
@@ -202,11 +189,6 @@ afterBodyCustom: |
 <span class="oldline seawrch-pipe">｜</span>
 <a href="#" class="searchbt" onclick="googletrans()"><span style="color: #4b8bf5;">●</span>Translate</a>
 <a href="#" class="searchbt" onclick="baiduyue()"><span style="color: #2932e1;">●</span>粤语翻译</a><br />
-<span class="oldline seawrch-pipe">｜</span>
-<a href="#" class="searchbt" onclick="alibaba()"><span style="color: #ff4000;">●</span>1688</a>
-<a href="#" class="searchbt" onclick="yiwugo()"><span style="color: #ed6d00;">●</span>义乌购</a>
-<a href="#" class="searchbt" onclick="iyicaibao()"><span style="color: #f0560f;">●</span>义采宝</a>
-<a href="#" class="searchbt" onclick="chinagoods()"><span style="color: #e02725;">●</span>义乌小商品城</a><br />
 
 ## 📞快速拨号
 
