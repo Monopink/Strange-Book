@@ -38,6 +38,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://www.allscrabblewords.com/img/favicon.ico"> | [All Scrabble Words](http://www.allscrabblewords.com/) | 按特征找单词 |
 | <img loading="lazy" width="32px" alt="💔" src="https://shenyandayi.com/favicon.ico"> | [深言达意](https://www.shenyandayi.com/) | 根据描述找中英文词 |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.shi-ci.com/favicon.ico"> | [中华诗词](https://www.shi-ci.com/) | 收录了从先秦开始六万余首诗词 |
+| <img loading="lazy" width="32px" alt="💔" src="https://baka-invade.org/assets/favicons/favicon-32x32.png"> | [笨他侵略字典](https://baka-invade.org/dict/search/?) | 侵略性词汇字典 |
 
 ## 在线工具
 
