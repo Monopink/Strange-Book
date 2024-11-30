@@ -212,7 +212,7 @@ Blog<span class="oldline">｜</span>[十年之约 Feed](https://www.foreverblog.
 
 云机器<span class="oldline">｜</span>[云手机](https://cloudphoneh5.buy.139.com/#/cloudphone)
 
-工具<span class="oldline">｜</span>[小鹤音形查询](http://react.xhup.club/search)<span class="oldline">｜</span>[Wormhole](https://wormhole.app/)<span class="oldline">｜</span>[Emailnator](https://www.emailnator.com/)<span class="oldline">｜</span>[VooV](https://voovmeeting.com/regist-email.html)
+工具<span class="oldline">｜</span>[小鹤音形查询](http://react.xhup.club/search)<span class="oldline">｜</span>[Wormhole](https://wormhole.app/)<span class="oldline">｜</span>[Emailnator](https://www.emailnator.com/)<span class="oldline">｜</span>[Voov](https://voovmeeting.com/regist-email.html)｜</span>[HW](https://id1.cloud.huawei.com/CAS/portal/userRegister/regbyphone.html)
 
 ---
 
