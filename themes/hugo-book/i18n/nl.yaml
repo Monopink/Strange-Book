@@ -1,14 +1,14 @@
 - id: Search
-  translation: Buscar
+  translation: Zoeken
 
 - id: Edit this page
-  translation: Editar esta página
+  translation: Bewerk deze pagina
 
 - id: Last modified by
-  translation: Última modificación por
+  translation: Laatst gewijzigd door
 
 - id: Expand
-  translation: Expandir
+  translation: Uitbreiden
 
 - id: bookSearchConfig
   translation: '{ cache: true }'

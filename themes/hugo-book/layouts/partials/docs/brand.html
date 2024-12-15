@@ -1,7 +1,7 @@
 <h2 class="book-brand">
   <a class="flex align-center" href="{{ cond (not .Site.Home.File) .Sites.Default.Home.RelPermalink .Site.Home.RelPermalink }}">
     {{- with .Site.Params.BookLogo -}}
-    <img src="{{ . | relURL }}" alt="Logo" />
+    <img src="{{ . | relURL }}" alt="Logo" class="book-icon" />
     {{- end -}}
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" aria-label="Logo">
       <path d="M102.74,39.62c3.11-4.62,7.63-6.93,13.56-6.93,2.15,0,4.09,.26,5.83,.79V5.87h-19.39V39.62Z"/>
