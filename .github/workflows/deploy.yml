@@ -20,7 +20,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-22.04	# 在什么环境运行任务
+    runs-on: ubuntu-20.04	# 在什么环境运行任务
     steps:
       - uses: actions/checkout@v3	# 引用actions/checkout这个action，与所在的github仓库同名
         with:
@@ -30,7 +30,7 @@ jobs:
       - name: setup book	# 步骤名
         uses: peaceiris/actions-hugo@v2	# hugo官方提供的action，用于在任务环境中获取hugo
         with:
-          hugo-version: 'latest'	# 获取最新版本的hugo
+          hugo-version: '0.139.4'	# 获取最新版本的hugo
           extended: true
 
       - name: Build
