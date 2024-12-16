@@ -399,10 +399,6 @@ body[dir="rtl"] .book-menu {
     max-width: none;
   }
 
-  .markdown {
-    margin-top: $padding-16 * 4;
-  }
-
   .book-menu {
     visibility: hidden;
     margin-inline-start: -$menu-width;
@@ -474,6 +470,6 @@ body[dir="rtl"] .book-menu {
 
 @media screen and (max-width: 1200px) {
   .book-toc {
-    margin-left: none;
+    margin-left: 0;
   }
 }
