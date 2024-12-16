@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}" dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
+<html lang="{{ default .Site.Language.Lang .Site.LanguageCode  }}" dir="{{ default "ltr" .Site.Language.LanguageDirection }}">
 <head>
   {{ partial "docs/html-head" . }}
   {{ partial "docs/inject/head" . }}
 </head>
-<body dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
+<body dir="{{ default "ltr" .Site.Language.LanguageDirection }}">
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
@@ -14,11 +14,7 @@
       </div>
     </aside>
 
-    {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
-      <div class="book-page-with-toc">
-    {{ else }}
-      <div class="book-page-without-toc">
-    {{ end }}
+    <div class="book-page">
       <header class="book-header">
         {{ template "header" . }} <!-- Mobile layout header -->
       </header>
@@ -30,8 +26,9 @@
       <footer class="book-footer">
         {{ template "footer" . }} <!-- Footer under page content -->
         {{ partial "docs/inject/footer" . }}
-        {{ template "comments" . }} <!-- Comments block -->
       </footer>
+
+      {{ template "comments" . }} <!-- Comments block -->
 
       <label for="menu-control" class="hidden book-menu-overlay"></label>
     </div>
@@ -48,7 +45,7 @@
 
   {{ partial "docs/inject/body" . }}
 </body>
-  {{ partial "docs/html-after-body" . }}
+{{ partial "docs/html-after-body" . }}
 </html>
 
 {{ define "menu" }}
