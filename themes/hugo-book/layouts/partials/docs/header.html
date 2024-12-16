@@ -1,6 +1,8 @@
 <div class="flex align-center justify-between">
   <label for="menu-control">
-    <img src="{{ "svg/menu.svg" | relURL }}" class="book-icon" alt="Menu" />
+  {{ with . }}
+    {{ partial "docs/logo.svg.html" (dict "alt" "Menu") }}
+  {{ end }}
   </label>
 
   <h3>{{ partial "docs/title" . }}</h3>
