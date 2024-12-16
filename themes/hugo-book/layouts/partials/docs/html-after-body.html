@@ -8,9 +8,6 @@
 
 {{ partial "docsearch" . }}
 
-<!-- Auto hide TOC on mobile -->
-<script src="{{ "js/toc-autohide.js" | relURL }}"></script>
-
 <!-- Add custom after body content from articles -->
 {{ if .Params.afterBodyCustom }}
   {{ .Params.afterBodyCustom | safeHTML }}
