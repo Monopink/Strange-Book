@@ -50,6 +50,16 @@ defaultContentLanguageInSubdir = false
   title = "Jianghu Wiki"
   weight = 1
 
+  [[languages.zh.params.menu_footer.links]]
+    name = "开往..."
+    url = "https://www.travellings.cn/go.html"
+    icon = ""
+
+  [[languages.zh.params.menu_footer.links]]
+    name = "萌 ICP 备 20246464 号"
+    url = "https://icp.gov.moe/?keyword=20246464"
+    icon = ""
+
 [languages.en]
   languageName = "English"
   languageCode = "en"
@@ -68,16 +78,6 @@ defaultContentLanguageInSubdir = false
 #  name = "Hugo Themes"
 #  url = "https://themes.gohugo.io/hugo-book/"
 #  weight = 20
-
-[[menu.after]]
- name = "开往..."
- url = "https://www.travellings.cn/go.html"
- weight = 91
-
-[[menu.after]]
- name = "萌 ICP 备 20246464 号"
- url = "https://icp.gov.moe/?keyword=20246464"
- weight = 95
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
