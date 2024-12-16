@@ -1,0 +1,12 @@
+{{ with .Site.Params.menu_footer }}
+<div class="book-menu-footer">
+  <div class="footer-links">
+    {{ range .links }}
+    <a href="{{ .url }}" target="_blank" rel="noopener">
+      {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+      {{ .name }}
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
