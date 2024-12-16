@@ -412,6 +412,13 @@ body[dir="rtl"] .book-menu {
 
   .book-toc {
     display: none;
+    margin-inline-end: -$toc-width;
+  }
+
+  .book-toc-overlay {
+    visibility: hidden;
+    margin-inline-end: -$toc-width;
+    z-index: 99;
   }
 
   .book-header {
@@ -437,6 +444,30 @@ body[dir="rtl"] .book-menu {
     }
 
     .book-menu-overlay {
+      display: block;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+    }
+  }
+
+  #toc-control:checked ~ main {
+    .book-toc {
+      visibility: initial;
+    }
+  
+    .book-toc .book-toc-content {
+      transform: translateX(-$toc-width); // Slide in from the right
+      box-shadow: 0 0 $padding-8 rgba(0, 0, 0, 0.1);
+    }
+  
+    .book-page {
+      opacity: 0.25;
+    }
+  
+    .book-toc-overlay {
       display: block;
       position: absolute;
       top: 0;
