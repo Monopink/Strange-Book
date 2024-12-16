@@ -210,10 +210,15 @@ body[dir="rtl"] .book-menu {
 .book-post {
   margin-bottom: $padding-16 * 2;
 
-  .book-post-date img {
-    height: 1em;
-    width: 1em;
-    margin-inline-end: .5em;
+  .book-post-date {
+    color: var(--gray-60);
+
+    img {
+      height: 1em;
+      width: 1em;
+      margin-inline-end: .5em;
+      filter: var(--icon-filter-60);
+    }
   }
 
   .book-post-content > :first-child {
