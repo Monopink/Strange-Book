@@ -455,15 +455,7 @@ body[dir="rtl"] .book-menu {
     @include outline;
   }
 
-  #toc-control:checked ~ main {
-    .book-header aside {
-      display: block;
-    }
 
-    .book-toc-overlay {
-
-    }
-  }
 
   // for RTL support
   body[dir="rtl"] #menu-control:checked ~ main {
