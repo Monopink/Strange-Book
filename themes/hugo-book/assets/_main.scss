@@ -249,7 +249,8 @@ body[dir="rtl"] .book-menu {
     margin: 0 $padding-16;
   }
 
-  img.book-icon {
+  img.book-icon,
+  svg.book-icon {
     height: 1.5em;
     width: 1.5em;
     filter: var(--icon-filter-30);
