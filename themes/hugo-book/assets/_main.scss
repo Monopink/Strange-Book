@@ -242,7 +242,6 @@ body[dir="rtl"] .book-menu {
   width: 100%;
   z-index: 2;
   padding: $padding-4 * 3 $padding-16;
-  margin: -$padding-16;
   backdrop-filter: blur(25px);
   -webkit-backdrop-filter: blur(25px);
   background-color: var(--body-header-background);
@@ -402,7 +401,7 @@ body[dir="rtl"] .book-menu {
     display: inline;
   }
 
-  .book-page-with-toc {
+  .book-page {
     max-width: none;
   }
 
@@ -459,10 +458,6 @@ body[dir="rtl"] .book-menu {
   #toc-control:checked ~ main {
     .book-header aside {
       display: block;
-    }
-
-    .book-page {
-      opacity: 0.25;
     }
 
     .book-toc-overlay {
