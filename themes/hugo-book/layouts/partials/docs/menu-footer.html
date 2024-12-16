@@ -1,12 +1,14 @@
-{{ with .Site.Params.menu_footer }}
+{{ with .Site.Params.menuFooter }}
 <div class="book-menu-footer">
-  <div class="footer-links">
+  <ul class="footer-links">
     {{ range .links }}
-    <a href="{{ .url }}" target="_blank" rel="noopener">
-      {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
-      {{ .name }}
-    </a>
+    <li>
+      <a href="{{ .url }}" target="_blank" rel="noopener">
+        {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+        {{ .name }}
+      </a>
+    </li>
     {{ end }}
-  </div>
+  </ul>
 </div>
 {{ end }}
