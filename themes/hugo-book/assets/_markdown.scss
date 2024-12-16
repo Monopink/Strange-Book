@@ -252,3 +252,9 @@
     margin-bottom: 0;
   }
 }
+
+@media screen and (max-width: $mobile-breakpoint) {
+  .markdown {
+    margin-top: $padding-16 * 4;
+  }
+}
