@@ -161,6 +161,10 @@ a .book-icon {
   color: var(--gray-30);
 }
 
+.book-content-single {
+  margin-bottom: 2em;
+}
+
 // for RTL support
 body[dir="rtl"] .book-menu {
   input.toggle + label::after {
