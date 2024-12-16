@@ -238,15 +238,24 @@ body[dir="rtl"] .book-menu {
   display: none;
   margin-bottom: $padding-16;
   color: var(--gray-30);
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  display: block;
+  padding: 0 1rem;
+  margin: -1rem;
+  backdrop-filter: blur(10px);
+  background-color: var(--body-header-background);
 
   label {
     line-height: 0;
   }
 
-  h3 {
+  p {
     overflow: hidden;
     text-overflow: ellipsis;
     margin: 0 $padding-16;
+    font-weight: bold;
   }
 
   img.book-icon,
@@ -387,10 +396,14 @@ body[dir="rtl"] .book-menu {
     display: inline;
   }
 
+  .book-page-with-toc {
+    max-width: none;
+  }
+
   .book-menu {
     visibility: hidden;
     margin-inline-start: -$menu-width;
-    z-index: 1;
+    z-index: 99;
   }
 
   .book-toc {
