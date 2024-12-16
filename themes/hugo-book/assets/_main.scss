@@ -454,6 +454,15 @@ body[dir="rtl"] .book-menu {
     }
   }
 
+  #menu-control:checked ~ #toc-control:checked {
+    &, & + * {
+      pointer-events: none;
+    }
+    &:before {
+      opacity: 0;
+    }
+  }
+
   #toc-control:focus ~ main label[for="toc-control"] {
     @include outline;
   }
@@ -470,6 +479,15 @@ body[dir="rtl"] .book-menu {
       bottom: 0;
       left: 0;
       right: 0;
+    }
+  }
+
+  #toc-control:checked ~ #menu-control:checked {
+    &, & + * {
+      pointer-events: none;
+    }
+    &:before {
+      opacity: 0;
     }
   }
 
