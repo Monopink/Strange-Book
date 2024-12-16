@@ -244,7 +244,8 @@ body[dir="rtl"] .book-menu {
   padding: $padding-4 * 3 $padding-16;
   margin: -1rem;
   backdrop-filter: blur(25px);
-  background: var(--body-header-background);
+  -webkit-backdrop-filter: blur(25px);
+  background-color: var(--body-header-background);
 
   label {
     line-height: 0;
