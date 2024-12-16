@@ -69,6 +69,16 @@ defaultContentLanguageInSubdir = false
 #  url = "https://themes.gohugo.io/hugo-book/"
 #  weight = 20
 
+[[menu.after]]
+ name = "开往..."
+ url = "https://www.travellings.cn/go.html"
+ weight = 91
+
+[[menu.after]]
+ name = "萌 ICP 备 20246464 号"
+ url = "https://icp.gov.moe/?keyword=20246464"
+ weight = 95
+
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme "auto" switches between dark and light modes based on browser/os preferences
