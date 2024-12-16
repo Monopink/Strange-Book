@@ -21,10 +21,6 @@ headCustom: |
       color: inherit !important;
     }
 
-    .markdown blockquote {
-      background: none;
-    }
-
     .seawrch-pipe {
       padding-right: 0.5rem;
       color: var(--gray-60);
