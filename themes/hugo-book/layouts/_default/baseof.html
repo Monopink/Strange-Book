@@ -18,7 +18,7 @@
         {{ template "header" . }} <!-- Mobile layout header -->
       </header>
       
-      <div class="book-page">
+      <div class="book-page-with-toc">
       {{ partial "docs/inject/content-before" . }}
       {{ template "main" . }} <!-- Page Content -->
       {{ partial "docs/inject/content-after" . }}
@@ -45,7 +45,7 @@
 
   {{ partial "docs/inject/body" . }}
 </body>
-{{ partial "docs/html-after-body" . }}
+  {{ partial "docs/html-after-body" . }}
 </html>
 
 {{ define "menu" }}
