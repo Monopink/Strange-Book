@@ -243,7 +243,7 @@ body[dir="rtl"] .book-menu {
   z-index: 2;
   padding: $padding-4 * 3 $padding-16;
   margin: -1rem;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(25px);
   background-color: var(--body-header-background);
 
   label {
