@@ -50,12 +50,12 @@ defaultContentLanguageInSubdir = false
   title = "Jianghu Wiki"
   weight = 1
 
-  [[languages.zh.params.menuFooter.links]]
+  [[languages.zh.params.menu.footer]]
     name = "开往..."
     url = "https://www.travellings.cn/go.html"
     icon = ""
 
-  [[languages.zh.params.menuFooter.links]]
+  [[languages.zh.params.menu.footer]]
     name = "萌 ICP 备 20246464 号"
     url = "https://icp.gov.moe/?keyword=20246464"
     icon = ""
