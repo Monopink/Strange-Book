@@ -10,4 +10,6 @@ Helloooo Woooorld！
 
 博客开起来了，我第二次有了博客。
 
+<!--more-->
+
 ![图片 Photographs](https://river.jhw.li/bicture/hello-world.jpg)

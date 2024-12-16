@@ -3,7 +3,7 @@ menu:
   after:
     name: blog
     weight: 5
-title: Blog
+title: Microblog
 bookHidden: true
 headCustom: |
   <style type="text/css">

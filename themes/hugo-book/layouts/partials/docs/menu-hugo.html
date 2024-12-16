@@ -7,7 +7,7 @@
 {{ end }}
 
 {{ define "book-menu-hugo" }}
-<ul>
+<ul class="book-content-single">
   {{ range . }}
   <li>
     <a href="{{ .URL }}" {{ with .Params.class }}class="{{ . }}"{{ end }} {{ if not .Page }}target="_blank" rel="noopener"{{ end }}>
