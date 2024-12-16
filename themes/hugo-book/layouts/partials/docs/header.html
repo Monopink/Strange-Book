@@ -1,8 +1,6 @@
 <div class="flex align-center justify-between">
   <label for="menu-control">
-  {{ with . }}
-    {{ partial "docs/logo.svg.html" (dict "alt" "Menu") }}
-  {{ end }}
+  {{ partial "docs/logo.svg.html" "Menu" }}
   </label>
 
   <p>{{ partial "docs/title" . }}</p>
