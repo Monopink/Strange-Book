@@ -390,6 +390,12 @@ body[dir="rtl"] .book-menu {
   will-change: transform, margin, opacity;
 }
 
+.book-header aside {
+  max-height: 85vh;
+  overflow-y: auto;
+  margin-top: $padding-4 * 3;
+}
+
 @media screen and (max-width: $mobile-breakpoint) {
   #menu-control,
   #toc-control {
