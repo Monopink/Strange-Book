@@ -24,10 +24,6 @@
 {{ partial "docs/menu-footer" . }}
 </nav>
 
-{{/* 
+
 <!-- Restore menu position as soon as possible to avoid flickering -->
-{{ $script := resources.Get "menu-reset.js" | resources.Minify }}
-{{ with $script.Content }}
-  <script>{{ . | safeJS }}</script>
-{{ end }}
-*/}}
+<!-- "menu-reset.js" is not needed here -->
