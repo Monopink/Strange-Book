@@ -416,7 +416,9 @@ body[dir="rtl"] .book-menu {
   }
 
   .book-toc-overlay {
-    display: none;
+    visibility: hidden;
+    margin-inline-end: -$toc-width;
+    z-index: 99;
   }
 
   .book-header {
@@ -453,7 +455,7 @@ body[dir="rtl"] .book-menu {
 
   #toc-control:checked ~ main {
     .book-toc {
-      display: block;
+      visibility: initial;
     }
   
     .book-toc .book-toc-content {
