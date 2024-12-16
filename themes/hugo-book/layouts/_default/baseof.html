@@ -21,6 +21,12 @@
     {{ end }}
       <header class="book-header">
         {{ template "header" . }} <!-- Mobile layout header -->
+        {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
+        <aside class="hidden clearfix">
+          {{ template "toc" . }}
+        </aside>
+        <label for="toc-control" class="book-toc-overlay"></label>
+        {{ end }}
       </header>
 
       {{ partial "docs/inject/content-before" . }}
