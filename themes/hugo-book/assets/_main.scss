@@ -241,7 +241,7 @@ body[dir="rtl"] .book-menu {
   position: fixed;
   width: 100%;
   z-index: 2;
-  padding: 0.75rem 1rem;
+  padding: $padding-4 * 3 $padding-16;
   margin: -1rem;
   backdrop-filter: blur(10px);
   background-color: var(--body-header-background);
@@ -395,6 +395,14 @@ body[dir="rtl"] .book-menu {
     display: inline;
   }
 
+  .book-page-with-toc {
+    max-width: none;
+  }
+
+  .markdown {
+    margin-top: $padding-16 * 4;
+  }
+
   .book-menu {
     visibility: hidden;
     margin-inline-start: -$menu-width;
@@ -464,8 +472,8 @@ body[dir="rtl"] .book-menu {
   }
 }
 
-@media screen and (max-width: $container-pagemax-width) {
-  .book-page-with-toc {
-    max-width: none;
+@media screen and (max-width: 1200px) {
+  .book-toc {
+    margin-left: none;
   }
 }
