@@ -22,7 +22,7 @@
       {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
         <div class="book-page">
       {{ else }}
-        <div class="book-page-without-toc">
+        <div class="book-page without-toc">
       {{ end }}
       {{ partial "docs/inject/content-before" . }}
       {{ template "main" . }} <!-- Page Content -->
