@@ -209,8 +209,8 @@ body[dir="rtl"] .book-menu {
   padding: $padding-16;
 }
 
-.book-page .without-toc {
-  max-width: $body-max-width-large !important;
+.book-page.without-toc {
+  max-width: $body-max-width-large;
 }
 
 .book-post {
