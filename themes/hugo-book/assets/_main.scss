@@ -418,6 +418,20 @@ body[dir="rtl"] .book-menu {
     z-index: 99;
   }
 
+  .toc-labels {
+    position: relative;
+    height: 1.5em;
+    width: 1.5em;
+  }
+
+  .close-label {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+  }
+
   .book-toc {
     display: none;
   }
@@ -452,14 +466,13 @@ body[dir="rtl"] .book-menu {
       left: 0;
       right: 0;
     }
-  }
 
-  #menu-control:checked ~ #toc-control:checked {
-    &, & + * {
-      pointer-events: none;
+    .toc-label {
+      display: none;
     }
-    &:before {
-      opacity: 0;
+
+    .close-label {
+      display: block;
     }
   }
 
@@ -480,14 +493,13 @@ body[dir="rtl"] .book-menu {
       left: 0;
       right: 0;
     }
-  }
 
-  #toc-control:checked ~ #menu-control:checked {
-    &, & + * {
-      pointer-events: none;
+    .toc-label {
+      display: none;
     }
-    &:before {
-      opacity: 0;
+
+    .close-label {
+      display: block;
     }
   }
 
@@ -500,14 +512,6 @@ body[dir="rtl"] .book-menu {
 }
 
 // Extra space for big screens
-@media screen and (min-width: $container-max-width) {
-  .book-page,
-  .book-menu .book-menu-content,
-  .book-toc .book-toc-content {
-    padding: $padding-16 * 2 $padding-16;
-  }
-}
-
 @media screen and (max-width: 1200px) {
   .book-toc {
     margin-left: 0;
