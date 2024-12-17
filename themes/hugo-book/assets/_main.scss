@@ -210,7 +210,7 @@ body[dir="rtl"] .book-menu {
 }
 
 .book-page .without-toc {
-  max-width: $body-max-width-large;
+  max-width: $body-max-width-large !important;
 }
 
 .book-post {
