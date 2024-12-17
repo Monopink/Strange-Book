@@ -4,10 +4,15 @@
   </label>
 
   <p>{{ partial "docs/title" . }}</p>
-
-  <label for="toc-control">
-    {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
-    <img src="{{ "svg/toc.svg" | relURL }}" class="book-icon" alt="Table of Contents" />
-    {{ end }}
-  </label>
+  
+  <div class="toc-labels">
+    <label for="toc-control" class="toc-label">
+      {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
+      <img src="{{ "svg/toc.svg" | relURL }}" class="book-icon" alt="Table of Contents" />
+      {{ end }}
+    </label>
+    <label for="close-control" class="close-label">
+      <img src="{{ "svg/cross.svg" | relURL }}" class="book-icon" alt="Close Menu" />
+    </label>
+  </div>
 </div>

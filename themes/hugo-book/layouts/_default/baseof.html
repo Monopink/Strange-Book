@@ -6,7 +6,8 @@
 </head>
 <body dir="{{ default "ltr" .Site.Language.LanguageDirection }}">
   <input type="radio" class="hidden toggle" id="menu-control" name="jh-control"/>
-  <input type="radio" class="hidden toggle" id="toc-control" name="jh-control" />
+  <input type="radio" class="hidden toggle" id="toc-control" name="jh-control"/>
+  <input type="radio" class="hidden toggle" id="close-control" name="jh-control"/>
   <main class="container flex">
     <aside class="book-menu">
       <div class="book-menu-content">
@@ -18,7 +19,11 @@
         {{ template "header" . }} <!-- Mobile layout header -->
       </header>
       
-      <div class="book-page">
+      {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
+        <div class="book-pag">
+      {{ else }}
+        <div class="book-page-without-toc">
+      {{ end }}
       {{ partial "docs/inject/content-before" . }}
       {{ template "main" . }} <!-- Page Content -->
       {{ partial "docs/inject/content-after" . }}
@@ -30,8 +35,8 @@
 
       {{ template "comments" . }} <!-- Comments block -->
 
-      <label for="menu-control" class="hidden book-menu-overlay"></label>
-      <label for="toc-control" class="hidden book-toc-overlay"></label>
+      <label for="close-control" class="hidden book-menu-overlay"></label>
+      <label for="close-control" class="hidden book-toc-overlay"></label>
     </div>
 
     {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
