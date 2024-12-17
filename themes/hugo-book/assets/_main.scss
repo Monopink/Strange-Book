@@ -452,7 +452,8 @@ body[dir="rtl"] .book-menu {
       box-shadow: 0 0 $padding-8 rgba(0, 0, 0, 0.1);
     }
 
-    .book-page {
+    .book-page,
+    .header-title {
       opacity: 0.25;
     }
 
