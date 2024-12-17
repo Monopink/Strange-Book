@@ -511,6 +511,14 @@ body[dir="rtl"] .book-menu {
 }
 
 // Extra space for big screens
+@media screen and (min-width: $mobile-breakpoint) {
+  .book-page,
+  .book-menu .book-menu-content,
+  .book-toc .book-toc-content {
+    padding: $padding-16 * 2 $padding-16;
+  }
+}
+
 @media screen and (max-width: 1200px) {
   .book-toc {
     margin-left: 0;
