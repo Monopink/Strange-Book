@@ -11,6 +11,11 @@ enableGitInfo = true
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 
+# Arrange the date in the order of the array
+[frontmatter]
+  lastmod = ['lastmod', 'modified', ':git', 'date', 'publishdate', 'pubdate', 'published']
+
+
 # Needed for mermaid/katex shortcodes
 [markup]
 [markup.goldmark.renderer]
