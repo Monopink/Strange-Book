@@ -126,6 +126,12 @@ a .book-icon {
     > label {
       font-weight: bolder;
     }
+
+  a.active {
+    color: var(--body-font-color);
+    background-color: var(--gray-97);
+    padding: $padding-8;
+  }
   }
 
   a,
