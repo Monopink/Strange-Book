@@ -156,41 +156,41 @@ afterBodyCustom: |
   <input type="text" id="keyword" name="keyword" placeholder="Jianghu 搜索" aria-label="搜索" onclick="selectText(this)"/>
   <div class="jh-search-list">
     <p>
-      <a href="#" onclick="google()" style="border-color: #4285f4;">Google NCR</a>
-      <a href="#" onclick="duckgo()" style="border-color: #de5833;">DuckDuckGo</a>
-      <a href="#" onclick="bing()" style="border-color: #0060df;">Bing</a>
-      <a href="#" onclick="yandex()" style="border-color: #fc3f1d;">Yandex</a>
-      <a href="#" onclick="baidu()" style="border-color: #4e6ef2;">百度</a>
+      <a href="#" onclick="google()" style="color: #4285f4;">Google NCR</a>
+      <a href="#" onclick="duckgo()" style="color: #de5833;">DuckDuckGo</a>
+      <a href="#" onclick="bing()" style="color: #0060df;">Bing</a>
+      <a href="#" onclick="yandex()" style="color: #fc3f1d;">Yandex</a>
+      <a href="#" onclick="baidu()" style="color: #4e6ef2;">百度</a>
     </p>
     <p>
-      <a href="#" onclick="github()" style="border-color: #6e5494;">GitHub</a>
-      <a href="#" onclick="pinterest()" style="border-color: #e60023;">Pinterest</a>
-      <a href="#" onclick="neodb()" style="border-color: #c0d9b4;">NeoDB</a>
-      <a href="#" onclick="qimai()" style="border-color: #02b389;">七麦</a>
-      <a href="#" onclick="steamdb()" style="border-color: #0366d6;">SteamDB</a>
-      <a href="#" onclick="steam()" style="border-color: #1a9fff;">Steam</a>
-      <a href="#" onclick="giphy()" style="border-color: #9933ff;">GIPHY</a>
+      <a href="#" onclick="github()" style="color: #9370c6;">GitHub</a>
+      <a href="#" onclick="pinterest()" style="color: #e60023;">Pinterest</a>
+      <a href="#" onclick="neodb()" style="color: #c0d9b4;">NeoDB</a>
+      <a href="#" onclick="qimai()" style="color: #02b389;">七麦</a>
+      <a href="#" onclick="steamdb()" style="color: #0366d6;">SteamDB</a>
+      <a href="#" onclick="steam()" style="color: #1a9fff;">Steam</a>
+      <a href="#" onclick="giphy()" style="color: #9933ff;">GIPHY</a>
     </p>
     <p>
-      <a href="#" onclick="wayback()" style="border-color: #ab2e33;">IAWM</a>
-      <a href="#" onclick="webcheck()" style="border-color: #B6FF25;">Web Check</a>
-      <a href="#" onclick="domainr()" style="border-color: #0e5f96;">Domainr</a>
-      <a href="#" onclick="whois()" style="border-color: #91d117;">Whois</a>
-      <a href="#" onclick="cnicp()" style="border-color: #fdd000;">CNICP</a>
-      <a href="#" onclick="ipshu()" style="border-color: #50b8fe;">IPSHU</a>
-      <a href="#" onclick="bczs()" style="border-color: #0088cc;">bczs.net</a>
-      <a href="#" onclick="baiduip()" style="border-color: #2469f3;">百度IP</a>
+      <a href="#" onclick="wayback()" style="color: #d5383f;">IAWM</a>
+      <a href="#" onclick="webcheck()" style="color: #94D512;">Web Check</a>
+      <a href="#" onclick="domainr()" style="color: #117ec8;">Domainr</a>
+      <a href="#" onclick="whois()" style="color: #91d117;">Whois</a>
+      <a href="#" onclick="cnicp()" style="color: #e6bd04;">CNICP</a>
+      <a href="#" onclick="ipshu()" style="color: #50b8fe;">IPSHU</a>
+      <a href="#" onclick="bczs()" style="color: #0088cc;">bczs.net</a>
+      <a href="#" onclick="baiduip()" style="color: #2469f3;">百度IP</a>
     </p>
     <p>
-      <a href="#" onclick="v2ex()" style="border-color: #aab0c6;">V2EX</a>
-      <a href="#" onclick="taobaopc()" style="border-color: #ff4400;">淘宝PC</a>
-      <a href="#" onclick="zhihu()" style="border-color: #056de8;">知乎</a>
-      <a href="#" onclick="so360()" style="border-color: #0fb264;">360搜索</a>
-      <a href="#" onclick="sougou()" style="border-color: #fd6853;">搜狗</a>
+      <a href="#" onclick="v2ex()" style="color: #aab0c6;">V2EX</a>
+      <a href="#" onclick="taobaopc()" style="color: #ff4400;">淘宝PC</a>
+      <a href="#" onclick="zhihu()" style="color: #056de8;">知乎</a>
+      <a href="#" onclick="so360()" style="color: #0fb264;">360搜索</a>
+      <a href="#" onclick="sougou()" style="color: #fd6853;">搜狗</a>
     </p>
     <p>
-      <a href="#" onclick="googletrans()" style="border-color: #4b8bf5;">Translate</a>
-      <a href="#" onclick="baiduyue()" style="border-color: #2932e1;">粤语翻译</a>
+      <a href="#" onclick="googletrans()" style="color: #4b8bf5;">Translate</a>
+      <a href="#" onclick="baiduyue()" style="color: #5a62ff;">粤语翻译</a>
     </p>
   </div>
 </div>
