@@ -10,20 +10,22 @@ headCustom: |
       max-width: 100%;
       padding: 0.5rem; 
     }
-
-    .searchbt {
-      padding-right: 0.5rem;
-    }
-    .searchbt:link {
-      color: inherit !important;
-    }
-    .searchbt:visited {
-      color: inherit !important;
-    }
-
-    .seawrch-pipe {
-      padding-right: 0.5rem;
-      color: var(--gray-60);
+    .jh-search-list {
+      p {
+        line-height: 2.4;
+        margin: 1rem 0;
+        a {
+          border: 1px solid var(--gray-80);
+          padding: .5rem 1rem;
+          font-size: .875rem;
+        }
+      }
+      p:link {
+        color: inherit !important;
+      }
+      p:visited {
+        color: inherit !important;
+      }
     }
   </style>
 afterBodyCustom: |
@@ -150,41 +152,48 @@ afterBodyCustom: |
 
 ## 🔍搜索
 
-<div class="book-search" style="margin-bottom: 0.5rem;">
+<div class="book-search jh-search" style="margin-bottom: 0.5rem;">
   <input type="text" id="keyword" name="keyword" placeholder="Jianghu 搜索" aria-label="搜索" onclick="selectText(this)"/>
+  <div class="jh-search-list">
+    <p>
+      <a href="#" onclick="google()" style="border-color: #4285f4;">Google NCR</a>
+      <a href="#" onclick="duckgo()" style="border-color: #de5833;">DuckDuckGo</a>
+      <a href="#" onclick="bing()" style="border-color: #0060df;">Bing</a>
+      <a href="#" onclick="yandex()" style="border-color: #fc3f1d;">Yandex</a>
+      <a href="#" onclick="baidu()" style="border-color: #4e6ef2;">百度</a>
+    </p>
+    <p>
+      <a href="#" onclick="github()" style="border-color: #6e5494;">GitHub</a>
+      <a href="#" onclick="pinterest()" style="border-color: #e60023;">Pinterest</a>
+      <a href="#" onclick="neodb()" style="border-color: #c0d9b4;">NeoDB</a>
+      <a href="#" onclick="qimai()" style="border-color: #02b389;">七麦</a>
+      <a href="#" onclick="steamdb()" style="border-color: #0366d6;">SteamDB</a>
+      <a href="#" onclick="steam()" style="border-color: #1a9fff;">Steam</a>
+      <a href="#" onclick="giphy()" style="border-color: #9933ff;">GIPHY</a>
+    </p>
+    <p>
+      <a href="#" onclick="wayback()" style="border-color: #ab2e33;">IAWM</a>
+      <a href="#" onclick="webcheck()" style="border-color: #B6FF25;">Web Check</a>
+      <a href="#" onclick="domainr()" style="border-color: #0e5f96;">Domainr</a>
+      <a href="#" onclick="whois()" style="border-color: #91d117;">Whois</a>
+      <a href="#" onclick="cnicp()" style="border-color: #fdd000;">CNICP</a>
+      <a href="#" onclick="ipshu()" style="border-color: #50b8fe;">IPSHU</a>
+      <a href="#" onclick="bczs()" style="border-color: #0088cc;">bczs.net</a>
+      <a href="#" onclick="baiduip()" style="border-color: #2469f3;">百度IP</a>
+    </p>
+    <p>
+      <a href="#" onclick="v2ex()" style="border-color: #aab0c6;">V2EX</a>
+      <a href="#" onclick="taobaopc()" style="border-color: #ff4400;">淘宝PC</a>
+      <a href="#" onclick="zhihu()" style="border-color: #056de8;">知乎</a>
+      <a href="#" onclick="so360()" style="border-color: #0fb264;">360搜索</a>
+      <a href="#" onclick="sougou()" style="border-color: #fd6853;">搜狗</a>
+    </p>
+    <p>
+      <a href="#" onclick="googletrans()" style="border-color: #4b8bf5;">Translate</a>
+      <a href="#" onclick="baiduyue()" style="border-color: #2932e1;">粤语翻译</a>
+    </p>
+  </div>
 </div>
-<span class="oldline seawrch-pipe">｜</span>
-<a href="#" class="searchbt" onclick="google()"><span style="color: #4285f4;">●</span>Google NCR</a>
-<a href="#" class="searchbt" onclick="duckgo()"><span style="color: #de5833;">●</span>DuckDuckGo</a>
-<a href="#" class="searchbt" onclick="bing()"><span style="color: #0060df;">●</span>Bing</a>
-<a href="#" class="searchbt" onclick="yandex()"><span style="color: #fc3f1d;">●</span>Yandex</a>
-<a href="#" class="searchbt" onclick="baidu()"><span style="color: #4e6ef2;">●</span>百度</a><br />
-<span class="oldline seawrch-pipe">｜</span>
-<a href="#" class="searchbt" onclick="github()"><span style="color: #6e5494;">●</span>GitHub</a>
-<a href="#" class="searchbt" onclick="pinterest()"><span style="color: #e60023;">●</span>Pinterest</a>
-<a href="#" class="searchbt" onclick="neodb()"><span style="color: #c0d9b4;">●</span>NeoDB</a>
-<a href="#" class="searchbt" onclick="qimai()"><span style="color: #02b389;">●</span>七麦</a>
-<a href="#" class="searchbt" onclick="steamdb()"><span style="color: #0366d6;">●</span>SteamDB</a>
-<a href="#" class="searchbt" onclick="steam()"><span style="color: #1a9fff;">●</span>Steam</a>
-<a href="#" class="searchbt" onclick="giphy()"><span style="color: #9933ff;">●</span>GIPHY</a><br />
-<span class="oldline seawrch-pipe">｜</span>
-<a href="#" class="searchbt" onclick="wayback()"><span style="color: #ab2e33;">●</span>IAWM</a>
-<a href="#" class="searchbt" onclick="webcheck()"><span style="color: #B6FF25;">●</span>Web Check</a>
-<a href="#" class="searchbt" onclick="domainr()"><span style="color: #0e5f96;">●</span>Domainr</a>
-<a href="#" class="searchbt" onclick="whois()"><span style="color: #91d117;">●</span>Whois</a>
-<a href="#" class="searchbt" onclick="cnicp()"><span style="color: #fdd000;">●</span>CNICP</a>
-<a href="#" class="searchbt" onclick="ipshu()"><span style="color: #50b8fe;">●</span>IPSHU</a>
-<a href="#" class="searchbt" onclick="bczs()"><span style="color: #0088cc;">●</span>bczs.net</a>
-<a href="#" class="searchbt" onclick="baiduip()"><span style="color: #2469f3;">●</span>百度IP</a><br />
-<span class="oldline seawrch-pipe">｜</span>
-<a href="#" class="searchbt" onclick="v2ex()"><span style="color: #aab0c6;">●</span>V2EX</a>
-<a href="#" class="searchbt" onclick="taobaopc()"><span style="color: #ff4400;">●</span>淘宝PC</a>
-<a href="#" class="searchbt" onclick="zhihu()"><span style="color: #056de8;">●</span>知乎</a>
-<a href="#" class="searchbt" onclick="so360()"><span style="color: #0fb264;">●</span>360搜索</a>
-<a href="#" class="searchbt" onclick="sougou()"><span style="color: #fd6853;">●</span>搜狗</a><br />
-<span class="oldline seawrch-pipe">｜</span>
-<a href="#" class="searchbt" onclick="googletrans()"><span style="color: #4b8bf5;">●</span>Translate</a>
-<a href="#" class="searchbt" onclick="baiduyue()"><span style="color: #2932e1;">●</span>粤语翻译</a><br />
 
 ## 📞快速拨号
 
