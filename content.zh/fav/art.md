@@ -157,6 +157,6 @@ bookHidden: false
 
 <br />
 
-[lioil](/lioil)
+{{< button href="/lioil" >}}lioil{{< /button >}}
 
 {{< tables-style >}}
