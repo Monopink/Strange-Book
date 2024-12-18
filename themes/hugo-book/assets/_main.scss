@@ -127,10 +127,6 @@ a .book-icon {
       font-weight: bolder;
     }
 
-    > span {
-      color: var(--body-font-color);
-    }
-
   a.active {
     color: var(--body-font-color);
     opacity: 0.6;
@@ -196,6 +192,11 @@ body[dir="rtl"] .book-menu {
   > span,
   > label {
     font-weight: bolder;
+  }
+
+  > span,
+  > label {
+    color: var(--body-font-color);
   }
 }
 
