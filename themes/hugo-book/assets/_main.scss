@@ -293,6 +293,39 @@ body[dir="rtl"] .book-menu {
   margin: $padding-16 0;
   border-bottom: 1px solid transparent;
 
+  #book-search-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    background: var(--body-background);
+    border: 1px solid var(--gray-85);
+    border-radius: $border-radius;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-height: $padding-16*20;
+    overflow-y: auto;
+    
+    li {
+      margin: 0;
+      padding: $padding-8;
+      
+      &:hover {
+        background: var(--gray-95);
+      }
+      
+      a {
+        display: block;
+        color: var(--body-font-color);
+      }
+      
+      small {
+        display: block;
+        color: var(--gray-60);
+      }
+    }
+  }
+
   input {
     width: 100%;
     padding: $padding-8;
