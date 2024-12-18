@@ -55,7 +55,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
   [[languages.zh.params.menuFooter.links]]
-    name = "开往..."
+    name = "开往：随机一个个人网站"
     url = "https://www.travellings.cn/go.html"
     icon = ""
 
