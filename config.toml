@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir = false
 # Arrange the date in the order of the array
 [frontmatter]
   date = ["date", "lastmod", "publishDate", ":fileModTime", ":default"]
-  lastmod = ['lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published', ':git']
+  lastmod = ['lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
 
 
 # Needed for mermaid/katex shortcodes
