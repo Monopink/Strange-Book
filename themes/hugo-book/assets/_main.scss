@@ -127,8 +127,13 @@ a .book-icon {
       font-weight: bolder;
     }
 
+    > span {
+      color: var(--body-font-color);
+    }
+
   a.active {
     color: var(--body-font-color);
+    opacity: 0.6;
     background-color: var(--gray-95);
     padding: $padding-8;
   }
