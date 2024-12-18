@@ -164,7 +164,7 @@ afterBodyCustom: |
     <p>
       <a href="#" onclick="github()" style="color: #9370c6;">GitHub</a>
       <a href="#" onclick="pinterest()" style="color: #e60023;">Pinterest</a>
-      <a href="#" onclick="neodb()" style="color: #c0d9b4;">NeoDB</a>
+      <a href="#" onclick="neodb()" style="color: #a3c095;">NeoDB</a>
       <a href="#" onclick="qimai()" style="color: #02b389;">七麦</a>
       <a href="#" onclick="steamdb()" style="color: #0366d6;">SteamDB</a>
       <a href="#" onclick="steam()" style="color: #1a9fff;">Steam</a>
