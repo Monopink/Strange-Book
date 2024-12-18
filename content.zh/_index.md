@@ -109,8 +109,11 @@ afterBodyCustom: |
     window.open("https://www.sogou.com/web?query=" + keywordBox.value);
   }
 
-  function googletrans() {
+  function googletrans2zh() {
     window.open("https://translate.google.com/?sl=auto&tl=zh-CN&op=translate&text=" + keywordBox.value);
+  }
+  function googletrans2en() {
+    window.open("https://translate.google.com/?sl=auto&tl=en&op=translate&text=" + keywordBox.value);
   }
   function baiduyue() {
     window.open("https://fanyi.baidu.com/#zh/yue/" + keywordBox.value);
@@ -188,7 +191,8 @@ afterBodyCustom: |
       <a href="#" onclick="sougou()" style="color: #fd6853;">搜狗</a>
     </p>
     <p>
-      <a href="#" onclick="googletrans()" style="color: #4b8bf5;">Translate</a>
+      <a href="#" onclick="googletrans2zh()" style="color: #4b8bf5;">Translate2ZH</a>
+      <a href="#" onclick="googletrans2en()" style="color: #4b8bf5;">Translate2EN</a>
       <a href="#" onclick="baiduyue()" style="color: #5a62ff;">粤语翻译</a>
     </p>
   </div>
