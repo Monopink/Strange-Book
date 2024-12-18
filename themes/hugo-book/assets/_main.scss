@@ -232,6 +232,11 @@ body[dir="rtl"] .book-menu {
   }
 }
 
+.book-post.book-post-list {
+  padding: $padding-16 * 1.5;
+  background-color: var(--gray-97);
+}
+
 .book-header {
   display: none;
   margin-bottom: $padding-16;
