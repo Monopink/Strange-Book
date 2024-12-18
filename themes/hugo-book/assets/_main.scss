@@ -420,6 +420,10 @@ body[dir="rtl"] .book-menu {
     margin-top: $padding-16 * 4 !important;
   }
 
+  .book-post.book-post-list {
+    margin-bottom: -$padding-16 * 2.5;
+  }
+
   .book-menu {
     visibility: hidden;
     margin-inline-start: -$menu-width;
