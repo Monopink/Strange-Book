@@ -10,22 +10,21 @@ headCustom: |
       max-width: 100%;
       padding: 0.5rem; 
     }
-    .jh-search-list {
-      p {
-        line-height: 2.4;
-        margin: 1rem 0;
-        a {
-          border: 1px solid var(--gray-80);
-          padding: .5rem 1rem;
-          font-size: .875rem;
-        }
-      }
-      p:link {
-        color: inherit !important;
-      }
-      p:visited {
-        color: inherit !important;
-      }
+    .jh-search-list p {
+      line-height: 2.4;
+      margin: 1rem 0;
+    }
+    .jh-search-list p a {
+      border: 1px solid var(--gray-80);
+      padding: .5rem 1rem;
+      font-size: .875rem;
+    }
+    .jh-search-list p:link {
+      color: inherit !important;
+    }
+    .jh-search-list p:visited {
+      color: inherit !important;
+    }
     }
   </style>
 afterBodyCustom: |
