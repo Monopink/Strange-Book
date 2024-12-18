@@ -11,6 +11,9 @@ enableGitInfo = true
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 
+# Arrange the date in the order of the array
+[frontmatter]
+  date = ["date", "lastmod", "publishDate", ":fileModTime", ":default"]
 
 # Needed for mermaid/katex shortcodes
 [markup]
