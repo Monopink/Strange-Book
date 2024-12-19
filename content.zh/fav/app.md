@@ -70,7 +70,10 @@ headCustom: |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/) | Steam 挂卡工具 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/steampp.net"> | [Watt Toolkit](https://steampp.net/) | 本地 Steam 客户端工具箱 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}}{{< lists-svg "a" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/u.tools"> | [uTools](https://u.tools/) | 效率插件集合 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
-
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/calibre-ebook.com"> | [Calibre](https://calibre-ebook.com/) | 电子书管理 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [WSABuilds](https://github.com/MustardChef/WSABuilds) | 更好用全面的 WSA | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/apps.microsoft.com"> | [WSA Toolbox](https://apps.microsoft.com/store/detail/9ppsp2mkvtgt) | WSA 工具箱 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.psytec.co.jp"> | [PsQREdit](https://www.psytec.co.jp/docomo.html) | QR 码屏幕扫描/生成工具 | {{< lists-svg "w" >}} |
 
 ## 清理
 
@@ -86,11 +89,18 @@ headCustom: |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [EarTrumpet](https://eartrumpet.app/)<span class="oldline">｜</span>[GitHub](https://github.com/File-New-Project/EarTrumpet) | 为 Windows 增加软件音量合成器 | {{< lists-svg "w" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [LittleBigMouse](https://github.com/mgth/LittleBigMouse) | 在不同 DPI 的屏幕间顺畅移动鼠标 | {{< lists-svg "w" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [Monitorian](https://github.com/emoacht/Monitorian) | 单独调节每个输出显示器的亮度等参数 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/twinkletray.com"> | [Twinkle Tray](https://twinkletray.com/)<span class="oldline">｜</span>[GitHub](https://github.com/xanderfrangos/twinkle-tray) | 系统中控制显示器参数 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)<span class="oldline">｜</span>[Microsoft Store](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435) | 自动切换亮/暗模式 | {{< lists-svg "w" >}} |
+
+## 传输
+
+|  |  |  |  |
+| :----: | ---- | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/landrop.app"> | [LANDrop](https://landrop.app/)<span class="oldline">｜</span>[GitHub](https://github.com/LANDrop/LANDrop) | 跨平台局域网文件传输 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}}{{< lists-svg "a" >}} |
 
 ## 浏览器扩展
 
 |  |  |  |  |
-| :----: | ---- | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [Airtab](https://github.com/get-artab/artab) | 新标签页随机一副艺术作品 | N/A |
 
 ## 油猴脚本
