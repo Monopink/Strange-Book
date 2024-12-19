@@ -81,7 +81,7 @@ afterBodyCustom: |
     window.open("https://whois.domaintools.com/" + keywordBox.value);
   }
   function cnicp() {
-    window.open("https://icp.chinaz.com/" + keywordBox.value);
+    window.open("https://www.icpapi.com/" + keywordBox.value);
   }
   function ipshu() {
     window.open("https://ipshu.com/ipv4/" + keywordBox.value);
@@ -178,6 +178,7 @@ afterBodyCustom: |
       <a href="#" onclick="webcheck()" style="color: #94D512;">Web Check</a>
       <a href="#" onclick="domainr()" style="color: #117ec8;">Domainr</a>
       <a href="#" onclick="whois()" style="color: #91d117;">Whois</a>
+      <a href="#" onclick="cnicp()" style="color: #e6bd04;">CNICP</a>
       <a href="#" onclick="cnicp()" style="color: #e6bd04;">CNICP</a>
       <a href="#" onclick="ipshu()" style="color: #50b8fe;">IPSHU</a>
       <a href="#" onclick="bczs()" style="color: #0088cc;">bczs.net</a>
