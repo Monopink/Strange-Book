@@ -15,7 +15,7 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.inoreader.com"> | [Inoreader](https://www.inoreader.com/) | 在线 RSS 阅读器 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/feedly.com"> | [Feedly](https://feedly.com/) | 在线 RSS 阅读器 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/s.theoldreader.com"> | [The Old Reader](https://theoldreader.com) | 在线 RSS 阅读器 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/theoldreader.com"> | [The Old Reader](https://theoldreader.com) | 在线 RSS 阅读器 |
 
 ## 工具
 

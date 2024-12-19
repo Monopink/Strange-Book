@@ -10,18 +10,18 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/psc2.cf2.poecdn.net"> | [Poe](https://poe.com/) | 对话 Ai 合集 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/uploads-ssl.webflow.com"> | [Forefront Chat](https://chat.forefront.ai/) | 对话 Ai 合集 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/poe.com"> | [Poe](https://poe.com/) | 对话 Ai 合集 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/chat.forefront.ai"> | [Forefront Chat](https://chat.forefront.ai/) | 对话 Ai 合集 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/claude.ai"> | [Claude](https://claude.ai/)<span class="oldline">｜</span>[Slack 插件](https://slack.com/apps/A04KGS7N9A8-claude) | 对话 Ai Claude |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cdn.fastest.chat"> | [Easyopen](https://easyopen.chat/) | 每天免费一次 绘画 Ai Midjourney |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/easyopen.chat"> | [Easyopen](https://easyopen.chat/) | 每天免费一次 绘画 Ai Midjourney |
 
 ## 找东西
 
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/appsco.pe"> | [Appscope](https://appsco.pe) | 收集众多 PWA 网站 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cdn.iplaysoft.com"> | [异次元软件世界](https://www.iplaysoft.com) | 分享好用的软件 |
-| <img loading="lazy" width="20px" alt="favicon" src="https://favicon.im/static1.appinn.com"> | [小众软件](https://www.appinn.com) | 分享好用的软件 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.iplaysoft.com"> | [异次元软件世界](https://www.iplaysoft.com) | 分享好用的软件 |
+| <img loading="lazy" width="20px" alt="favicon" src="https://favicon.im/www.appinn.com"> | [小众软件](https://www.appinn.com) | 分享好用的软件 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.jiumodiary.com"> | [鸠摩搜索](https://www.jiumodiary.com/) | 找电子书 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/33.agilestudio.cn"> | [33台词](https://33.agilestudio.cn/) | 找影视剧中出现的台词 |
 
@@ -49,17 +49,17 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/imgflip.com"> | [Imgflip](https://imgflip.com) | 表情包制作工具 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/en.savefrom.net"> | [savefrom.net](https://savefrom.net/) | 下载网站视频 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/besticon.herokuapp.com"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)<span class="oldline">｜</span>[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/gcore.jsdelivr.net"> | [朋友圈生成器](https://akarin.dev/WechatMomentScreenshot/) | 朋友圈转发截图生成工具 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/akarin.dev"> | [朋友圈生成器](https://akarin.dev/WechatMomentScreenshot/) | 朋友圈转发截图生成工具 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/hardwaretester.com"> | [Hardware Tester](https://hardwaretester.com/) | 手柄、麦克风、MIDI 等电脑外设测试 |
 
 ## 数据
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/raw.githubusercontent.com"> | [ChinaRailTransit](https://ivysauro.github.io/CNRT/)<span class="oldline">｜</span>[轨道交通支付方式](https://ivysauro.github.io/CNRT/data/Pie)<span class="oldline">｜</span>[公交支付方式](https://ivysauro.github.io/CNRT/data/BusPay)| 另一角度看地铁 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/github.com"> | [ChinaRailTransit](https://ivysauro.github.io/CNRT/)<span class="oldline">｜</span>[轨道交通支付方式](https://ivysauro.github.io/CNRT/data/Pie)<span class="oldline">｜</span>[公交支付方式](https://ivysauro.github.io/CNRT/data/BusPay)| 另一角度看地铁 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.binbase.com"> | [BinBase](https://www.binbase.com/search.html) | 信用卡 Bin 信息查询 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/obj.pipi.cn"> | [猫眼专业版](https://piaofang.maoyan.com/dashboard) | 中国实时票房 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [Name Age Calculator](http://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Ashley) | 美国生日与名字统计，或许对你取英文名有帮助 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/piaofang.maoyan.com"> | [猫眼专业版](https://piaofang.maoyan.com/dashboard) | 中国实时票房 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/github.com"> | [Name Age Calculator](http://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Ashley) | 美国生日与名字统计，或许对你取英文名有帮助 |
 
 ## 资源社区
 
@@ -71,7 +71,6 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/sharecuts.cn"> | [捷径社区](https://sharecuts.cn/) | 收集和分享 Shortcuts 快捷指令 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/app.so"> | [鲜面连线](https://app.so/xianmian/) | App Store 每日精品限免/促销应用 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.apple.com"> | [Apple Gift Card](https://www.apple.com/shop/buy-giftcard/giftcard) | Apple 礼品卡 |
 

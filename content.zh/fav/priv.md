@@ -21,7 +21,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/combo.staticflickr.com"> | [SimpleLogin](https://www.flickr.com/) | 邮件转发 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.staticflickr.com"> | [SimpleLogin](https://www.flickr.com/) | 邮件转发 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.sharklasers.com"> | [SharkLasers](https://www.sharklasers.com/) | 临时邮箱 |
 
 {{< tables-style >}}

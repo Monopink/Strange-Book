@@ -12,7 +12,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/assets-global.website-files.com"> | [Backblaze](https://www.backblaze.com) | 云存储服务 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.backblaze.com"> | [Backblaze](https://www.backblaze.com) | 云存储服务 |
 
 ## 域名
 
@@ -31,15 +31,15 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/static.cz88.net"> | [纯真 IP](https://update.cz88.net/favicon.ico) | 纯真 IP 库 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cz88.net"> | [纯真 IP](https://update.cz88.net/favicon.ico) | 纯真 IP 库 |
 
 ## 在线工具
 
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/namelimit.com"> | [Namelimit](https://namelimit.com/subdomain/) | 网站子域查询 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/ssl.gstatic.com"> | [PageSpeed Insights](https://pagespeed.web.dev/) | 网站性能测试 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/csstools.chinaz.com"> | [站长之家](https://tool.chinaz.com/) | 站长之家 站长工具 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cdn.tool.dute.me"> | [站长工具](https://www.dute.org/webmaster)<span class="oldline">｜</span>[DNS 查询](https://www.dute.org/dns) | 独特工具箱 站长工具 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pagespeed.web.dev"> | [PageSpeed Insights](https://pagespeed.web.dev/) | 网站性能测试 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/tools.chinaz.com"> | [站长之家](https://tool.chinaz.com/) | 站长之家 站长工具 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.dute.org"> | [站长工具](https://www.dute.org/webmaster)<span class="oldline">｜</span>[DNS 查询](https://www.dute.org/dns) | 独特工具箱 站长工具 |
 
 {{< tables-style >}}
