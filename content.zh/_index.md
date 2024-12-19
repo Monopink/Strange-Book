@@ -179,7 +179,6 @@ afterBodyCustom: |
       <a href="#" onclick="domainr()" style="color: #117ec8;">Domainr</a>
       <a href="#" onclick="whois()" style="color: #91d117;">Whois</a>
       <a href="#" onclick="cnicp()" style="color: #e6bd04;">CNICP</a>
-      <a href="#" onclick="cnicp()" style="color: #e6bd04;">CNICP</a>
       <a href="#" onclick="ipshu()" style="color: #50b8fe;">IPSHU</a>
       <a href="#" onclick="bczs()" style="color: #0088cc;">bczs.net</a>
       <a href="#" onclick="baiduip()" style="color: #2469f3;">百度IP</a>
