@@ -66,7 +66,7 @@ headCustom: |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/chromium.woolyss.com"> | [Chromium](https://chromium.woolyss.com/) | 各种版本的 Chromium | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/thorium.rocks"> | [Thorium](https://thorium.rocks/) | 精简化更快速的 Chromium | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}}{{< lists-svg "a" >}} |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/photodemon.org"> | [PhotoDemon](https://photodemon.org/)<span class="oldline">｜</span>[GitHub](https://github.com/tannerhelland/PhotoDemon) | 开源图像编辑软件 | {{< lists-svg "w" >}} |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/) | Steam 挂卡工具 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/github.com"> | [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/) | Steam 挂卡工具 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/steampp.net"> | [Watt Toolkit](https://steampp.net/) | 本地 Steam 客户端工具箱 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}}{{< lists-svg "a" >}} |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/u.tools"> | [uTools](https://u.tools/) | 效率插件集合 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
 
@@ -75,9 +75,9 @@ headCustom: |
 
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [EarTrumpet](https://eartrumpet.app/)<span class="oldline">｜</span>[GitHub](https://github.com/File-New-Project/EarTrumpet) | 为 Windows 增加软件音量合成器 | {{< lists-svg "w" >}} |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [LittleBigMouse](https://github.com/mgth/LittleBigMouse) | 在不同 DPI 的屏幕间顺畅移动鼠标 | {{< lists-svg "w" >}} |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [Monitorian](https://github.com/emoacht/Monitorian) | 单独调节每个输出显示器的亮度等参数 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/github.com"> | [EarTrumpet](https://eartrumpet.app/)<span class="oldline">｜</span>[GitHub](https://github.com/File-New-Project/EarTrumpet) | 为 Windows 增加软件音量合成器 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/github.com"> | [LittleBigMouse](https://github.com/mgth/LittleBigMouse) | 在不同 DPI 的屏幕间顺畅移动鼠标 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/github.com"> | [Monitorian](https://github.com/emoacht/Monitorian) | 单独调节每个输出显示器的亮度等参数 | {{< lists-svg "w" >}} |
 
 ## 油猴脚本
 
@@ -91,6 +91,6 @@ headCustom: |
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/tabby.sh"> | [Tabby](https://tabby.sh/)<span class="oldline">｜</span>[Github](https://github.com/Eugeny/tabby/) | 精美的开源终端 XShell 的替代品 | {{< lists-svg "l" >}} |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [wipeclean](https://github.com/JeanJouliaCode/wipeClean) | 把你的终端「擦」干净 | {{< lists-svg "l" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/github.com"> | [wipeclean](https://github.com/JeanJouliaCode/wipeClean) | 把你的终端「擦」干净 | {{< lists-svg "l" >}} |
 
 {{< lists-style >}}

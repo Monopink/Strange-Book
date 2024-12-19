@@ -14,7 +14,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/webbrowsertools.com"> | [WebBrowserTools](https://webbrowsertools.com/) | Web 工具集 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cdn2.downdetector.com"> | [Downdetecotor](https://downdetector.com/) | 大平台故障和中断实时监控 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/downdetector.com"> | [Downdetecotor](https://downdetector.com/) | 大平台故障和中断实时监控 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.whatsmyua.info"> | [What's my user agent?](https://www.whatsmyua.info/) | 浏览器 UA 查询 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/iknowwhatyoudownload.com"> | [I KNOW](https://iknowwhatyoudownload.com/) | 同 IP 下 BT 传输记录 |
 
@@ -22,8 +22,8 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cdn.urldecoder.org"> | [URL Decode](https://www.urldecoder.org/) | URL 解码和编码 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cdn.base64decode.org"> | [Base64 Decode](https://www.base64decode.org/) | Base64 解码和编码 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.urldecoder.org"> | [URL Decode](https://www.urldecoder.org/) | URL 解码和编码 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.base64decode.org"> | [Base64 Decode](https://www.base64decode.org/) | Base64 解码和编码 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.base64decode.net"> | [Base64 Decode](https://www.base64decode.net/) | Base64 解码和编码 支持图片 |
 
 ## 编辑
@@ -39,7 +39,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [CODEIF](https://unbug.github.io/codelf/) | 搜索变量命名 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/github.com"> | [CODEIF](https://unbug.github.io/codelf/) | 搜索变量命名 |
 
 ## 写作
 

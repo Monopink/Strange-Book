@@ -10,8 +10,8 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/lh3.googleusercontent.com"> | [Google News](https://news.google.com/) | Google News |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/s.flipboard.com"> | [Flipboard](https://flipboard.com/) | Flipboard 需登录 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/news.google.com"> | [Google News](https://news.google.com/) | Google News |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/flipboard.com"> | [Flipboard](https://flipboard.com/) | Flipboard 需登录 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/chinafactcheck.com"> | [有据](https://chinafactcheck.com/) | 核查中文世界的国际资讯 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/matters.news"> | [Matters](https://matters.news/) | 分布式内容平台 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/substackcdn.com"> | [Substack](https://substack.com/) | 新闻内容创作订阅平台 有中文自由创作者 |
@@ -24,11 +24,11 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.ap.org"> | [Associated Press](https://www.ap.org) | 美联社 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.reuters.com"> | [Reuters](https://www.reuters.com) | 路透社 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/assets.bwbx.io"> | [Bloomberg](https://www.bloomberg.com/) | 彭博社 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.bloomberg.com"> | [Bloomberg](https://www.bloomberg.com/) | 彭博社 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.nytimes.com"> | [NYTimes](https://www.nytimes.com/) | 纽约时报 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.bbc.com"> | [BBC](https://www.bbc.com) | BBC |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/s.wsj.net"> | [The Wall Street Journal](https://www.wsj.com/) | 华尔街日报 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cdn.vox-cdn.com"> | [Vox](https://www.vox.com/) | Vox |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.wsj.com"> | [The Wall Street Journal](https://www.wsj.com/) | 华尔街日报 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.vox.com"> | [Vox](https://www.vox.com/) | Vox |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/global.udn.com"> | [轉角國際](https://global.udn.com/) | 转角国际|
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/theinitium.com"> | [端傳媒](https://theinitium.com) | 端传媒 部分付费 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.ft.com"> | [Financial Times](https://www.ft.com/) | 金融时报 需订阅 |
@@ -37,11 +37,11 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/s.yimg.com"> | [Engadget](https://www.engadget.com/) | Engadget |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cdn.vox-cdn.com"> | [The Verge](https://www.theverge.com/) | The Verge |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.engadget.com"> | [Engadget](https://www.engadget.com/) | Engadget |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.theverge.com"> | [The Verge](https://www.theverge.com/) | The Verge |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/images.macrumors.com"> | [MacRumors](https://www.macrumors.com/) | MacRumors |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cdn.sspai.com"> | [少数派](https://sspai.com) | 科技、电子产品和生活 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/m.huxiu.com"> | [虎嗅网](https://www.huxiu.com) | 商业科技资讯 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/sspai.com"> | [少数派](https://sspai.com) | 科技、电子产品和生活 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.huxiu.com"> | [虎嗅网](https://www.huxiu.com) | 商业科技资讯 |
 
 ## 艺术&文化
 
@@ -51,9 +51,9 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/history-maps.com"> | [HistoryMaps](https://history-maps.com/) | 直观地学习历史 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.thetype.com"> | [The Type](https://thetype.com) | 文字、设计、文化 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.dujingtou.com"> | [毒镜头](https://www.dujingtou.com) | 摄影、相机 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/img-sz.topys.cn"> | [TOPYS.](https://www.topys.cn) | 创意内容 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/image.uisdc.com"> | [优设网](https://www.uisdc.com) | 设计文章、教程、素材 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/cdn.shejipi.com"> | [设计癖](https://www.shejipi.com/) | 关注设计产品 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.topys.cn"> | [TOPYS.](https://www.topys.cn) | 创意内容 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.uisdc.com"> | [优设网](https://www.uisdc.com) | 设计文章、教程、素材 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.shejipi.com"> | [设计癖](https://www.shejipi.com/) | 关注设计产品 |
 
 
 ## 社区
@@ -73,20 +73,20 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.doyoudo.com"> | [doyoudo](https://www.doyoudo.com/) | 创意软件学习教程 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/qwerty.liumingye.cn"> | [Qwerty Learner](https://qwerty.liumingye.cn/) | 单词输入练习 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/monkeytype.com"> | [Monkeytype](https://monkeytype.com/) | 英文文章输入练习 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/static.typingclub.com"> | [TypingClub](https://www.typingclub.com/) | 打字键位练习 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.typingclub.com"> | [TypingClub](https://www.typingclub.com/) | 打字键位练习 |
 
 ## 社交
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/combo.staticflickr.com"> | [Flickr](https://www.flickr.com/) | 图片社交平台 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.flickr.com"> | [Flickr](https://www.flickr.com/) | 图片社交平台 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/mastodon.social"> | [Mastodon](https://mastodon.social/) | 长毛象 分布式微博 |
 
 ## 影剧点评
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/m.imdb.com"> | [IMDB](https://www.imdb.com) | 互联网电影资料库 其实也有电视剧和节目 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.imdb.com"> | [IMDB](https://www.imdb.com) | 互联网电影资料库 其实也有电视剧和节目 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.rottentomatoes.com"> | [Rotten Tomatoes](https://www.rottentomatoes.com/) | 烂番茄 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.themoviedb.org"> | [TMDB](https://www.themoviedb.org/) | 由社区建设的影剧资料库 |
 
@@ -95,7 +95,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.kickstarter.com"> | [Kickstarter](https://www.kickstarter.com/) | 众筹网站 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/g2.iggcdn.com"> | [Indiegogo](https://www.indiegogo.com/) | 众筹网站 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.indiegogo.com"> | [Indiegogo](https://www.indiegogo.com/) | 众筹网站 |
 
 ## 个人博客
 
@@ -115,13 +115,13 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/game.maj-soul.com"> | [雀魂麻将](https://game.maj-soul.com/1/) | 日本麻将 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.nytimes.com"> | [Wordle](https://www.nytimes.com/games/wordle/index.html) | 有意思的英文单词游戏 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/a.poki.com"> | [Poki](https://poki.com/) | 游戏集 有很多经典手机游戏 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/poki.com"> | [Poki](https://poki.com/) | 游戏集 有很多经典手机游戏 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/taiko.uk"> | [太鼓ウェブ](https://taiko.bui.pm/) | 免注册的太鼓达人 可以和好友联机 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/oskarstalberg.com"> | [Townscaper](https://oskarstalberg.com/Townscaper/) | 北欧小镇生成器 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.heyzxz.me"> | [PCOL](http://www.heyzxz.me/pcol/) | 台球 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/agar.io"> | [Ager.io](https://agar.io/) | 类似「球球大作战」 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/radio.garden"> | [Radio Garden](http://radio.garden/) | 收听全世界的电台 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [俄罗斯方块](https://chvin.github.io/react-tetris/) | 复古游戏机俄罗斯方块 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/github.com"> | [俄罗斯方块](https://chvin.github.io/react-tetris/) | 复古游戏机俄罗斯方块 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.yikm.net"> | [yikm.net](https://www.yikm.net/) | 各类老街机和家用游戏机游戏 |
 
 ## 有趣但无用
@@ -130,7 +130,7 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/daftpunk.cafe"> | [Daft Punk Cafe](https://daftpunk.cafe/) | 粉丝制作的 Daft Punk 纪念网站 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/geektyper.com"> | [GEEKTyper](https://geektyper.com/) | 随便敲键盘就能出代码的黑客模拟器 |
-| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/joshworth.com"> | [If the Moon Were Only 1 Pixel](http://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) | 如果月球只有 1 像素的模拟宇宙 |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.joshworth.com"> | [If the Moon Were Only 1 Pixel](http://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) | 如果月球只有 1 像素的模拟宇宙 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/www.windows93.net"> | [WINDOWS93](http://www.windows93.net/) | 体验 Winodws 93 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/driveandlisten.herokuapp.com"> | [Drive & Listen](https://driveandlisten.herokuapp.com/) | 体验在某个城市里驾车的感觉 |
 | <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/strobe.cool"> | [Strobe Illusion](https://strobe.cool/) | 会让你出现幻觉的图像 |
