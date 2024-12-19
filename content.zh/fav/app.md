@@ -51,46 +51,46 @@ headCustom: |
 
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/portableapps.com"> | [PortableApps](https://portableapps.com/) | 各种应用的便携版 | N/A |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/portableapps.com"> | [PortableApps](https://portableapps.com/) | 各种应用的便携版 | N/A |
 
 ## 学习
 
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/pages.github.com"> | [ToastFish](https://github.com/Uahh/ToastFish) | 使用 Windows 通知偷偷地背单词 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [ToastFish](https://github.com/Uahh/ToastFish) | 使用 Windows 通知偷偷地背单词 | {{< lists-svg "w" >}} |
 
 ## 实用
 
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/chromium.woolyss.com"> | [Chromium](https://chromium.woolyss.com/) | 各种版本的 Chromium | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/thorium.rocks"> | [Thorium](https://thorium.rocks/) | 精简化更快速的 Chromium | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}}{{< lists-svg "a" >}} |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/photodemon.org"> | [PhotoDemon](https://photodemon.org/)<span class="oldline">｜</span>[GitHub](https://github.com/tannerhelland/PhotoDemon) | 开源图像编辑软件 | {{< lists-svg "w" >}} |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/pages.github.com"> | [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/) | Steam 挂卡工具 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/steampp.net"> | [Watt Toolkit](https://steampp.net/) | 本地 Steam 客户端工具箱 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}}{{< lists-svg "a" >}} |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/u.tools"> | [uTools](https://u.tools/) | 效率插件集合 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/chromium.woolyss.com"> | [Chromium](https://chromium.woolyss.com/) | 各种版本的 Chromium | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/thorium.rocks"> | [Thorium](https://thorium.rocks/) | 精简化更快速的 Chromium | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}}{{< lists-svg "a" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/photodemon.org"> | [PhotoDemon](https://photodemon.org/)<span class="oldline">｜</span>[GitHub](https://github.com/tannerhelland/PhotoDemon) | 开源图像编辑软件 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/) | Steam 挂卡工具 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/steampp.net"> | [Watt Toolkit](https://steampp.net/) | 本地 Steam 客户端工具箱 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}}{{< lists-svg "a" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/u.tools"> | [uTools](https://u.tools/) | 效率插件集合 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
 
 
 ## 工具
 
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/pages.github.com"> | [EarTrumpet](https://eartrumpet.app/)<span class="oldline">｜</span>[GitHub](https://github.com/File-New-Project/EarTrumpet) | 为 Windows 增加软件音量合成器 | {{< lists-svg "w" >}} |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/pages.github.com"> | [LittleBigMouse](https://github.com/mgth/LittleBigMouse) | 在不同 DPI 的屏幕间顺畅移动鼠标 | {{< lists-svg "w" >}} |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/pages.github.com"> | [Monitorian](https://github.com/emoacht/Monitorian) | 单独调节每个输出显示器的亮度等参数 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [EarTrumpet](https://eartrumpet.app/)<span class="oldline">｜</span>[GitHub](https://github.com/File-New-Project/EarTrumpet) | 为 Windows 增加软件音量合成器 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [LittleBigMouse](https://github.com/mgth/LittleBigMouse) | 在不同 DPI 的屏幕间顺畅移动鼠标 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [Monitorian](https://github.com/emoacht/Monitorian) | 单独调节每个输出显示器的亮度等参数 | {{< lists-svg "w" >}} |
 
 ## 油猴脚本
 
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/greasyfork.org"> | [搜索助手](https://greasyfork.org/en/scripts/456311-%E6%90%9C%E7%B4%A2%E5%8A%A9%E6%89%8B) | 左侧悬浮按钮快速切换搜索引擎 | N/A |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/greasyfork.org"> | [all-search](https://greasyfork.org/en/scripts/397993-all-search-%E5%85%A8%E6%90%9C-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC-%E6%94%AF%E6%8C%81%E4%BB%BB%E6%84%8F%E7%BD%91%E7%AB%99%E5%B1%95%E7%A4%BA)<span class="oldline">｜</span>[GitHub](https://github.com/all-search/all-search) | 顶部搜索引擎快捷跳转 | N/A |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/greasyfork.org"> | [搜索助手](https://greasyfork.org/en/scripts/456311-%E6%90%9C%E7%B4%A2%E5%8A%A9%E6%89%8B) | 左侧悬浮按钮快速切换搜索引擎 | N/A |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/greasyfork.org"> | [all-search](https://greasyfork.org/en/scripts/397993-all-search-%E5%85%A8%E6%90%9C-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC-%E6%94%AF%E6%8C%81%E4%BB%BB%E6%84%8F%E7%BD%91%E7%AB%99%E5%B1%95%E7%A4%BA)<span class="oldline">｜</span>[GitHub](https://github.com/all-search/all-search) | 顶部搜索引擎快捷跳转 | N/A |
 
 ## Geek
 
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/tabby.sh"> | [Tabby](https://tabby.sh/)<span class="oldline">｜</span>[Github](https://github.com/Eugeny/tabby/) | 精美的开源终端 XShell 的替代品 | {{< lists-svg "l" >}} |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/pages.github.com"> | [wipeclean](https://github.com/JeanJouliaCode/wipeClean) | 把你的终端「擦」干净 | {{< lists-svg "l" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/tabby.sh"> | [Tabby](https://tabby.sh/)<span class="oldline">｜</span>[Github](https://github.com/Eugeny/tabby/) | 精美的开源终端 XShell 的替代品 | {{< lists-svg "l" >}} |
+| <img loading="lazy" width="32px" alt="favicon" src="https://favicon.im/pages.github.com"> | [wipeclean](https://github.com/JeanJouliaCode/wipeClean) | 把你的终端「擦」干净 | {{< lists-svg "l" >}} |
 
 {{< lists-style >}}
