@@ -77,6 +77,7 @@ headCustom: |
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.lanzou.com"> | [流氓软件清理](https://free.lanzoux.com/b0cpu1guf) | 中国流氓软件清理工具 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.bcuninstaller.com"> | [BC Uninstaller](https://www.bcuninstaller.com/)<span class="oldline">｜</span>[GitHub](https://github.com/Klocman/Bulk-Crap-Uninstaller) | 软件卸载工具 | {{< lists-svg "w" >}} |
 
 ## 工具
 
@@ -97,7 +98,8 @@ headCustom: |
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/greasyfork.org"> | [搜索助手](https://greasyfork.org/en/scripts/456311-%E6%90%9C%E7%B4%A2%E5%8A%A9%E6%89%8B) | 左侧悬浮按钮快速切换搜索引擎 | N/A |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/greasyfork.org"> | [all-search](https://greasyfork.org/en/scripts/397993-all-search-%E5%85%A8%E6%90%9C-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC-%E6%94%AF%E6%8C%81%E4%BB%BB%E6%84%8F%E7%BD%91%E7%AB%99%E5%B1%95%E7%A4%BA)<span class="oldline">｜</span>[GitHub](https://github.com/all-search/all-search) | 顶部搜索引擎快捷跳转 | N/A |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/greasyfork.org"> | [all-search](https://greasyfork.org/en/scripts/397993-all-search-%E5%85%A8%E6%90%9C-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BF%AB%E6%8D%B7%E8%B7%B9%E8%BD%AC-%E6%94%AF%E6%8C%81%E4%BB%BB%E6%84%8F%E7%BD%91%E7%AB%99%E5%B1%95%E7%A4%BA)<span class="oldline">｜</span>[GitHub](https://github.com/all-search/all-search) | 顶部搜索引擎快捷跳转 | N/A |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/greasyfork.org"> | [HTML5 快捷键](https://greasyfork.org/en/scripts/487825-html5%E5%BF%AB%E9%80%9F%E9%8D%B5hotkeys) | 视频快捷键 | N/A |
 
 ## Geek
 

@@ -24,7 +24,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/theinitium.com"> | [端傳媒](https://theinitium.com) | 深度独立中文媒体 部分付费 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/theinitium.com"> | [端傳媒](https://theinitium.com) | 独立深度中文媒体 部分付费 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.wainao.me/"> | [歪脑](https://www.wainao.me/) | 多元的中文新闻 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/global.udn.com"> | [轉角國際](https://global.udn.com/) | 转角国际|
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.patreon.com"> | [追新闻](https://www.patreon.com) | 独立新闻平台 |
