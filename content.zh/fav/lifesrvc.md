@@ -10,12 +10,6 @@ bookHidden: false
 >
 > 世界上不是只有小程序和 App，还有网页和 PWA。
 
-## 寻找 PWA
-
-|  |  |  |
-| :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/appsco.pe"> | [Appscope](https://appsco.pe) | 收集众多 PWA 网站 ✅PWA |
-
 ## 综合电商
 
 |  |  |  |
