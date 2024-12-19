@@ -101,6 +101,7 @@ headCustom: |
 ## 浏览器扩展
 
 |  |  |  |  |
+| :----: | ---- | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [Airtab](https://github.com/get-artab/artab) | 新标签页随机一副艺术作品 | N/A |
 
 ## 油猴脚本
