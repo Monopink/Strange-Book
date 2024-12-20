@@ -329,7 +329,7 @@ body[dir="rtl"] .book-menu {
     width: 100%;
     padding: $padding-8;
 
-    border: 1px solid var(--gray-85);
+    border: $padding-3 solid var(--gray-85);
     border-radius: $border-radius;
 
     background: none;
@@ -340,7 +340,7 @@ body[dir="rtl"] .book-menu {
     }
   }
   input:hover {
-    border: 1px solid var(--gray-80);
+    border: $padding-3 solid var(--gray-80);
   }
   input::placeholder {
     color: var(--gray-60);
@@ -400,10 +400,11 @@ body[dir="rtl"] .book-menu {
 }
 
 .book-footer {
-  border-top: 1px solid var(--gray-80);
   margin-top: $padding-16 * 4.5;
-  padding-top: $padding-16;
+  padding: $padding-16;
   font-size: $font-size-14;
+  background: var(--gray-97);
+}
 
   a {
     color: var(--gray-60);
