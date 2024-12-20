@@ -33,6 +33,9 @@
           {{ template "footer" . }} <!-- Footer under page content -->
           {{ partial "docs/inject/footer" . }}
         </footer>
+      {{else}}
+        <footer class="book-footer book-footer-hidden">
+        </footer>
       {{ end }}
 
       {{ template "comments" . }} <!-- Comments block -->
