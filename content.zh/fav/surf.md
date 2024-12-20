@@ -141,7 +141,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.windows93.net"> | [WINDOWS93](http://www.windows93.net/) | 体验 Winodws 93 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/driveandlisten.herokuapp.com"> | [Drive & Listen](https://driveandlisten.herokuapp.com/) | 体验在某个城市里驾车的感觉 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/strobe.cool"> | [Strobe Illusion](https://strobe.cool/) | 会让你出现幻觉的图像 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/theuselessweb.com"> | [The Useless Web](https://theuselessweb.com/) | 随机一个无聊网站 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/theuselessweb.com"> | [The Useless Web](https://theuselessweb.com/) | 随机一个无用网站 |
 
 ## 成人
 
