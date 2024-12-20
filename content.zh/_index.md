@@ -14,18 +14,6 @@ headCustom: |
       line-height: 2.4;
       margin: 1rem 0;
     }
-    .jh-search-list p a {
-      border: 1px solid var(--gray-80);
-      padding: .5rem 1rem;
-      font-size: .875rem;
-    }
-    .jh-search-list p:link {
-      color: inherit !important;
-    }
-    .jh-search-list p:visited {
-      color: inherit !important;
-    }
-    }
   </style>
 afterBodyCustom: |
   <script type="application/javascript">
@@ -158,42 +146,42 @@ afterBodyCustom: |
   <input type="text" id="keyword" name="keyword" placeholder="Jianghu 搜索" aria-label="搜索" onclick="selectText(this)"/>
   <div class="jh-search-list">
     <p>
-      <a href="#" onclick="google()" style="color: #4285f4;">Google NCR</a>
-      <a href="#" onclick="duckgo()" style="color: #de5833;">DuckDuckGo</a>
-      <a href="#" onclick="bing()" style="color: #0060df;">Bing</a>
-      <a href="#" onclick="yandex()" style="color: #fc3f1d;">Yandex</a>
-      <a href="#" onclick="baidu()" style="color: #4e6ef2;">百度</a>
+      <a href="#" class="book-btn" onclick="google()" style="color: #4285f4;">Google NCR</a>
+      <a href="#" class="book-btn" onclick="duckgo()" style="color: #de5833;">DuckDuckGo</a>
+      <a href="#" class="book-btn" onclick="bing()" style="color: #0060df;">Bing</a>
+      <a href="#" class="book-btn" onclick="yandex()" style="color: #fc3f1d;">Yandex</a>
+      <a href="#" class="book-btn" onclick="baidu()" style="color: #4e6ef2;">百度</a>
     </p>
     <p>
-      <a href="#" onclick="github()" style="color: #9370c6;">GitHub</a>
-      <a href="#" onclick="pinterest()" style="color: #e60023;">Pinterest</a>
-      <a href="#" onclick="neodb()" style="color: #a3c095;">NeoDB</a>
-      <a href="#" onclick="qimai()" style="color: #02b389;">七麦</a>
-      <a href="#" onclick="steamdb()" style="color: #0366d6;">SteamDB</a>
-      <a href="#" onclick="steam()" style="color: #1a9fff;">Steam</a>
-      <a href="#" onclick="giphy()" style="color: #9933ff;">GIPHY</a>
+      <a href="#" class="book-btn" onclick="github()" style="color: #9370c6;">GitHub</a>
+      <a href="#" class="book-btn" onclick="pinterest()" style="color: #e60023;">Pinterest</a>
+      <a href="#" class="book-btn" onclick="neodb()" style="color: #a3c095;">NeoDB</a>
+      <a href="#" class="book-btn" onclick="qimai()" style="color: #02b389;">七麦</a>
+      <a href="#" class="book-btn" onclick="steamdb()" style="color: #0366d6;">SteamDB</a>
+      <a href="#" class="book-btn" onclick="steam()" style="color: #1a9fff;">Steam</a>
+      <a href="#" class="book-btn" onclick="giphy()" style="color: #9933ff;">GIPHY</a>
     </p>
     <p>
-      <a href="#" onclick="wayback()" style="color: #d5383f;">IAWM</a>
-      <a href="#" onclick="webcheck()" style="color: #94D512;">Web Check</a>
-      <a href="#" onclick="domainr()" style="color: #117ec8;">Domainr</a>
-      <a href="#" onclick="whois()" style="color: #91d117;">Whois</a>
-      <a href="#" onclick="cnicp()" style="color: #e6bd04;">CNICP</a>
-      <a href="#" onclick="ipshu()" style="color: #50b8fe;">IPSHU</a>
-      <a href="#" onclick="bczs()" style="color: #0088cc;">bczs.net</a>
-      <a href="#" onclick="baiduip()" style="color: #2469f3;">百度IP</a>
+      <a href="#" class="book-btn" onclick="wayback()" style="color: #d5383f;">IAWM</a>
+      <a href="#" class="book-btn" onclick="webcheck()" style="color: #94D512;">Web Check</a>
+      <a href="#" class="book-btn" onclick="domainr()" style="color: #117ec8;">Domainr</a>
+      <a href="#" class="book-btn" onclick="whois()" style="color: #91d117;">Whois</a>
+      <a href="#" class="book-btn" onclick="cnicp()" style="color: #e6bd04;">CNICP</a>
+      <a href="#" class="book-btn" onclick="ipshu()" style="color: #50b8fe;">IPSHU</a>
+      <a href="#" class="book-btn" onclick="bczs()" style="color: #0088cc;">bczs.net</a>
+      <a href="#" class="book-btn" onclick="baiduip()" style="color: #2469f3;">百度IP</a>
     </p>
     <p>
-      <a href="#" onclick="v2ex()" style="color: #aab0c6;">V2EX</a>
-      <a href="#" onclick="taobaopc()" style="color: #ff4400;">淘宝PC</a>
-      <a href="#" onclick="zhihu()" style="color: #056de8;">知乎</a>
-      <a href="#" onclick="so360()" style="color: #0fb264;">360搜索</a>
-      <a href="#" onclick="sougou()" style="color: #fd6853;">搜狗</a>
+      <a href="#" class="book-btn" onclick="v2ex()" style="color: #aab0c6;">V2EX</a>
+      <a href="#" class="book-btn" onclick="taobaopc()" style="color: #ff4400;">淘宝PC</a>
+      <a href="#" class="book-btn" onclick="zhihu()" style="color: #056de8;">知乎</a>
+      <a href="#" class="book-btn" onclick="so360()" style="color: #0fb264;">360搜索</a>
+      <a href="#" class="book-btn" onclick="sougou()" style="color: #fd6853;">搜狗</a>
     </p>
     <p>
-      <a href="#" onclick="googletrans2zh()" style="color: #4b8bf5;">Translate2ZH</a>
-      <a href="#" onclick="googletrans2en()" style="color: #4b8bf5;">Translate2EN</a>
-      <a href="#" onclick="baiduyue()" style="color: #5a62ff;">粤语翻译</a>
+      <a href="#" class="book-btn" onclick="googletrans2zh()" style="color: #4b8bf5;">Translate2ZH</a>
+      <a href="#" class="book-btn" onclick="googletrans2en()" style="color: #4b8bf5;">Translate2EN</a>
+      <a href="#" class="book-btn" onclick="baiduyue()" style="color: #5a62ff;">粤语翻译</a>
     </p>
   </div>
 </div>
