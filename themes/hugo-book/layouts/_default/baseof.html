@@ -28,10 +28,12 @@
       {{ template "main" . }} <!-- Page Content -->
       {{ partial "docs/inject/content-after" . }}
 
-      <footer class="book-footer">
-        {{ template "footer" . }} <!-- Footer under page content -->
-        {{ partial "docs/inject/footer" . }}
-      </footer>
+      {{ if default true (default .Site.Params.BookFooter .Params.BookFooter) }}
+        <footer class="book-footer">
+          {{ template "footer" . }} <!-- Footer under page content -->
+          {{ partial "docs/inject/footer" . }}
+        </footer>
+      {{ end }}
 
       {{ template "comments" . }} <!-- Comments block -->
 
