@@ -413,6 +413,10 @@ body[dir="rtl"] .book-menu {
   }
 }
 
+.book-footer.book-footer-hidden {
+  background: none;
+}
+
 .book-comments {
   margin-top: $padding-16;
 }
