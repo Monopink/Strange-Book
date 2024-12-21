@@ -103,6 +103,9 @@ afterBodyCustom: |
   function googletrans2en() {
     window.open("https://translate.google.com/?sl=auto&tl=en&op=translate&text=" + keywordBox.value);
   }
+  function dictionary() {
+    window.open("https://www.merriam-webster.com/dictionary/" + keywordBox.value);
+  }
   function baiduyue() {
     window.open("https://fanyi.baidu.com/#zh/yue/" + keywordBox.value);
   }
@@ -181,6 +184,7 @@ afterBodyCustom: |
     <p>
       <a href="#" class="book-btn" onclick="googletrans2zh()" style="color: #4b8bf5;">Translate2ZH</a>
       <a href="#" class="book-btn" onclick="googletrans2en()" style="color: #4b8bf5;">Translate2EN</a>
+      <a href="#" class="book-btn" onclick="dictionary()" style="color: #d71920;">Webster</a>
       <a href="#" class="book-btn" onclick="baiduyue()" style="color: #5a62ff;">粤语翻译</a>
     </p>
   </div>
