@@ -5,6 +5,10 @@ type: docs
 description: 欢迎来到Jianghu Wiki，这是一个超越现实、穿越时空的神秘领域。在这个奇幻的数字世界中，你将遇见艺术的魔法、冲浪的禅意和工具的奇妙力量。探索生活服务的未知领域，体验应用软件的超凡能力，掌握云与建站的秘术。在数字生活的迷雾中，商业公司的服务协议成为神秘的咒文，项目说明隐藏着无尽的可能性。填饱肚子的心得、酱汁配料的秘方、煮速冻水饺的魔法步骤，让你在食物的领域掌握无限力量。而在笔记的世界里，Adobe Indesign、Git等工具的知识将引领你穿越虚幻的网络空间。快来开启这段超现实的冒险之旅吧！最佳体验请使用Firefox或Safari浏览器，让你的探索之旅更加神秘莫测。
 headCustom: |
   <style type="text/css">
+    .oldline {
+      display: inline-block;
+      margin-left: 4px;
+    }
     #keyword {
       width: 100%;
       max-width: 100%;
@@ -202,7 +206,7 @@ afterBodyCustom: |
 
 Blog<span class="oldline">｜</span>[十年之约](https://www.foreverblog.cn/feeds.html)<span class="oldline">｜</span>[笔墨迹](https://blogscn.fun/)<span class="oldline">｜</span>[个站商店](https://storeweb.cn/rss)<span class="oldline">｜</span>[酱紫表](https://qust.me/)<span class="oldline">｜</span>[栋哥的赛博空间](https://liuyandong.com/)<span class="oldline">｜</span>[高海鹏老师](https://www.gaohaipeng.com/)<span class="oldline">｜</span>[docofcard](https://docofcard.com/)<span class="oldline">｜</span>[VPS大玩家](https://www.vpsdawanjia.com/)<span class="oldline">｜</span>[谷姐靓号网](https://www.goojie.eu/)<span class="oldline">｜</span>[虚拟号](https://xunihao.net/)
 
-随机<span class="oldline">｜</span>[虫洞](https://foreverblog.cn/go.html)<span class="oldline">｜</span>[开往](https://www.travellings.cn/go.html)<span class="oldline">｜</span>[笔墨迹](https://blogscn.fun/random.html)<span class="oldline">｜</span>[中文博客列表](https://zhblogs.ohyee.cc/go)<span class="oldline">｜</span>
+随机<span class="oldline">｜</span>[虫洞](https://foreverblog.cn/go.html)<span class="oldline">｜</span>[开往](https://www.travellings.cn/go.html)<span class="oldline">｜</span>[笔墨迹](https://blogscn.fun/random.html)<span class="oldline">｜</span>[中文博客列表](https://zhblogs.ohyee.cc/go)
 
 学习<span class="oldline">｜</span>[TypingClub](https://www.typingclub.com/sportal/program-3.game)<span class="oldline">｜</span>[Qwerty Learner](https://qwerty.kaiyi.cool/)
 
