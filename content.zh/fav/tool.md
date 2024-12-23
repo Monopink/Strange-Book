@@ -10,8 +10,8 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/poe.com"> | [Poe](https://poe.com/) | 对话 Ai 合集 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/chat.forefront.ai"> | [Forefront Chat](https://chat.forefront.ai/) | 对话 Ai 合集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/poe.com"> | [Poe](https://poe.com/) | 对话 AI 合集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/chat.forefront.ai"> | [Forefront Chat](https://chat.forefront.ai/) | 对话 AI 合集 |
 
 ## 找东西
 
