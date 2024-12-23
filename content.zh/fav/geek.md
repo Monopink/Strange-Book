@@ -36,6 +36,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/regex101.com"> | [regular101](https://regex101.com/) | 正则表达式编辑器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/hexed.it"> | [hexed.it](https://hexed.it/) | 二进制编辑器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/uncss-online.com"> | [UnCSS Online!](https://uncss-online.com/) | 扫描无用 CSS |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [CODEIF](https://unbug.github.io/codelf/) | 搜索变量命名 |
 
 ## 终端
 
@@ -43,19 +44,6 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [wipeclean](https://github.com/JeanJouliaCode/wipeClean) | 把你的终端「擦」干净 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [no-more-secrets](https://github.com/bartobri/no-more-secrets) | 终端代码解密效果 |
-
-## Word
-
-|  |  |  |
-| :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [CODEIF](https://unbug.github.io/codelf/) | 搜索变量命名 |
-
-## 写作
-
-|  |  |  |
-| :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/hackmd.io"> | [HackMD](https://hackmd.io/) | 在线 Markdown 编辑器 可以协同 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/stackedit.io"> | [StackEdit](https://stackedit.io/app) | 在线 Markdown 编辑器 |
 
 ## 学习
 
@@ -65,11 +53,6 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/regexlearn.com"> | [RegexLearn](https://regexlearn.com/) | 在测试中掌握正则表达式 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/learnlayout.com"> | [Learn CSS Layout](https://learnlayout.com/) | 在测试中掌握基础 CSS |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/flexboxfroggy.com"> | [Flexbox Freggy](http://flexboxfroggy.com/) | 学习 CSS 让小青蛙跳到荷叶上 |
-
-## 乐趣
-
-|  |  |  |
-| :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/cssbattle.dev"> | [CSSBattle](https://cssbattle.dev/) | CSS 挑战比拼 |
 
 
