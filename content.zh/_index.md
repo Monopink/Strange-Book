@@ -202,7 +202,7 @@ afterBodyCustom: |
 
 Blog<span class="oldline">｜</span>[十年之约](https://www.foreverblog.cn/feeds.html)<span class="oldline">｜</span>[笔墨迹](https://blogscn.fun/)<span class="oldline">｜</span>[个站商店](https://storeweb.cn/rss)<span class="oldline">｜</span>[酱紫表](https://qust.me/)<span class="oldline">｜</span>[栋哥的赛博空间](https://liuyandong.com/)<span class="oldline">｜</span>[高海鹏老师](https://www.gaohaipeng.com/)<span class="oldline">｜</span>[docofcard](https://docofcard.com/)<span class="oldline">｜</span>[VPS大玩家](https://www.vpsdawanjia.com/)<span class="oldline">｜</span>[谷姐靓号网](https://www.goojie.eu/)<span class="oldline">｜</span>[虚拟号](https://xunihao.net/)
 
-随机<span class="oldline">｜</span>[虫洞](https://foreverblog.cn/go.html)<span class="oldline">｜</span>[开往](https://www.travellings.cn/go.html)<span class="oldline">｜</span>[笔墨迹](https://blogscn.fun/random.html)<span class="oldline">｜｜</span>[中文博客列表](https://zhblogs.ohyee.cc/go)<span class="oldline">｜</span>
+随机<span class="oldline">｜</span>[虫洞](https://foreverblog.cn/go.html)<span class="oldline">｜</span>[开往](https://www.travellings.cn/go.html)<span class="oldline">｜</span>[笔墨迹](https://blogscn.fun/random.html)<span class="oldline">｜</span>[中文博客列表](https://zhblogs.ohyee.cc/go)<span class="oldline">｜</span>
 
 学习<span class="oldline">｜</span>[TypingClub](https://www.typingclub.com/sportal/program-3.game)<span class="oldline">｜</span>[Qwerty Learner](https://qwerty.kaiyi.cool/)
 
