@@ -129,7 +129,6 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/smallpdf.com"> | [Smallpdf](https://smallpdf.com/pdf-tools) | 众多 PDF 相关工具 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/duotones.co"> | [Duotone Effect Generator](https://duotones.co) | 将图片处理为双色调风格 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/29a.ch"> | [Forensically](https://29a.ch/photo-forensics/) | 图片分析工具 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/besticon.herokuapp.com"> | [TheFaviconFinder](https://besticon-demo.herokuapp.com/)<span class="oldline">｜</span>[GitHub](https://github.com/mat/besticon) | 获取网站图标 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/pixelmap.amcharts.com"> | [Pixel Map Generator](https://pixelmap.amcharts.com/) | 地图着色 可能不符合中国国标 |
 
 ## 3D 模型
