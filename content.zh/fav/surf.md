@@ -52,6 +52,7 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/artsandculture.google.com"> | [Google 艺术&文化](https://artsandculture.google.com/) | 浏览艺术&文化内容 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.goldenhorse.org.tw"> | [金马奖](https://www.goldenhorse.org.tw/) | 华语电影最具影响力和代表性的奖项 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/history-maps.com"> | [HistoryMaps](https://history-maps.com/) | 直观地学习历史 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.thetype.com"> | [The Type](https://thetype.com) | 文字、设计、文化 |
@@ -64,7 +65,6 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.v2ex.com"> | [V2EX](https://www.v2ex.com) | 讨论代码与科技 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.cnprint.org"> | [CPC 中文印刷社区](http://www.cnprint.org/) | 设计排印社区 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/dsdlove.com"> | [Hires 音乐](https://dsdlove.com) | 讨论无损音乐与发烧器材 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.penbbs.com"> | [钢笔论坛](http://www.penbbs.com/) | 钢笔论坛 |
@@ -79,7 +79,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/monkeytype.com"> | [Monkeytype](https://monkeytype.com/) | 英文文章输入练习 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.typingclub.com"> | [TypingClub](https://www.typingclub.com/) | 打字键位练习 |
 
-## 社交
+## 社交&分享
 
 |  |  |  |
 | :----: | ---- | ---- |
@@ -95,7 +95,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.rottentomatoes.com"> | [Rotten Tomatoes](https://www.rottentomatoes.com/) | 烂番茄 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.themoviedb.org"> | [TMDB](https://www.themoviedb.org/) | 由社区建设的影剧资料库 |
 
-## 新奇
+## 众筹
 
 |  |  |  |
 | :----: | ---- | ---- |
