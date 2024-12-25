@@ -1,6 +1,6 @@
 ---
 weight: 25
-title: "RSS"
+title: "阅读"
 bookFlatSection: false
 bookCollapseSection: false
 bookHidden: false
@@ -17,7 +17,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/feedly.com"> | [Feedly](https://feedly.com/) | 在线 RSS 阅读器 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/theoldreader.com"> | [The Old Reader](https://theoldreader.com) | 在线 RSS 阅读器 |
 
-## 工具
+## 订阅
 
 |  |  |  |
 | :----: | ---- | ---- |
