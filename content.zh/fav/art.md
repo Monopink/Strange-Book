@@ -100,6 +100,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/muuuuu.org"> | [MUUUUU.ORG](https://muuuuu.org/) | 日本优秀设计网站集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/jamstackthemes.dev"> | [Themes & Templates](https://jamstackthemes.dev/) | 众多开源网站模板 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/html5up.net"> | [HTML5 UP](https://html5up.net/) | 包含 HTML 5 特性的网站模板集 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.404s.design"> | [404s](https://www.404s.design/) | 搜集各种有趣的 404 页面 |
 
 ## Mockup
 
