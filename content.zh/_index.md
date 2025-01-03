@@ -70,7 +70,7 @@ afterBodyCustom: |
     window.open("https://domainr.com/?q=" + keywordBox.value);
   }
   function whois() {
-    window.open("https://whois.domaintools.com/" + keywordBox.value);
+    window.open("https://html.zone/whois/" + keywordBox.value);
   }
   function cnicp() {
     window.open("https://www.icpapi.com/" + keywordBox.value);
