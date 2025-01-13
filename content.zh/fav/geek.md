@@ -17,7 +17,8 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/downdetector.com"> | [Downdetecotor](https://downdetector.com/) | 大平台故障和中断实时监控 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.whatsmyua.info"> | [What's my user agent?](https://www.whatsmyua.info/) | 浏览器 UA 查询 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/iknowwhatyoudownload.com"> | [I KNOW](https://iknowwhatyoudownload.com/) | 同 IP 下 BT 传输记录 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/html.zone"> | [I KNOW](https://html.zone/ip/) | 本机访问不同网站的 IP 查询 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/html.zone"> | [本机 IP 查询](https://html.zone/ip/) | 本机访问不同网站的 IP 查询 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/ip.sy"> | [IP溯源](https://ip.sy/) | IP 位置查询 |
 
 ## 转换
 
