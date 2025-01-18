@@ -59,6 +59,9 @@ afterBodyCustom: |
   function giphy() {
     window.open("https://giphy.com/search/" + keywordBox.value);
   }
+  function forvo() {
+    window.open("https://forvo.com/search/" + keywordBox.value + "/en/");
+  }
 
   function wayback() {
     window.open("https://web.archive.org/web/*/" + keywordBox.value);
@@ -167,6 +170,7 @@ afterBodyCustom: |
       <a href="#" class="book-btn" onclick="steamdb()" style="color: #0366d6;">SteamDB</a>
       <a href="#" class="book-btn" onclick="steam()" style="color: #1a9fff;">Steam</a>
       <a href="#" class="book-btn" onclick="giphy()" style="color: #9933ff;">GIPHY</a>
+      <a href="#" class="book-btn" onclick="forvo()" style="color: #0000ff;">Forvo</a>
     </p>
     <p>
       <a href="#" class="book-btn" onclick="wayback()" style="color: #d5383f;">IAWM</a>
