@@ -170,7 +170,7 @@ afterBodyCustom: |
       <a href="#" class="book-btn" onclick="steamdb()" style="color: #0366d6;">SteamDB</a>
       <a href="#" class="book-btn" onclick="steam()" style="color: #1a9fff;">Steam</a>
       <a href="#" class="book-btn" onclick="giphy()" style="color: #9933ff;">GIPHY</a>
-      <a href="#" class="book-btn" onclick="forvo()" style="color: #0000ff;">Forvo</a>
+      <a href="#" class="book-btn" onclick="forvo()" style="color: #4c4cff;">Forvo</a>
     </p>
     <p>
       <a href="#" class="book-btn" onclick="wayback()" style="color: #d5383f;">IAWM</a>
