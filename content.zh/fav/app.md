@@ -74,6 +74,7 @@ headCustom: |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [WSABuilds](https://github.com/MustardChef/WSABuilds) | 更好用全面的 WSA | {{< lists-svg "w" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/apps.microsoft.com"> | [WSA Toolbox](https://apps.microsoft.com/store/detail/9ppsp2mkvtgt) | WSA 工具箱 | {{< lists-svg "w" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.psytec.co.jp"> | [PsQREdit](https://www.psytec.co.jp/docomo.html) | QR 码屏幕扫描/生成工具 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="💔" src="https://www.rlvision.com/"> | [Snap2HTML](https://www.rlvision.com/snap2html/about.php)<span class="oldline">｜</span>[GitHub](https://github.com/rlv-dan/Snap2HTML) | 保存硬盘的目录结构为网页 | {{< lists-svg "w" >}} |
 
 ## 清理
 
