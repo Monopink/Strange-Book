@@ -16,7 +16,7 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.taobao.com"> | [淘宝](https://main.m.taobao.com/) | 淘宝移动版 ✅PWA |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.jd.com"> | [京东备件库](https://paipai.m.jd.com/bjk/) | 京东售后、破损商品销售 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.tmall.com"> | [造点新货](https://pages.tmall.com/wow/z/aliyu/zao-home/index) | 淘宝关联公司众筹平台 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/izhongchou.taobao.com"> | [造点新货](https://izhongchou.taobao.com) | 淘宝众筹 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.xiaomiyoupin.com"> | [小米有品众筹](https://m.xiaomiyoupin.com/w/crowdfundV3?_rt=weex&pageid=9433&sign=e50311198e28d0dff1c5d38d97ad1aee&pdl=jianyu&noDL=1) | 小米有品众筹 |
 
 ## 垂直电商
@@ -24,7 +24,7 @@ bookHidden: false
 |  |  |  |
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.iliangcang.com"> | [良仓](https://www.iliangcang.com/) | 设计不错的日用百货 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.modian.com"> | [摩点](https://www.modian.com/)<span class="oldline">｜</span>[摩点众筹](https://m.modian.com/project/list?category=all) | 文创商品 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.modian.com"> | [摩点](https://www.modian.com/)<span class="oldline">｜</span>[摩点众筹](https://zhongchou.modian.com/) | 文创商品 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/asset.duozhuayu.com"> | [多抓鱼](https://www.duozhuayu.com/) | 二手书等交易 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/h5.shuaishuaimai.com"> | [甩甩卖](http://h5.shuaishuaimai.com/#/) | 自营临期零食 ✅PWA |
 

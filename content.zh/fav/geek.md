@@ -47,6 +47,7 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [wipeclean](https://github.com/JeanJouliaCode/wipeClean) | 把你的终端「擦」干净 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [no-more-secrets](https://github.com/bartobri/no-more-secrets) | 终端代码解密效果 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) | 让终端看起来很忙 |
 
 ## 学习
 
