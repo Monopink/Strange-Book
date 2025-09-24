@@ -85,7 +85,8 @@ bookHidden: false
 | :----: | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.flickr.com"> | [Flickr](https://www.flickr.com/) | 图片社交平台 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/mastodon.social"> | [Mastodon](https://mastodon.social/) | 长毛象 分布式微博 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/yume.ly"> | [梦乡](https://yume.ly/) | 记录和分享梦境 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.snapmyfive.com"> | [Instafest](https://www.snapmyfive.com/) | 分析 Spotify 听歌记录 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.instafest.app"> | [Instafest](https://www.instafest.app) | 生成 Spotify 听歌海报 |
 
 ## 影剧点评
 

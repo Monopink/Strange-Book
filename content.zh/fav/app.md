@@ -94,6 +94,12 @@ headCustom: |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/twinkletray.com"> | [Twinkle Tray](https://twinkletray.com/)<span class="oldline">｜</span>[GitHub](https://github.com/xanderfrangos/twinkle-tray) | 系统中控制显示器参数 | {{< lists-svg "w" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)<span class="oldline">｜</span>[Microsoft Store](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435) | 自动切换亮/暗模式 | {{< lists-svg "w" >}} |
 
+## 系统
+
+|  |  |  |  |
+| :----: | ---- | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [Servy](https://github.com/aelassas/servy) | 将应用程序转为 Windows 服务运行 | {{< lists-svg "w" >}} |
+
 ## 传输
 
 |  |  |  |  |
@@ -119,5 +125,12 @@ headCustom: |
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/tabby.sh"> | [Tabby](https://tabby.sh/)<span class="oldline">｜</span>[Github](https://github.com/Eugeny/tabby/) | 精美的开源终端 XShell 的替代品 | {{< lists-svg "l" >}} |
+
+## 无用但有趣
+
+|  |  |  |  |
+| :----: | ---- | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/codeberg.org"> | [XPShadows](https://codeberg.org/ibulis/XPShadows)<span class="oldline"> | Windows 窗口重影效果 | {{< lists-svg "W" >}} |
+
 
 {{< lists-style >}}
