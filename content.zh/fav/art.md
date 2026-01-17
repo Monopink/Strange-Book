@@ -86,6 +86,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [资源黑体](https://github.com/CyanoHao/Resource-Han-Rounded) | 基于思源黑体制作的圆体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [未来荧黑](https://github.com/welai/glow-sans)<span class="oldline">｜</span>[调参工具](https://welai.github.io/glow-sans/#) | 基于思源黑体多字重可调宽度的黑体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic) | 基于 Iosevka 与思源黑体 适用于中英混合的编程字体 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [IoskeleyMono](https://github.com/ahatem/IoskeleyMono) | 编程字体，Berkeley Mono 的免费替代 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [LXGW](https://lxgw.github.io/)<span class="oldline">｜</span>[霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | 独立字体制作者｜开源楷体 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.maoken.com"> | [猫啃网](https://www.maoken.com/) | 免费商用字体集 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/3type.cn"> | [3type](https://3type.cn/)<span class="oldline">｜</span>[丁卯点阵体](https://3type.cn/fonts/dinkie_bitmap/index.html) | 国际化的字体公司  代表作：基本美术体、丁卯点阵体|

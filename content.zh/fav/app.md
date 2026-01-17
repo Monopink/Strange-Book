@@ -76,6 +76,7 @@ headCustom: |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/apps.microsoft.com"> | [WSA Toolbox](https://apps.microsoft.com/store/detail/9ppsp2mkvtgt) | WSA 工具箱 | {{< lists-svg "w" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.psytec.co.jp"> | [PsQREdit](https://www.psytec.co.jp/docomo.html) | QR 码屏幕扫描/生成工具 | {{< lists-svg "w" >}} |
 | <img loading="lazy" width="32px" alt="💔" src="https://www.rlvision.com/"> | [Snap2HTML](https://www.rlvision.com/snap2html/about.php)<span class="oldline">｜</span>[GitHub](https://github.com/rlv-dan/Snap2HTML) | 保存硬盘的目录结构为网页 | {{< lists-svg "w" >}} |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [iDescriptor](https://github.com/iDescriptor/iDescriptor)<span class="oldline"> | 开源 iPhone 管理工具 | {{< lists-svg "w" >}}{{< lists-svg "m" >}}{{< lists-svg "l" >}} |
 
 ## 清理
 
@@ -125,6 +126,7 @@ headCustom: |
 |  |  |  |  |
 | :----: | ---- | ---- | ---- |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/tabby.sh"> | [Tabby](https://tabby.sh/)<span class="oldline">｜</span>[Github](https://github.com/Eugeny/tabby/) | 精美的开源终端 XShell 的替代品 | {{< lists-svg "l" >}} |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/github.com"> | [filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs)<span class="oldline"> | 重写 Git 仓库历史记录 | N/A |
 
 ## 无用但有趣
 
