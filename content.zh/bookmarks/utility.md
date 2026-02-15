@@ -6,13 +6,6 @@ bookCollapseSection: false
 bookHidden: false
 ---
 
-## AI
-
-|  |  |  |
-| :----: | ---- | ---- |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/lmarena.ai"> | [Chatbot Arena](https://lmarena.ai/?leaderboard) | 对话 AI 排行 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/poe.com"> | [Poe](https://poe.com/) | 对话 AI 合集 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/chat.forefront.ai"> | [Forefront Chat](https://chat.forefront.ai/) | 对话 AI 合集 |
 
 ## 找东西
 
@@ -35,8 +28,8 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.allscrabblewords.com"> | [All Scrabble Words](http://www.allscrabblewords.com/) | 按特征找单词 |
 | <img loading="lazy" width="18px" alt="💔" src="https://favicon.im/www.anytexteditor.com"> | [AnyTextEditor](https://anytexteditor.com/) | 文字工具集合 英文为主 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/shenyandayi.com"> | [深言达意](https://www.shenyandayi.com/) | 根据描述找中英文词 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.shi-ci.com"> | [中华诗词](https://www.shi-ci.com/) | 收录了从先秦开始六万余首诗词 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/baka-invade.org"> | [笨他侵略字典](https://baka-invade.org/dict/search/?) | 侵略性词汇字典 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.xcz.im"> | [中国诗词数据库](http://www.xcz.im/library/) | 西窗烛的诗词数据库 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/baka-invade.org"> | [中國侵略資料庫](https://invade.tw/) | 中国侵略数据库 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/shapecatcher.com"> | [Shapecatcher](https://shapecatcher.com/) | 手绘查找字符 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.alanwood.net/unicode"> | [Egyptian Hieroglyphs](https://www.alanwood.net/unicode/egyptian-hieroglyphs.html) | 埃及象形文字 Unicode 字符 |
 
