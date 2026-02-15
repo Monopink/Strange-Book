@@ -21,6 +21,8 @@ bookHidden: false
 
 |  |  |  |
 | :----: | ---- | ---- |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/relay.firefox.com"> | [Firefox Relay](https://relay.firefox.com/accounts/profile/) | Firefox 邮件转发 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/app.adguard-mail.com"> | [AdGuard Mail](https://app.adguard-mail.com/ | AdGuard 邮件转发 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.staticflickr.com"> | [SimpleLogin](https://www.flickr.com/) | 邮件转发 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.sharklasers.com"> | [SharkLasers](https://www.sharklasers.com/) | 临时邮箱 |
 
