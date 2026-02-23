@@ -125,7 +125,7 @@ bookHidden: false
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.williamlong.info"> | [月光博客](http://www.williamlong.info/) | 月光博客：关注互联网和搜索引擎的IT科技博客 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/www.gaohaipeng.com"> | [高海鹏老师的博客](https://www.gaohaipeng.com) | 高海鹏老师的博客：一个热爱网络的小学教师 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/xuying.org"> | [阁楼](http://xuying.org) | 阁楼：我写作是为了光阴流逝使我心安 |
-| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/d2fan.com"> | [時間停止](https://d2fan.com/) | Frost 的博客 |
+| <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/frostming.com"> | [Frost's Blog](https://frostming.com/) | Frost 的博客 |
 | <img loading="lazy" width="32px" alt="💔" src="https://favicon.im/melodyfallen.github.io"> | [Melody Fallen](https://melodyfallen.github.io/) | 脑子一热建博客的结果 |
 
 ## 在线娱乐&游戏

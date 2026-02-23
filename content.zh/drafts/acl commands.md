@@ -10,7 +10,7 @@ bookHidden: false
 
 ## 安装软件
 
-1. Powersheel 输入：
+1. Powershell 输入：
 
 ```shell
 $cred = Get-Credential
